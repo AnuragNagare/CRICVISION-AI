@@ -1,0 +1,5 @@
+total_matches: 8087
+date_range: 2001-12-19 to 2025-10-04
+unique_venues: 476
+toss_win_rate: 50.88108602010182
+format_distribution: {'T20': 4751, 'ODI': 2478, 'Test': 858}

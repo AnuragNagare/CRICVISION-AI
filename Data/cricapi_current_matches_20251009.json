@@ -1,0 +1,777 @@
+{
+  "apikey": "da998a01-9b16-49af-8c6c-d8a26aef1181",
+  "data": [
+    {
+      "id": "5093c439-f53d-434a-a22a-733a503460a0",
+      "name": "Turkey Women vs Bulgaria Women, 2nd Match",
+      "matchType": "t20",
+      "status": "Turkey Women won by 56 runs",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T11:00:00",
+      "teams": [
+        "Turkey Women",
+        "Bulgaria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Turkey Women",
+          "shortname": "TKW",
+          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Turkey Women Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 7,
+          "o": 20,
+          "inning": "Bulgaria Women Inning 1"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d4250fff-457d-472f-94ca-80ccf1319d94",
+      "name": "Romania Women vs Austria Women, 1st Match",
+      "matchType": "t20",
+      "status": "Romania Women won by 5 runs (Match reduced to 10 overs per side due to rain)",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T07:00:00",
+      "teams": [
+        "Romania Women",
+        "Austria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria Women",
+          "shortname": "AUTW",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Romania Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 108,
+          "w": 2,
+          "o": 10,
+          "inning": "Romania Women Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 0,
+          "o": 10,
+          "inning": "Austria Women Inning 1"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "30b1e132-2b9a-4c6d-b74b-768555d8c74e",
+      "name": "Malaysia Women vs Nepal Women, 5th T20I",
+      "matchType": "t20",
+      "status": "Nepal Women won by 5 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T02:00:00",
+      "teams": [
+        "Malaysia Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 103,
+          "w": 7,
+          "o": 20,
+          "inning": "Malaysia Women Inning 1"
+        },
+        {
+          "r": 104,
+          "w": 5,
+          "o": 18,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "acef9e0b-51d6-4a28-b0ef-810dfe6100c8",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2d3062ca-b4e7-49b7-bb46-cff82ea832b3",
+      "name": "Border vs Northern Cape, 5th Match",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Border trail by 178 runs",
+      "venue": "Buffalo Park, East London",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T08:00:00",
+      "teams": [
+        "Border",
+        "Northern Cape"
+      ],
+      "teamInfo": [
+        {
+          "name": "Border",
+          "shortname": "BR",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Northern Cape",
+          "shortname": "NCAPE",
+          "img": "https://g.cricapi.com/iapi/61-637991981464151764.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 236,
+          "w": 10,
+          "o": 66.5,
+          "inning": "Northern Cape Inning 1"
+        },
+        {
+          "r": 58,
+          "w": 1,
+          "o": 24,
+          "inning": "Border Inning 1"
+        }
+      ],
+      "series_id": "e7a279a7-a04b-4b47-8e70-551ccf3e620d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "11008c20-edad-4b11-8644-37638dda2e97",
+      "name": "Dolphins vs Lions, 8th Match",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Lions trail by 160 runs",
+      "venue": "Kingsmead, Durban",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T07:00:00",
+      "teams": [
+        "Dolphins",
+        "Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dolphins",
+          "shortname": "DOL",
+          "img": "https://g.cricapi.com/iapi/20-637993514627926036.webp?w=48"
+        },
+        {
+          "name": "Lions",
+          "shortname": "LIONS",
+          "img": "https://g.cricapi.com/iapi/43-638016114998237773.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 389,
+          "w": 10,
+          "o": 119,
+          "inning": "Dolphins Inning 1"
+        },
+        {
+          "r": 229,
+          "w": 5,
+          "o": 75,
+          "inning": "Lions Inning 1"
+        }
+      ],
+      "series_id": "cd7b042c-8de3-49c6-a000-b082e2d4508d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "ee3566ce-adf1-4c4a-a5ba-417389aec376",
+      "name": "Afghanistan vs Bangladesh, 1st ODI",
+      "matchType": "odi",
+      "status": "Afghanistan won by 5 wkts",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T10:00:00",
+      "teams": [
+        "Afghanistan",
+        "Bangladesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 221,
+          "w": 10,
+          "o": 48.5,
+          "inning": "Bangladesh Inning 1"
+        },
+        {
+          "r": 226,
+          "w": 5,
+          "o": 47.1,
+          "inning": "Afghanistan Inning 1"
+        }
+      ],
+      "series_id": "d071865e-9745-4329-984c-44a5cb461c77",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b26a8296-1834-4bcc-b9aa-c6bbecfe6d4c",
+      "name": "Western Australia vs New South Wales, 9th Match",
+      "matchType": "odi",
+      "status": "New South Wales won by 87 runs",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T06:00:00",
+      "teams": [
+        "Western Australia",
+        "New South Wales"
+      ],
+      "teamInfo": [
+        {
+          "name": "New South Wales",
+          "shortname": "NSW",
+          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
+        },
+        {
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 331,
+          "w": 10,
+          "o": 50,
+          "inning": "New South Wales Inning 1"
+        },
+        {
+          "r": 244,
+          "w": 10,
+          "o": 46.5,
+          "inning": "Western Australia Inning 1"
+        }
+      ],
+      "series_id": "6936514f-3840-49cc-98f7-bf47813182f8",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7dc5baf1-9020-41a0-ba19-c42d543caa87",
+      "name": "Queensland vs Tasmania, 7th Match",
+      "matchType": "odi",
+      "status": "Tasmania won by 5 wkts",
+      "venue": "Allan Border Field, Brisbane",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T00:00:00",
+      "teams": [
+        "Queensland",
+        "Tasmania"
+      ],
+      "teamInfo": [
+        {
+          "name": "Queensland",
+          "shortname": "QL",
+          "img": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=48"
+        },
+        {
+          "name": "Tasmania",
+          "shortname": "TAS",
+          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 311,
+          "w": 10,
+          "o": 45.3,
+          "inning": "Queensland Inning 1"
+        },
+        {
+          "r": 317,
+          "w": 5,
+          "o": 48.2,
+          "inning": "Tasmania Inning 1"
+        }
+      ],
+      "series_id": "6936514f-3840-49cc-98f7-bf47813182f8",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e2d00abd-3524-4620-acd3-fa0c7e2d55b3",
+      "name": "South Australia vs Victoria, 8th Match",
+      "matchType": "odi",
+      "status": "South Australia won by 79 runs",
+      "venue": "Adelaide Oval, Adelaide",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T23:30:00",
+      "teams": [
+        "South Australia",
+        "Victoria"
+      ],
+      "teamInfo": [
+        {
+          "name": "South Australia",
+          "shortname": "SAUS",
+          "img": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=48"
+        },
+        {
+          "name": "Victoria",
+          "shortname": "VIC",
+          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 273,
+          "w": 8,
+          "o": 50,
+          "inning": "South Australia Inning 1"
+        },
+        {
+          "r": 194,
+          "w": 10,
+          "o": 44.1,
+          "inning": "Victoria Inning 1"
+        }
+      ],
+      "series_id": "6936514f-3840-49cc-98f7-bf47813182f8",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "28be340b-a202-4a44-9c06-9bec9bdb40d7",
+      "name": "Papua New Guinea vs Samoa, 6th Match, Group 3",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T15:00:00",
+      "teams": [
+        "Papua New Guinea",
+        "Samoa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        },
+        {
+          "name": "Samoa",
+          "shortname": "SAMOA",
+          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 117,
+          "w": 10,
+          "o": 20,
+          "inning": "Papua New Guinea Inning 1"
+        }
+      ],
+      "series_id": "5384720c-b4d9-4524-b6cf-ed15470bbaaf",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "c1119141-31e1-4d41-bc70-bf1186c578af",
+      "name": "Kuwait vs Japan, 5th Match, Group 2",
+      "matchType": "t20",
+      "status": "Japan won by 5 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T10:30:00",
+      "teams": [
+        "Kuwait",
+        "Japan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Japan",
+          "shortname": "JPN",
+          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
+        },
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 177,
+          "w": 6,
+          "o": 20,
+          "inning": "Kuwait Inning 1"
+        },
+        {
+          "r": 178,
+          "w": 5,
+          "o": 19.3,
+          "inning": "Japan Inning 1"
+        }
+      ],
+      "series_id": "5384720c-b4d9-4524-b6cf-ed15470bbaaf",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ccb9c74e-34ac-4a00-bd26-2ec82dbf174b",
+      "name": "Malaysia vs Qatar, 4th Match, Group 1",
+      "matchType": "t20",
+      "status": "Qatar won by 8 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T06:00:00",
+      "teams": [
+        "Malaysia",
+        "Qatar"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        },
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 123,
+          "w": 9,
+          "o": 20,
+          "inning": "Malaysia Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 2,
+          "o": 17.1,
+          "inning": "Qatar Inning 1"
+        }
+      ],
+      "series_id": "5384720c-b4d9-4524-b6cf-ed15470bbaaf",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d0e8e3c1-8733-4b54-9f5b-221bfccf2433",
+      "name": "Nepal vs Kuwait, 3rd Match, Group 2",
+      "matchType": "t20",
+      "status": "Nepal won by 58 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T15:00:00",
+      "teams": [
+        "Nepal",
+        "Kuwait"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        },
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 7,
+          "o": 20,
+          "inning": "Nepal Inning 1"
+        },
+        {
+          "r": 83,
+          "w": 10,
+          "o": 18.1,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "5384720c-b4d9-4524-b6cf-ed15470bbaaf",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fba99765-b7c7-4039-aca6-fb197a94835d",
+      "name": "United Arab Emirates vs Qatar, 2nd Match, Group 1",
+      "matchType": "t20",
+      "status": "United Arab Emirates won by 7 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T10:30:00",
+      "teams": [
+        "United Arab Emirates",
+        "Qatar"
+      ],
+      "teamInfo": [
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 118,
+          "w": 8,
+          "o": 20,
+          "inning": "Qatar Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 3,
+          "o": 18.3,
+          "inning": "United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "5384720c-b4d9-4524-b6cf-ed15470bbaaf",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c846f35d-de4f-4351-a84e-93b69f17e37f",
+      "name": "Oman vs Samoa, 1st Match, Group 3",
+      "matchType": "t20",
+      "status": "Oman won by 5 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T06:00:00",
+      "teams": [
+        "Oman",
+        "Samoa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        },
+        {
+          "name": "Samoa",
+          "shortname": "SAMOA",
+          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 92,
+          "w": 9,
+          "o": 20,
+          "inning": "Samoa Inning 1"
+        },
+        {
+          "r": 96,
+          "w": 5,
+          "o": 17,
+          "inning": "Oman Inning 1"
+        }
+      ],
+      "series_id": "5384720c-b4d9-4524-b6cf-ed15470bbaaf",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6905260b-fedb-400c-b124-f26a1a3a4527",
+      "name": "India Women vs South Africa Women, 10th Match",
+      "matchType": "odi",
+      "status": "South Africa Women need 125 runs",
+      "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T09:30:00",
+      "teams": [
+        "India Women",
+        "South Africa Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 251,
+          "w": 10,
+          "o": 49.5,
+          "inning": "India Women Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 5,
+          "o": 32.4,
+          "inning": "South Africa Women Inning 1"
+        }
+      ],
+      "series_id": "717b1480-4806-4423-805d-a6b0c379d788",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "e304642b-140b-4a07-a906-e2306a82bb22",
+      "name": "Australia Women vs Pakistan Women, 9th Match",
+      "matchType": "odi",
+      "status": "Australia Women won by 107 runs",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T09:30:00",
+      "teams": [
+        "Australia Women",
+        "Pakistan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 221,
+          "w": 9,
+          "o": 50,
+          "inning": "Australia Women Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 10,
+          "o": 36.3,
+          "inning": "Pakistan Women Inning 1"
+        }
+      ],
+      "series_id": "717b1480-4806-4423-805d-a6b0c379d788",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 1,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 20,
+    "offsetRows": 0,
+    "totalRows": 17,
+    "queryTime": 37.7725,
+    "s": 0,
+    "cache": 0
+  }
+}

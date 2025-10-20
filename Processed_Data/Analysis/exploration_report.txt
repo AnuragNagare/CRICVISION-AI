@@ -1,0 +1,54 @@
+======================================================================
+CRICKET DATA EXPLORATION REPORT
+======================================================================
+
+Analysis Date: 2025-10-13 14:13:45
+Data Directory: D:\Git hub project\New folder\Processed_Data
+Analysis Directory: D:\Git hub project\New folder\Processed_Data\Analysis
+
+DATASETS ANALYZED:
+  • Total Datasets: 30
+
+  • BBL_ball_by_ball: 143,323 rows
+  • BBL_batting_innings: 9,606 rows
+  • BBL_bowling_innings: 7,279 rows
+  • BBL_matches: 618 rows
+  • BBL_partnerships: 8,559 rows
+  • BBL_players: 13,644 rows
+  • IPL_ball_by_ball: 278,205 rows
+  • IPL_batting_innings: 17,708 rows
+  • IPL_bowling_innings: 13,878 rows
+  • IPL_matches: 1,169 rows
+  • IPL_partnerships: 15,689 rows
+  • IPL_players: 26,137 rows
+  • ODIs_ball_by_ball: 1,314,002 rows
+  • ODIs_batting_innings: 43,204 rows
+  • ODIs_bowling_innings: 29,690 rows
+  • ODIs_matches: 2,478 rows
+  • ODIs_partnerships: 38,774 rows
+  • ODIs_players: 54,626 rows
+  • T20s_ball_by_ball: 670,092 rows
+  • T20s_batting_innings: 47,597 rows
+  • T20s_bowling_innings: 35,208 rows
+  • T20s_matches: 2,964 rows
+  • T20s_partnerships: 42,332 rows
+  • T20s_players: 65,214 rows
+  • Tests_ball_by_ball: 1,657,963 rows
+  • Tests_batting_innings: 31,325 rows
+  • Tests_bowling_innings: 16,890 rows
+  • Tests_matches: 858 rows
+  • Tests_partnerships: 28,269 rows
+  • Tests_players: 18,898 rows
+
+FILES GENERATED:
+  • CSV Reports: dataset_overview.csv, top_batters.csv, top_bowlers.csv
+  • Visualizations: 9 PNG charts
+  • AI Opportunities: ai_opportunities.txt
+
+NEXT STEPS:
+  1. Review generated visualizations in Analysis folder
+  2. Study top_batters.csv and top_bowlers.csv for insights
+  3. Review ai_opportunities.txt for ML use cases
+  4. Proceed to Phase 2: Feature Engineering
+
+======================================================================

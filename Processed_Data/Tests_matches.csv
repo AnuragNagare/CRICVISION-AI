@@ -1,0 +1,859 @@
+match_id,match_type,season,venue,city,date,gender,overs,balls_per_over,player_of_match,toss_winner,toss_decision,match_winner,result_type,result_margin,umpire_1,umpire_2,team_1,team_2
+1,Test,2016/17,Western Australia Cricket Association Ground,Perth,2016-11-03,male,0,6,K Rabada,South Africa,bat,South Africa,177,177,unknown,unknown,Australia,South Africa
+2,Test,2016/17,Bellerive Oval,Hobart,2016-11-12,male,0,6,KJ Abbott,South Africa,field,South Africa,80,1,unknown,unknown,Australia,South Africa
+3,Test,2016/17,Adelaide Oval,unknown,2016-11-24,male,0,6,UT Khawaja,South Africa,bat,Australia,7,7,unknown,unknown,Australia,South Africa
+1,Test,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2016-12-15,male,0,6,Asad Shafiq,Australia,bat,Australia,39,39,unknown,unknown,Australia,Pakistan
+2,Test,2016/17,Melbourne Cricket Ground,unknown,2016-12-26,male,0,6,SPD Smith,Pakistan,bat,Australia,18,1,unknown,unknown,Australia,Pakistan
+3,Test,2016/17,Sydney Cricket Ground,unknown,2017-01-03,male,0,6,DA Warner,Australia,bat,Australia,220,220,unknown,unknown,Australia,Pakistan
+1,Test,2016/17,Basin Reserve,Wellington,2017-01-12,male,0,6,TWM Latham,New Zealand,field,New Zealand,7,7,unknown,unknown,New Zealand,Bangladesh
+2,Test,2016/17,Hagley Oval,Christchurch,2017-01-20,male,0,6,TG Southee,New Zealand,field,New Zealand,9,9,unknown,unknown,New Zealand,Bangladesh
+1,Test,2016/17,Hagley Oval,Christchurch,2016-11-17,male,0,6,C de Grandhomme,New Zealand,field,New Zealand,8,8,unknown,unknown,New Zealand,Pakistan
+2,Test,2016/17,Seddon Park,Hamilton,2016-11-25,male,0,6,TG Southee,Pakistan,field,New Zealand,138,138,unknown,unknown,New Zealand,Pakistan
+1,Test,2016/17,University Oval,Dunedin,2017-03-08,male,0,6,D Elgar,South Africa,bat,unknown,unknown,0,unknown,unknown,New Zealand,South Africa
+2,Test,2016/17,Basin Reserve,Wellington,2017-03-16,male,0,6,KA Maharaj,South Africa,field,South Africa,8,8,unknown,unknown,New Zealand,South Africa
+3,Test,2016/17,Seddon Park,Hamilton,2017-03-25,male,0,6,KS Williamson,South Africa,bat,unknown,unknown,0,unknown,unknown,New Zealand,South Africa
+1,Test,2016,"Sir Vivian Richards Stadium, North Sound",Antigua,2016-07-21,male,0,6,R Ashwin,India,bat,India,92,1,unknown,unknown,West Indies,India
+2,Test,2016,"Sabina Park, Kingston",Jamaica,2016-07-30,male,0,6,RL Chase,West Indies,bat,unknown,unknown,0,unknown,unknown,West Indies,India
+3,Test,2016,"Darren Sammy National Cricket Stadium, Gros Islet",St Lucia,2016-08-09,male,0,6,R Ashwin,West Indies,field,India,237,237,unknown,unknown,West Indies,India
+4,Test,2016,"Queen's Park Oval, Port of Spain",Trinidad,2016-08-18,male,0,6,,West Indies,bat,unknown,unknown,0,unknown,unknown,West Indies,India
+1,Test,2016,Queens Sports Club,Bulawayo,2016-07-28,male,0,6,LRPL Taylor,Zimbabwe,bat,New Zealand,117,1,unknown,unknown,Zimbabwe,New Zealand
+2,Test,2016,Queens Sports Club,Bulawayo,2016-08-06,male,0,6,KS Williamson,New Zealand,bat,New Zealand,254,254,unknown,unknown,Zimbabwe,New Zealand
+1,Test,2016/17,Zahur Ahmed Chowdhury Stadium,Chittagong,2016-10-20,male,0,6,BA Stokes,England,bat,England,22,22,unknown,unknown,Bangladesh,England
+2,Test,2016/17,Shere Bangla National Stadium,Mirpur,2016-10-28,male,0,6,Mehedi Hasan Miraz,Bangladesh,bat,Bangladesh,108,108,unknown,unknown,Bangladesh,England
+1,Test,2016/17,Green Park,Kanpur,2016-09-22,male,0,6,RA Jadeja,India,bat,India,197,197,unknown,unknown,India,New Zealand
+2,Test,2016/17,Eden Gardens,Kolkata,2016-09-30,male,0,6,WP Saha,India,bat,India,178,178,unknown,unknown,India,New Zealand
+3,Test,2016/17,Holkar Cricket Stadium,Indore,2016-10-08,male,0,6,R Ashwin,India,bat,India,321,321,unknown,unknown,India,New Zealand
+1,Test,2017,Lord's,London,2017-07-06,male,0,6,MM Ali,England,bat,England,211,211,unknown,unknown,England,South Africa
+2,Test,2017,Trent Bridge,Nottingham,2017-07-14,male,0,6,VD Philander,South Africa,bat,South Africa,340,340,unknown,unknown,South Africa,England
+3,Test,2017,Kennington Oval,London,2017-07-27,male,0,6,BA Stokes,England,bat,England,239,239,unknown,unknown,England,South Africa
+4,Test,2017,Old Trafford,Manchester,2017-08-04,male,0,6,MM Ali,England,bat,England,177,177,unknown,unknown,England,South Africa
+1,Test,2017,Edgbaston,Birmingham,2017-08-17,male,0,6,AN Cook,England,bat,England,209,1,unknown,unknown,England,West Indies
+2,Test,2017,Headingley,Leeds,2017-08-25,male,0,6,SD Hope,England,bat,West Indies,5,5,unknown,unknown,England,West Indies
+3,Test,2017,Lord's,London,2017-09-07,male,0,6,BA Stokes,West Indies,bat,England,9,9,unknown,unknown,West Indies,England
+1,Test,2016/17,Saurashtra Cricket Association Stadium,Rajkot,2016-11-09,male,0,6,MM Ali,England,bat,unknown,unknown,0,unknown,unknown,India,England
+2,Test,2016/17,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,2016-11-17,male,0,6,V Kohli,India,bat,India,246,246,unknown,unknown,India,England
+3,Test,2016/17,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,2016-11-26,male,0,6,RA Jadeja,England,bat,India,8,8,unknown,unknown,India,England
+4,Test,2016/17,Wankhede Stadium,Mumbai,2016-12-08,male,0,6,V Kohli,England,bat,India,36,1,unknown,unknown,India,England
+5,Test,2016/17,"MA Chidambaram Stadium, Chepauk",Chennai,2016-12-16,male,0,6,KK Nair,England,bat,India,75,1,unknown,unknown,India,England
+unknown,Test,2016/17,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2017-02-09,male,0,6,V Kohli,India,bat,India,208,208,unknown,unknown,India,Bangladesh
+1,Test,2016/17,Dubai International Cricket Stadium,unknown,2016-10-13,male,0,6,Azhar Ali,Pakistan,bat,Pakistan,56,56,unknown,unknown,Pakistan,West Indies
+2,Test,2016/17,Sheikh Zayed Stadium,Abu Dhabi,2016-10-21,male,0,6,Yasir Shah,Pakistan,bat,Pakistan,133,133,unknown,unknown,Pakistan,West Indies
+3,Test,2016/17,Sharjah Cricket Stadium,unknown,2016-10-30,male,0,6,KC Brathwaite,Pakistan,bat,West Indies,5,5,unknown,unknown,Pakistan,West Indies
+1,Test,2016/17,Harare Sports Club,unknown,2016-10-29,male,0,6,AG Cremer,Sri Lanka,bat,Sri Lanka,225,225,unknown,unknown,Zimbabwe,Sri Lanka
+2,Test,2016/17,Harare Sports Club,unknown,2016-11-06,male,0,6,HMRKB Herath,Zimbabwe,field,Sri Lanka,257,257,unknown,unknown,Zimbabwe,Sri Lanka
+1,Test,2016/17,Maharashtra Cricket Association Stadium,Pune,2017-02-23,male,0,6,SNJ O'Keefe,Australia,bat,Australia,333,333,unknown,unknown,India,Australia
+2,Test,2016/17,M Chinnaswamy Stadium,Bengaluru,2017-03-04,male,0,6,KL Rahul,India,bat,India,75,75,unknown,unknown,India,Australia
+3,Test,2016/17,JSCA International Stadium Complex,Ranchi,2017-03-16,male,0,6,CA Pujara,Australia,bat,unknown,unknown,0,unknown,unknown,India,Australia
+4,Test,2016/17,Himachal Pradesh Cricket Association Stadium,Dharamsala,2017-03-25,male,0,6,RA Jadeja,Australia,bat,India,8,8,unknown,unknown,India,Australia
+1,Test,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-11-23,male,0,6,SPD Smith,England,bat,Australia,10,10,unknown,unknown,England,Australia
+2,Test,2017/18,Adelaide Oval,unknown,2017-12-02,male,0,6,SE Marsh,England,field,Australia,120,120,unknown,unknown,Australia,England
+3,Test,2017/18,W.A.C.A. Ground,Perth,2017-12-14,male,0,6,SPD Smith,England,bat,Australia,41,1,unknown,unknown,England,Australia
+4,Test,2017/18,Melbourne Cricket Ground,unknown,2017-12-26,male,0,6,AN Cook,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,England
+5,Test,2017/18,Sydney Cricket Ground,unknown,2018-01-04,male,0,6,PJ Cummins,England,bat,Australia,123,1,unknown,unknown,England,Australia
+1,Test,2017/18,Senwes Park,Potchefstroom,2017-09-28,male,0,6,D Elgar,Bangladesh,field,South Africa,333,333,unknown,unknown,South Africa,Bangladesh
+2,Test,2017/18,Mangaung Oval,Bloemfontein,2017-10-06,male,0,6,K Rabada,Bangladesh,field,South Africa,254,1,unknown,unknown,South Africa,Bangladesh
+1,Test,2017/18,Kingsmead,Durban,2018-03-01,male,0,6,MA Starc,Australia,bat,Australia,118,118,unknown,unknown,Australia,South Africa
+2,Test,2017/18,St George's Park,Port Elizabeth,2018-03-09,male,0,6,K Rabada,Australia,bat,South Africa,6,6,unknown,unknown,Australia,South Africa
+3,Test,2017/18,Newlands,Cape Town,2018-03-22,male,0,6,M Morkel,South Africa,bat,South Africa,322,322,unknown,unknown,South Africa,Australia
+4,Test,2017/18,The Wanderers Stadium,Johannesburg,2018-03-30,male,0,6,VD Philander,South Africa,bat,South Africa,492,492,unknown,unknown,South Africa,Australia
+1,Test,2017,"Sabina Park, Kingston",Jamaica,2017-04-21,male,0,6,Yasir Shah,Pakistan,field,Pakistan,7,7,unknown,unknown,West Indies,Pakistan
+2,Test,2017,"Kensington Oval, Bridgetown",Barbados,2017-04-30,male,0,6,ST Gabriel,West Indies,bat,West Indies,106,106,unknown,unknown,West Indies,Pakistan
+3,Test,2017,"Windsor Park, Roseau",Dominica,2017-05-10,male,0,6,RL Chase,West Indies,field,Pakistan,101,101,unknown,unknown,West Indies,Pakistan
+1,Test,2016/17,Galle International Stadium,unknown,2017-03-07,male,0,6,BKG Mendis,Sri Lanka,bat,Sri Lanka,259,259,unknown,unknown,Sri Lanka,Bangladesh
+2,Test,2016/17,P Sara Oval,Colombo,2017-03-15,male,0,6,Tamim Iqbal,Sri Lanka,bat,Bangladesh,4,4,unknown,unknown,Sri Lanka,Bangladesh
+1,Test,2017,"Shere Bangla National Stadium, Mirpur",Dhaka,2017-08-27,male,0,6,Shakib Al Hasan,Bangladesh,bat,Bangladesh,20,20,unknown,unknown,Bangladesh,Australia
+2,Test,2017,Zahur Ahmed Chowdhury Stadium,Chattogram,2017-09-04,male,0,6,NM Lyon,Bangladesh,bat,Australia,7,7,unknown,unknown,Bangladesh,Australia
+unknown,Test,2017,"R.Premadasa Stadium, Khettarama",Colombo,2017-07-14,male,0,6,DAS Gunaratne,Zimbabwe,bat,Sri Lanka,4,4,unknown,unknown,Zimbabwe,Sri Lanka
+1,Test,2017,Galle International Stadium,unknown,2017-07-26,male,0,6,S Dhawan,India,bat,India,304,304,unknown,unknown,India,Sri Lanka
+2,Test,2017,Sinhalese Sports Club Ground,Colombo,2017-08-03,male,0,6,RA Jadeja,India,bat,India,53,1,unknown,unknown,India,Sri Lanka
+3,Test,2017,Pallekele International Cricket Stadium,unknown,2017-08-12,male,0,6,HH Pandya,India,bat,India,171,1,unknown,unknown,India,Sri Lanka
+1,Test,2017/18,Eden Park,Auckland,2018-03-22,male,0,6,TA Boult,New Zealand,field,New Zealand,49,1,unknown,unknown,England,New Zealand
+2,Test,2017/18,Hagley Oval,Christchurch,2018-03-30,male,0,6,TG Southee,New Zealand,field,unknown,unknown,0,unknown,unknown,England,New Zealand
+1,Test,2017/18,Basin Reserve,Wellington,2017-12-01,male,0,6,N Wagner,New Zealand,field,New Zealand,67,1,unknown,unknown,West Indies,New Zealand
+2,Test,2017/18,Seddon Park,Hamilton,2017-12-09,male,0,6,LRPL Taylor,West Indies,field,New Zealand,240,240,unknown,unknown,New Zealand,West Indies
+1,Test,2018,Lord's,London,2018-05-24,male,0,6,Mohammad Abbas,England,bat,Pakistan,9,9,unknown,unknown,England,Pakistan
+2,Test,2018,Headingley,Leeds,2018-06-01,male,0,6,JC Buttler,Pakistan,bat,England,55,1,unknown,unknown,Pakistan,England
+1,Test,2018,Edgbaston,Birmingham,2018-08-01,male,0,6,SM Curran,England,bat,England,31,31,unknown,unknown,England,India
+2,Test,2018,Lord's,London,2018-08-09,male,0,6,CR Woakes,England,field,England,159,1,unknown,unknown,India,England
+3,Test,2018,Trent Bridge,Nottingham,2018-08-18,male,0,6,V Kohli,England,field,India,203,203,unknown,unknown,India,England
+4,Test,2018,The Rose Bowl,Southampton,2018-08-30,male,0,6,MM Ali,England,bat,England,60,60,unknown,unknown,England,India
+5,Test,2018,Kennington Oval,London,2018-09-07,male,0,6,AN Cook,England,bat,England,118,118,unknown,unknown,England,India
+1,Test,2017/18,Sheikh Zayed Stadium,Abu Dhabi,2017-09-28,male,0,6,HMRKB Herath,Sri Lanka,bat,Sri Lanka,21,21,unknown,unknown,Sri Lanka,Pakistan
+2,Test,2017/18,Dubai International Cricket Stadium,unknown,2017-10-06,male,0,6,FDM Karunaratne,Sri Lanka,bat,Sri Lanka,68,68,unknown,unknown,Sri Lanka,Pakistan
+1,Test,2017/18,Newlands,Cape Town,2018-01-05,male,0,6,VD Philander,South Africa,bat,South Africa,72,72,unknown,unknown,South Africa,India
+2,Test,2017/18,SuperSport Park,Centurion,2018-01-13,male,0,6,L Ngidi,South Africa,bat,South Africa,135,135,unknown,unknown,South Africa,India
+3,Test,2017/18,The Wanderers Stadium,Johannesburg,2018-01-24,male,0,6,B Kumar,India,bat,India,63,63,unknown,unknown,India,South Africa
+unknown,Test,2017/18,"St George's Park, Port Elizabeth",Port Elizabeth,2017-12-26,male,0,6,AK Markram,South Africa,bat,South Africa,120,1,unknown,unknown,South Africa,Zimbabwe
+1,Test,2017/18,Eden Gardens,Kolkata,2017-11-16,male,0,6,B Kumar,Sri Lanka,field,unknown,unknown,0,unknown,unknown,India,Sri Lanka
+2,Test,2017/18,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2017-11-24,male,0,6,V Kohli,Sri Lanka,bat,India,239,1,unknown,unknown,Sri Lanka,India
+3,Test,2017/18,Arun Jaitley Stadium,Delhi,2017-12-02,male,0,6,V Kohli,India,bat,unknown,unknown,0,unknown,unknown,India,Sri Lanka
+1,Test,2017/18,Queens Sports Club,Bulawayo,2017-10-21,male,0,6,D Bishoo,West Indies,bat,West Indies,117,117,unknown,unknown,West Indies,Zimbabwe
+2,Test,2017/18,Queens Sports Club,Bulawayo,2017-10-29,male,0,6,Sikandar Raza,Zimbabwe,bat,unknown,unknown,0,unknown,unknown,Zimbabwe,West Indies
+unknown,Test,2018,"The Village, Malahide",Dublin,2018-05-11,male,0,6,KJ O'Brien,Ireland,field,Pakistan,5,5,unknown,unknown,Ireland,Pakistan
+1,Test,2017/18,Zahur Ahmed Chowdhury Stadium,Chattogram,2018-01-31,male,0,6,Mominul Haque,Bangladesh,bat,unknown,unknown,0,unknown,unknown,Bangladesh,Sri Lanka
+2,Test,2017/18,"Shere Bangla National Stadium, Mirpur",Dhaka,2018-02-08,male,0,6,ARS Silva,Sri Lanka,bat,Sri Lanka,215,215,unknown,unknown,Sri Lanka,Bangladesh
+1,Test,2018,"Queen's Park Oval, Port of Spain",Trinidad,2018-06-06,male,0,6,SO Dowrich,West Indies,bat,West Indies,226,226,unknown,unknown,West Indies,Sri Lanka
+2,Test,2018,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,2018-06-14,male,0,6,ST Gabriel,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,West Indies
+3,Test,2018,"Kensington Oval, Bridgetown",Barbados,2018-06-23,male,0,6,JO Holder,West Indies,bat,Sri Lanka,4,4,unknown,unknown,West Indies,Sri Lanka
+1,Test,2018/19,Galle International Stadium,unknown,2018-11-06,male,0,6,BT Foakes,England,bat,England,211,211,unknown,unknown,England,Sri Lanka
+2,Test,2018/19,Pallekele International Cricket Stadium,unknown,2018-11-14,male,0,6,JE Root,England,bat,England,57,57,unknown,unknown,England,Sri Lanka
+3,Test,2018/19,Sinhalese Sports Club Ground,Colombo,2018-11-23,male,0,6,JM Bairstow,England,bat,England,42,42,unknown,unknown,England,Sri Lanka
+1,Test,2018,Galle International Stadium,unknown,2018-07-12,male,0,6,FDM Karunaratne,Sri Lanka,bat,Sri Lanka,278,278,unknown,unknown,Sri Lanka,South Africa
+2,Test,2018,Sinhalese Sports Club Ground,Colombo,2018-07-20,male,0,6,FDM Karunaratne,Sri Lanka,bat,Sri Lanka,199,199,unknown,unknown,Sri Lanka,South Africa
+1,Test,2018/19,SuperSport Park,Centurion,2018-12-26,male,0,6,D Olivier,Pakistan,bat,South Africa,6,6,unknown,unknown,South Africa,Pakistan
+2,Test,2018/19,Newlands,Cape Town,2019-01-03,male,0,6,F du Plessis,South Africa,field,South Africa,9,9,unknown,unknown,South Africa,Pakistan
+3,Test,2018/19,The Wanderers Stadium,Johannesburg,2019-01-11,male,0,6,Q de Kock,South Africa,bat,South Africa,107,107,unknown,unknown,South Africa,Pakistan
+1,Test,2018/19,Kingsmead,Durban,2019-02-13,male,0,6,MDKJ Perera,Sri Lanka,field,Sri Lanka,1,1,unknown,unknown,South Africa,Sri Lanka
+2,Test,2018/19,St George's Park,Port Elizabeth,2019-02-21,male,0,6,BKG Mendis,South Africa,bat,Sri Lanka,8,8,unknown,unknown,South Africa,Sri Lanka
+1,Test,2018/19,Adelaide Oval,unknown,2018-12-06,male,0,6,CA Pujara,India,bat,India,31,31,unknown,unknown,India,Australia
+2,Test,2018/19,Perth Stadium,unknown,2018-12-14,male,0,6,NM Lyon,Australia,bat,Australia,146,146,unknown,unknown,Australia,India
+3,Test,2018/19,Melbourne Cricket Ground,Melbourne,2018-12-26,male,0,6,JJ Bumrah,India,bat,India,137,137,unknown,unknown,Australia,India
+4,Test,2018/19,Sydney Cricket Ground,Sydney,2019-01-03,male,0,6,CA Pujara,India,bat,unknown,unknown,0,unknown,unknown,Australia,India
+1,Test,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-01-24,male,0,6,PJ Cummins,Sri Lanka,bat,Australia,40,1,unknown,unknown,Australia,Sri Lanka
+2,Test,2018/19,Manuka Oval,Canberra,2019-02-01,male,0,6,MA Starc,Australia,bat,Australia,366,366,unknown,unknown,Australia,Sri Lanka
+1,Test,2018,Sir Vivian Richards Stadium,North Sound,2018-07-04,male,0,6,KAJ Roach,West Indies,field,West Indies,219,1,unknown,unknown,Bangladesh,West Indies
+2,Test,2018,"Sabina Park, Kingston",Jamaica,2018-07-12,male,0,6,JO Holder,Bangladesh,field,West Indies,166,166,unknown,unknown,West Indies,Bangladesh
+unknown,Test,2019,Lord's,London,2019-07-24,male,0,6,MJ Leach,England,bat,England,143,143,unknown,unknown,England,Ireland
+1,Test,2019,Edgbaston,Birmingham,2019-08-01,male,0,6,SPD Smith,Australia,bat,Australia,251,251,unknown,unknown,England,Australia
+2,Test,2019,Lord's,London,2019-08-14,male,0,6,BA Stokes,Australia,field,unknown,unknown,0,unknown,unknown,England,Australia
+3,Test,2019,Headingley,Leeds,2019-08-22,male,0,6,BA Stokes,England,field,England,1,1,unknown,unknown,England,Australia
+4,Test,2019,Old Trafford,Manchester,2019-09-04,male,0,6,SPD Smith,Australia,bat,Australia,185,185,unknown,unknown,England,Australia
+5,Test,2019,Kennington Oval,London,2019-09-12,male,0,6,JC Archer,Australia,field,England,135,135,unknown,unknown,England,Australia
+1,Test,2018/19,Zahur Ahmed Chowdhury Stadium,Chattogram,2018-11-22,male,0,6,Mominul Haque,Bangladesh,bat,Bangladesh,64,64,unknown,unknown,Bangladesh,West Indies
+2,Test,2018/19,"Shere Bangla National Stadium, Mirpur",Dhaka,2018-11-30,male,0,6,Mehedi Hasan Miraz,Bangladesh,bat,Bangladesh,184,1,unknown,unknown,Bangladesh,West Indies
+1,Test,2018/19,Sylhet International Cricket Stadium,unknown,2018-11-03,male,0,6,SC Williams,Zimbabwe,bat,Zimbabwe,151,151,unknown,unknown,Zimbabwe,Bangladesh
+2,Test,2018/19,"Shere Bangla National Stadium, Mirpur",Dhaka,2018-11-11,male,0,6,Mushfiqur Rahim,Bangladesh,bat,Bangladesh,218,218,unknown,unknown,Bangladesh,Zimbabwe
+1,Test,2018/19,"Basin Reserve, Wellington",Wellington,2018-12-15,male,0,6,TWM Latham,New Zealand,field,unknown,unknown,0,unknown,unknown,Sri Lanka,New Zealand
+2,Test,2018/19,Hagley Oval,Christchurch,2018-12-26,male,0,6,TG Southee,Sri Lanka,field,New Zealand,423,423,unknown,unknown,New Zealand,Sri Lanka
+1,Test,2018/19,Seddon Park,Hamilton,2019-02-28,male,0,6,KS Williamson,New Zealand,field,New Zealand,52,1,unknown,unknown,New Zealand,Bangladesh
+2,Test,2018/19,Basin Reserve,Wellington,2019-03-08,male,0,6,LRPL Taylor,New Zealand,field,New Zealand,12,1,unknown,unknown,New Zealand,Bangladesh
+1,Test,2018/19,Dubai International Cricket Stadium,unknown,2018-10-07,male,0,6,UT Khawaja,Pakistan,bat,unknown,unknown,0,unknown,unknown,Pakistan,Australia
+2,Test,2018/19,Sheikh Zayed Stadium,Abu Dhabi,2018-10-16,male,0,6,Mohammad Abbas,Pakistan,bat,Pakistan,373,373,unknown,unknown,Pakistan,Australia
+1,Test,2018/19,Sheikh Zayed Stadium,Abu Dhabi,2018-11-16,male,0,6,AY Patel,New Zealand,bat,New Zealand,4,4,unknown,unknown,New Zealand,Pakistan
+2,Test,2018/19,Dubai International Cricket Stadium,unknown,2018-11-24,male,0,6,Yasir Shah,Pakistan,bat,Pakistan,16,1,unknown,unknown,Pakistan,New Zealand
+3,Test,2018/19,Sheikh Zayed Stadium,Abu Dhabi,2018-12-03,male,0,6,KS Williamson,New Zealand,bat,New Zealand,123,123,unknown,unknown,New Zealand,Pakistan
+1,Test,2018/19,Saurashtra Cricket Association Stadium,Rajkot,2018-10-04,male,0,6,PP Shaw,India,bat,India,272,1,unknown,unknown,India,West Indies
+2,Test,2018/19,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2018-10-12,male,0,6,UT Yadav,West Indies,bat,India,10,10,unknown,unknown,West Indies,India
+1,Test,2018/19,"Kensington Oval, Barbados",Bridgetown,2019-01-23,male,0,6,JO Holder,West Indies,bat,West Indies,381,381,unknown,unknown,West Indies,England
+2,Test,2018/19,"Sir Vivian Richards Stadium, Antigua",North Sound,2019-01-31,male,0,6,KAJ Roach,West Indies,field,West Indies,10,10,unknown,unknown,West Indies,England
+3,Test,2018/19,"Daren Sammy National Cricket Stadium, St Lucia",Gros Islet,2019-02-09,male,0,6,MA Wood,West Indies,field,England,232,232,unknown,unknown,West Indies,England
+1,Test,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-11-21,male,0,6,M Labuschagne,Pakistan,bat,Australia,5,1,unknown,unknown,Australia,Pakistan
+2,Test,2019/20,Adelaide Oval,Adelaide,2019-11-29,male,0,6,DA Warner,Australia,bat,Australia,48,1,unknown,unknown,Australia,Pakistan
+1,Test,2019/20,Perth Stadium,Perth,2019-12-12,male,0,6,MA Starc,Australia,bat,Australia,296,296,unknown,unknown,Australia,New Zealand
+2,Test,2019/20,Melbourne Cricket Ground,Melbourne,2019-12-26,male,0,6,TM Head,New Zealand,field,Australia,247,247,unknown,unknown,Australia,New Zealand
+3,Test,2019/20,Sydney Cricket Ground,Sydney,2020-01-03,male,0,6,M Labuschagne,Australia,bat,Australia,279,279,unknown,unknown,Australia,New Zealand
+1,Test,2019/20,SuperSport Park,Centurion,2019-12-26,male,0,6,Q de Kock,England,field,South Africa,107,107,unknown,unknown,South Africa,England
+2,Test,2019/20,Newlands,Cape Town,2020-01-03,male,0,6,BA Stokes,England,bat,England,189,189,unknown,unknown,South Africa,England
+3,Test,2019/20,St George's Park,Port Elizabeth,2020-01-16,male,0,6,OJ Pope,England,bat,England,53,1,unknown,unknown,South Africa,England
+4,Test,2019/20,The Wanderers Stadium,Johannesburg,2020-01-24,male,0,6,MA Wood,England,bat,England,191,191,unknown,unknown,South Africa,England
+1,Test,2019/20,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,2019-10-02,male,0,6,RG Sharma,India,bat,India,203,203,unknown,unknown,India,South Africa
+2,Test,2019/20,Maharashtra Cricket Association Stadium,Pune,2019-10-10,male,0,6,V Kohli,India,bat,India,137,1,unknown,unknown,India,South Africa
+3,Test,2019/20,JSCA International Stadium Complex,Ranchi,2019-10-19,male,0,6,RG Sharma,India,bat,India,202,1,unknown,unknown,India,South Africa
+1,Test,2019/20,Holkar Cricket Stadium,Indore,2019-11-14,male,0,6,MA Agarwal,Bangladesh,bat,India,130,1,unknown,unknown,India,Bangladesh
+2,Test,2019/20,Eden Gardens,Kolkata,2019-11-22,male,0,6,I Sharma,Bangladesh,bat,India,46,1,unknown,unknown,India,Bangladesh
+1,Test,2019/20,Bay Oval,Mount Maunganui,2019-11-21,male,0,6,BJ Watling,England,bat,New Zealand,65,1,unknown,unknown,New Zealand,England
+2,Test,2019/20,Seddon Park,Hamilton,2019-11-29,male,0,6,JE Root,England,field,unknown,unknown,0,unknown,unknown,New Zealand,England
+1,Test,2019/20,Basin Reserve,Wellington,2020-02-21,male,0,6,TG Southee,New Zealand,field,New Zealand,10,10,unknown,unknown,New Zealand,India
+2,Test,2019/20,Hagley Oval,Christchurch,2020-02-29,male,0,6,KA Jamieson,New Zealand,field,New Zealand,7,7,unknown,unknown,New Zealand,India
+1,Test,2019,"Sir Vivian Richards Stadium, Antigua",North Sound,2019-08-22,male,0,6,AM Rahane,West Indies,field,India,318,318,unknown,unknown,West Indies,India
+2,Test,2019,"Sabina Park, Jamaica",Kingston,2019-08-30,male,0,6,GH Vihari,West Indies,field,India,257,257,unknown,unknown,West Indies,India
+1,Test,2019,Galle International Stadium,Galle,2019-08-14,male,0,6,FDM Karunaratne,New Zealand,bat,Sri Lanka,6,6,unknown,unknown,Sri Lanka,New Zealand
+2,Test,2019,P Sara Oval,Colombo,2019-08-22,male,0,6,TWM Latham,Sri Lanka,bat,New Zealand,65,1,unknown,unknown,Sri Lanka,New Zealand
+1,Test,2020,Old Trafford,Manchester,2020-08-05,male,0,6,CR Woakes,Pakistan,bat,England,3,3,unknown,unknown,Pakistan,England
+2,Test,2020,The Rose Bowl,Southampton,2020-08-13,male,0,6,Mohammad Rizwan,Pakistan,bat,unknown,unknown,0,unknown,unknown,Pakistan,England
+3,Test,2020,The Rose Bowl,Southampton,2020-08-21,male,0,6,Z Crawley,England,bat,unknown,unknown,0,unknown,unknown,England,Pakistan
+1,Test,2019/20,Rawalpindi Cricket Stadium,Rawalpindi,2019-12-11,male,0,6,Abid Ali,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Pakistan,Sri Lanka
+2,Test,2019/20,National Stadium,Karachi,2019-12-19,male,0,6,Abid Ali,Pakistan,bat,Pakistan,263,263,unknown,unknown,Pakistan,Sri Lanka
+1,Test,2019/20,Harare Sports Club,Harare,2020-01-19,male,0,6,AD Mathews,Zimbabwe,bat,Sri Lanka,10,10,unknown,unknown,Zimbabwe,Sri Lanka
+2,Test,2019/20,Harare Sports Club,Harare,2020-01-27,male,0,6,Sikandar Raza,Zimbabwe,bat,unknown,unknown,0,unknown,unknown,Zimbabwe,Sri Lanka
+1,Test,2019/20,Rawalpindi Cricket Stadium,Rawalpindi,2020-02-07,male,0,6,Naseem Shah,Pakistan,field,Pakistan,44,1,unknown,unknown,Pakistan,Bangladesh
+unknown,Test,2019/20,"Shere Bangla National Stadium, Mirpur",Dhaka,2020-02-22,male,0,6,Mushfiqur Rahim,Zimbabwe,bat,Bangladesh,106,1,unknown,unknown,Bangladesh,Zimbabwe
+1,Test,2020/21,Adelaide Oval,Adelaide,2020-12-17,male,0,6,TD Paine,India,bat,Australia,8,8,unknown,unknown,India,Australia
+2,Test,2020/21,Melbourne Cricket Ground,Melbourne,2020-12-26,male,0,6,AM Rahane,Australia,bat,India,8,8,unknown,unknown,Australia,India
+3,Test,2020/21,Sydney Cricket Ground,Sydney,2021-01-07,male,0,6,SPD Smith,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,India
+4,Test,2020/21,Brisbane Cricket Ground,Brisbane,2021-01-15,male,0,6,RR Pant,Australia,bat,India,3,3,unknown,unknown,Australia,India
+1,Test,2020,The Rose Bowl,Southampton,2020-07-08,male,0,6,ST Gabriel,England,bat,West Indies,4,4,unknown,unknown,England,West Indies
+2,Test,2020,Old Trafford,Manchester,2020-07-16,male,0,6,BA Stokes,West Indies,field,England,113,113,unknown,unknown,England,West Indies
+3,Test,2020,Old Trafford,Manchester,2020-07-24,male,0,6,SCJ Broad,West Indies,field,England,269,269,unknown,unknown,England,West Indies
+1,Test,2020/21,Seddon Park,Hamilton,2020-12-03,male,0,6,KS Williamson,West Indies,field,New Zealand,134,1,unknown,unknown,New Zealand,West Indies
+2,Test,2020/21,Basin Reserve,Wellington,2020-12-11,male,0,6,HM Nicholls,West Indies,field,New Zealand,12,1,unknown,unknown,New Zealand,West Indies
+1,Test,2020/21,Bay Oval,Mount Maunganui,2020-12-26,male,0,6,KS Williamson,Pakistan,field,New Zealand,101,101,unknown,unknown,New Zealand,Pakistan
+2,Test,2020/21,Hagley Oval,Christchurch,2021-01-03,male,0,6,KA Jamieson,New Zealand,field,New Zealand,176,1,unknown,unknown,Pakistan,New Zealand
+1,Test,2020/21,SuperSport Park,Centurion,2020-12-26,male,0,6,F du Plessis,Sri Lanka,bat,South Africa,45,1,unknown,unknown,Sri Lanka,South Africa
+2,Test,2020/21,The Wanderers Stadium,Johannesburg,2021-01-03,male,0,6,D Elgar,Sri Lanka,bat,South Africa,10,10,unknown,unknown,Sri Lanka,South Africa
+1,Test,2021,"Trent Bridge, Nottingham",Nottingham,2021-08-04,male,0,6,JE Root,England,bat,unknown,unknown,0,unknown,unknown,England,India
+2,Test,2021,"Lord's, London",London,2021-08-12,male,0,6,KL Rahul,England,field,India,151,151,unknown,unknown,India,England
+3,Test,2021,"Headingley, Leeds",Leeds,2021-08-25,male,0,6,OE Robinson,India,bat,England,76,1,unknown,unknown,India,England
+4,Test,2021,"Kennington Oval, London",London,2021-09-02,male,0,6,RG Sharma,England,field,India,157,157,unknown,unknown,India,England
+1,Test,2020/21,Galle International Stadium,Galle,2021-01-14,male,0,6,JE Root,Sri Lanka,bat,England,7,7,unknown,unknown,Sri Lanka,England
+2,Test,2020/21,Galle International Stadium,Galle,2021-01-22,male,0,6,JE Root,Sri Lanka,bat,England,6,6,unknown,unknown,Sri Lanka,England
+1,Test,2020/21,National Stadium,Karachi,2021-01-26,male,0,6,Fawad Alam,South Africa,bat,Pakistan,7,7,unknown,unknown,South Africa,Pakistan
+2,Test,2020/21,Rawalpindi Cricket Stadium,Rawalpindi,2021-02-04,male,0,6,Hasan Ali,Pakistan,bat,Pakistan,95,95,unknown,unknown,Pakistan,South Africa
+1,Test,2020/21,MA Chidambaram Stadium,Chennai,2021-02-05,male,0,6,JE Root,England,bat,England,227,227,unknown,unknown,England,India
+2,Test,2020/21,MA Chidambaram Stadium,Chennai,2021-02-13,male,0,6,R Ashwin,India,bat,India,317,317,unknown,unknown,India,England
+3,Test,2020/21,Narendra Modi Stadium,Ahmedabad,2021-02-24,male,0,6,AR Patel,England,bat,India,10,10,unknown,unknown,England,India
+4,Test,2020/21,Narendra Modi Stadium,Ahmedabad,2021-03-04,male,0,6,RR Pant,England,bat,India,25,1,unknown,unknown,England,India
+1,Test,2020/21,Zahur Ahmed Chowdhury Stadium,Chattogram,2021-02-03,male,0,6,KR Mayers,Bangladesh,bat,West Indies,3,3,unknown,unknown,Bangladesh,West Indies
+2,Test,2020/21,Shere Bangla National Stadium,Dhaka,2021-02-11,male,0,6,RRS Cornwall,West Indies,bat,West Indies,17,17,unknown,unknown,West Indies,Bangladesh
+1,Test,2021,"Lord's, London",London,2021-06-02,male,0,6,DP Conway,New Zealand,bat,unknown,unknown,0,unknown,unknown,New Zealand,England
+2,Test,2021,"Edgbaston, Birmingham",Birmingham,2021-06-10,male,0,6,MJ Henry,England,bat,New Zealand,8,8,unknown,unknown,England,New Zealand
+unknown,Test,2021,"The Rose Bowl, Southampton",Southampton,2021-06-18,male,0,6,KA Jamieson,New Zealand,field,New Zealand,8,8,unknown,unknown,India,New Zealand
+1,Test,2020/21,Sir Vivian Richards Stadium,North Sound,2021-03-21,male,0,6,NE Bonner,West Indies,field,unknown,unknown,0,unknown,unknown,Sri Lanka,West Indies
+2,Test,2020/21,Sir Vivian Richards Stadium,North Sound,2021-03-29,male,0,6,KC Brathwaite,Sri Lanka,field,unknown,unknown,0,unknown,unknown,West Indies,Sri Lanka
+1,Test,2021,Pallekele International Cricket Stadium,Pallekele,2021-04-21,male,0,6,FDM Karunaratne,Bangladesh,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,Bangladesh
+2,Test,2021,Pallekele International Cricket Stadium,Kandy,2021-04-29,male,0,6,P Jayawickrama,Sri Lanka,bat,Sri Lanka,209,209,unknown,unknown,Sri Lanka,Bangladesh
+1,Test,2021/22,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,2022-03-08,male,0,6,NE Bonner,England,bat,unknown,unknown,0,unknown,unknown,England,West Indies
+2,Test,2021/22,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2022-03-16,male,0,6,KC Brathwaite,England,bat,unknown,unknown,0,unknown,unknown,England,West Indies
+3,Test,2021/22,"National Cricket Stadium, St George's, Grenada",St George's,2022-03-24,male,0,6,J Da Silva,West Indies,field,West Indies,10,10,unknown,unknown,England,West Indies
+1,Test,2021,Harare Sports Club,Harare,2021-04-29,male,0,6,Hasan Ali,Zimbabwe,bat,Pakistan,116,1,unknown,unknown,Zimbabwe,Pakistan
+2,Test,2021,Harare Sports Club,Harare,2021-05-07,male,0,6,Abid Ali,Pakistan,bat,Pakistan,147,1,unknown,unknown,Pakistan,Zimbabwe
+1,Test,2021,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,2021-06-10,male,0,6,Q de Kock,West Indies,bat,South Africa,63,1,unknown,unknown,West Indies,South Africa
+2,Test,2021,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,2021-06-18,male,0,6,K Rabada,West Indies,field,South Africa,158,158,unknown,unknown,South Africa,West Indies
+1,Test,2021,"Sabina Park, Kingston, Jamaica",Kingston,2021-08-12,male,0,6,JNT Seales,West Indies,field,West Indies,1,1,unknown,unknown,Pakistan,West Indies
+2,Test,2021,"Sabina Park, Kingston, Jamaica",Kingston,2021-08-20,male,0,6,Shaheen Shah Afridi,West Indies,field,Pakistan,109,109,unknown,unknown,Pakistan,West Indies
+1,Test,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2021-12-08,male,0,6,TM Head,England,bat,Australia,9,9,unknown,unknown,England,Australia
+2,Test,2021/22,Adelaide Oval,Adelaide,2021-12-16,male,0,6,M Labuschagne,Australia,bat,Australia,275,275,unknown,unknown,Australia,England
+3,Test,2021/22,Melbourne Cricket Ground,Melbourne,2021-12-26,male,0,6,SM Boland,Australia,field,Australia,14,1,unknown,unknown,England,Australia
+4,Test,2021/22,Sydney Cricket Ground,Sydney,2022-01-05,male,0,6,UT Khawaja,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,England
+5,Test,2021/22,"Bellerive Oval, Hobart",Hobart,2022-01-14,male,0,6,TM Head,England,field,Australia,146,146,unknown,unknown,Australia,England
+unknown,Test,2021,Harare Sports Club,Harare,2021-07-07,male,0,6,Mahmudullah,Bangladesh,bat,Bangladesh,220,220,unknown,unknown,Bangladesh,Zimbabwe
+1,Test,2022,"Lord's, London",London,2022-06-02,male,0,6,JE Root,New Zealand,bat,England,5,5,unknown,unknown,New Zealand,England
+2,Test,2022,"Trent Bridge, Nottingham",Nottingham,2022-06-10,male,0,6,JM Bairstow,England,field,England,5,5,unknown,unknown,New Zealand,England
+3,Test,2022,"Headingley, Leeds",Leeds,2022-06-23,male,0,6,MJ Leach,New Zealand,bat,England,7,7,unknown,unknown,New Zealand,England
+1,Test,2022,"Lord's, London",London,2022-08-17,male,0,6,K Rabada,South Africa,field,South Africa,12,1,unknown,unknown,England,South Africa
+2,Test,2022,"Old Trafford, Manchester",Manchester,2022-08-25,male,0,6,BA Stokes,South Africa,bat,England,85,1,unknown,unknown,South Africa,England
+3,Test,2022,"Kennington Oval, London",London,2022-09-08,male,0,6,OE Robinson,England,field,England,9,9,unknown,unknown,South Africa,England
+1,Test,2021/22,"SuperSport Park, Centurion",Centurion,2021-12-26,male,0,6,KL Rahul,India,bat,India,113,113,unknown,unknown,India,South Africa
+2,Test,2021/22,"The Wanderers Stadium, Johannesburg",Johannesburg,2022-01-03,male,0,6,D Elgar,India,bat,South Africa,7,7,unknown,unknown,India,South Africa
+3,Test,2021/22,"Newlands, Cape Town",Cape Town,2022-01-11,male,0,6,KD Petersen,India,bat,South Africa,7,7,unknown,unknown,India,South Africa
+1,Test,2021/22,"Kingsmead, Durban",Durban,2022-03-31,male,0,6,KA Maharaj,Bangladesh,field,South Africa,220,220,unknown,unknown,South Africa,Bangladesh
+2,Test,2021/22,"St George's Park, Port Elizabeth",Gqeberha,2022-04-08,male,0,6,KA Maharaj,South Africa,bat,South Africa,332,332,unknown,unknown,South Africa,Bangladesh
+1,Test,2021/22,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2021-11-26,male,0,6,Abid Ali,Bangladesh,bat,Pakistan,8,8,unknown,unknown,Bangladesh,Pakistan
+2,Test,2021/22,"Shere Bangla National Stadium, Mirpur",Dhaka,2021-12-04,male,0,6,Sajid Khan,Pakistan,bat,Pakistan,8,1,unknown,unknown,Pakistan,Bangladesh
+1,Test,2021/22,"Green Park, Kanpur",Kanpur,2021-11-25,male,0,6,SS Iyer,India,bat,unknown,unknown,0,unknown,unknown,India,New Zealand
+2,Test,2021/22,"Wankhede Stadium, Mumbai",Mumbai,2021-12-03,male,0,6,MA Agarwal,India,bat,India,372,372,unknown,unknown,India,New Zealand
+1,Test,2021/22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2022-03-04,male,0,6,RA Jadeja,India,bat,India,222,1,unknown,unknown,India,Sri Lanka
+2,Test,2021/22,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2022-03-12,male,0,6,SS Iyer,India,bat,India,238,238,unknown,unknown,India,Sri Lanka
+1,Test,2021/22,Rawalpindi Cricket Stadium,Rawalpindi,2022-03-04,male,0,6,Imam-ul-Haq,Pakistan,bat,unknown,unknown,0,unknown,unknown,Pakistan,Australia
+2,Test,2021/22,"National Stadium, Karachi",Karachi,2022-03-12,male,0,6,Babar Azam,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,Pakistan
+3,Test,2021/22,"Gaddafi Stadium, Lahore",Lahore,2022-03-21,male,0,6,PJ Cummins,Australia,bat,Australia,115,115,unknown,unknown,Australia,Pakistan
+1,Test,2021/22,Galle International Stadium,Galle,2021-11-21,male,0,6,FDM Karunaratne,Sri Lanka,bat,Sri Lanka,187,187,unknown,unknown,Sri Lanka,West Indies
+2,Test,2021/22,Galle International Stadium,Galle,2021-11-29,male,0,6,DM de Silva,Sri Lanka,bat,Sri Lanka,164,164,unknown,unknown,Sri Lanka,West Indies
+1,Test,2021/22,"Bay Oval, Mount Maunganui",Mount Maunganui,2022-01-01,male,0,6,Ebadat Hossain,Bangladesh,field,Bangladesh,8,8,unknown,unknown,New Zealand,Bangladesh
+2,Test,2021/22,"Hagley Oval, Christchurch",Christchurch,2022-01-09,male,0,6,TWM Latham,Bangladesh,field,New Zealand,117,1,unknown,unknown,New Zealand,Bangladesh
+1,Test,2021/22,"Hagley Oval, Christchurch",Christchurch,2022-02-17,male,0,6,MJ Henry,New Zealand,field,New Zealand,276,1,unknown,unknown,South Africa,New Zealand
+2,Test,2021/22,"Hagley Oval, Christchurch",Christchurch,2022-02-25,male,0,6,K Rabada,South Africa,bat,South Africa,198,198,unknown,unknown,South Africa,New Zealand
+1,Test,2022,Galle International Stadium,Galle,2022-06-29,male,0,6,C Green,Sri Lanka,bat,Australia,10,10,unknown,unknown,Sri Lanka,Australia
+2,Test,2022,Galle International Stadium,Galle,2022-07-08,male,0,6,NGRP Jayasuriya,Australia,bat,Sri Lanka,39,1,unknown,unknown,Australia,Sri Lanka
+1,Test,2022,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2022-05-15,male,0,6,AD Mathews,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,Bangladesh
+2,Test,2022,"Shere Bangla National Stadium, Mirpur",Dhaka,2022-05-23,male,0,6,AM Fernando,Bangladesh,bat,Sri Lanka,10,10,unknown,unknown,Bangladesh,Sri Lanka
+1,Test,2022,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,2022-06-16,male,0,6,KAJ Roach,West Indies,field,West Indies,7,7,unknown,unknown,Bangladesh,West Indies
+2,Test,2022,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,2022-06-24,male,0,6,KR Mayers,West Indies,field,West Indies,10,10,unknown,unknown,Bangladesh,West Indies
+1,Test,2022/23,Perth Stadium,Perth,2022-11-30,male,0,6,M Labuschagne,Australia,bat,Australia,164,164,unknown,unknown,Australia,West Indies
+2,Test,2022/23,Adelaide Oval,Adelaide,2022-12-08,male,0,6,TM Head,Australia,bat,Australia,419,419,unknown,unknown,Australia,West Indies
+1,Test,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-12-17,male,0,6,TM Head,Australia,field,Australia,6,6,unknown,unknown,South Africa,Australia
+2,Test,2022/23,Melbourne Cricket Ground,Melbourne,2022-12-26,male,0,6,DA Warner,Australia,field,Australia,182,1,unknown,unknown,South Africa,Australia
+3,Test,2022/23,Sydney Cricket Ground,Sydney,2023-01-04,male,0,6,UT Khawaja,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,South Africa
+5,Test,2022,"Edgbaston, Birmingham",Birmingham,2022-07-01,male,0,6,JM Bairstow,England,field,England,7,7,unknown,unknown,India,England
+1,Test,2022,Galle International Stadium,Galle,2022-07-16,male,0,6,Abdullah Shafique,Sri Lanka,bat,Pakistan,4,4,unknown,unknown,Sri Lanka,Pakistan
+2,Test,2022,Galle International Stadium,Galle,2022-07-24,male,0,6,DM de Silva,Sri Lanka,bat,Sri Lanka,246,246,unknown,unknown,Sri Lanka,Pakistan
+1,Test,2022/23,"Bay Oval, Mount Maunganui",Mount Maunganui,2023-02-16,male,0,6,HC Brook,New Zealand,field,England,267,267,unknown,unknown,England,New Zealand
+2,Test,2022/23,"Basin Reserve, Wellington",Wellington,2023-02-24,male,0,6,KS Williamson,New Zealand,field,New Zealand,1,1,unknown,unknown,England,New Zealand
+1,Test,2022/23,"Hagley Oval, Christchurch",Christchurch,2023-03-09,male,0,6,DJ Mitchell,New Zealand,field,New Zealand,2,2,unknown,unknown,Sri Lanka,New Zealand
+2,Test,2022/23,"Basin Reserve, Wellington",Wellington,2023-03-17,male,0,6,HM Nicholls,Sri Lanka,field,New Zealand,58,1,unknown,unknown,New Zealand,Sri Lanka
+1,Test,2022/23,Rawalpindi Cricket Stadium,Rawalpindi,2022-12-01,male,0,6,OE Robinson,England,bat,England,74,74,unknown,unknown,England,Pakistan
+2,Test,2022/23,Multan Cricket Stadium,Multan,2022-12-09,male,0,6,HC Brook,England,bat,England,26,26,unknown,unknown,England,Pakistan
+3,Test,2022/23,"National Stadium, Karachi",Karachi,2022-12-17,male,0,6,HC Brook,Pakistan,bat,England,8,8,unknown,unknown,Pakistan,England
+1,Test,2023,"Edgbaston, Birmingham",Birmingham,2023-06-16,male,0,6,UT Khawaja,England,bat,Australia,2,2,unknown,unknown,England,Australia
+2,Test,2023,"Lord's, London",London,2023-06-28,male,0,6,SPD Smith,England,field,Australia,43,43,unknown,unknown,Australia,England
+3,Test,2023,"Headingley, Leeds",Leeds,2023-07-06,male,0,6,MA Wood,England,field,England,3,3,unknown,unknown,Australia,England
+4,Test,2023,"Old Trafford, Manchester",Manchester,2023-07-19,male,0,6,Z Crawley,England,field,unknown,unknown,0,unknown,unknown,Australia,England
+5,Test,2023,"Kennington Oval, London",London,2023-07-27,male,0,6,CR Woakes,Australia,field,England,49,49,unknown,unknown,England,Australia
+unknown,Test,2023,"Lord's, London",London,2023-06-01,male,0,6,OJ Pope,England,field,England,10,10,unknown,unknown,Ireland,England
+1,Test,2022/23,"SuperSport Park, Centurion",Centurion,2023-02-28,male,0,6,AK Markram,South Africa,bat,South Africa,87,87,unknown,unknown,South Africa,West Indies
+2,Test,2022/23,"The Wanderers Stadium, Johannesburg",Johannesburg,2023-03-08,male,0,6,T Bavuma,South Africa,bat,South Africa,284,284,unknown,unknown,South Africa,West Indies
+1,Test,2022/23,"National Stadium, Karachi",Karachi,2022-12-26,male,0,6,KS Williamson,Pakistan,bat,unknown,unknown,0,unknown,unknown,Pakistan,New Zealand
+2,Test,2022/23,"National Stadium, Karachi",Karachi,2023-01-02,male,0,6,Sarfraz Ahmed,New Zealand,bat,unknown,unknown,0,unknown,unknown,New Zealand,Pakistan
+1,Test,2022/23,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2022-12-14,male,0,6,Kuldeep Yadav,India,bat,India,188,188,unknown,unknown,India,Bangladesh
+2,Test,2022/23,"Shere Bangla National Stadium, Mirpur",Dhaka,2022-12-22,male,0,6,R Ashwin,Bangladesh,bat,India,3,3,unknown,unknown,Bangladesh,India
+1,Test,2022/23,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,2023-02-09,male,0,6,RA Jadeja,Australia,bat,India,132,1,unknown,unknown,Australia,India
+2,Test,2022/23,"Arun Jaitley Stadium, Delhi",Delhi,2023-02-17,male,0,6,RA Jadeja,Australia,bat,India,6,6,unknown,unknown,Australia,India
+3,Test,2022/23,"Holkar Cricket Stadium, Indore",Indore,2023-03-01,male,0,6,NM Lyon,India,bat,Australia,9,9,unknown,unknown,India,Australia
+4,Test,2022/23,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2023-03-09,male,0,6,V Kohli,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,India
+1,Test,2022/23,"Queens Sports Club, Bulawayo",Bulawayo,2023-02-04,male,0,6,T Chanderpaul,West Indies,bat,unknown,unknown,0,unknown,unknown,West Indies,Zimbabwe
+2,Test,2022/23,"Queens Sports Club, Bulawayo",Bulawayo,2023-02-12,male,0,6,G Motie,Zimbabwe,bat,West Indies,4,1,unknown,unknown,Zimbabwe,West Indies
+unknown,Test,2022/23,"Shere Bangla National Stadium, Mirpur",Dhaka,2023-04-04,male,0,6,Mushfiqur Rahim,Ireland,bat,Bangladesh,7,7,unknown,unknown,Ireland,Bangladesh
+unknown,Test,2023,"Kennington Oval, London",London,2023-06-07,male,0,6,TM Head,India,field,Australia,209,209,unknown,unknown,Australia,India
+1,Test,2023,Galle International Stadium,Galle,2023-04-16,male,0,6,NGRP Jayasuriya,Sri Lanka,bat,Sri Lanka,280,1,unknown,unknown,Sri Lanka,Ireland
+2,Test,2023,Galle International Stadium,Galle,2023-04-24,male,0,6,NGRP Jayasuriya,Ireland,bat,Sri Lanka,10,1,unknown,unknown,Ireland,Sri Lanka
+1,Test,2023/24,Perth Stadium,Perth,2023-12-14,male,0,6,MR Marsh,Australia,bat,Australia,360,360,unknown,unknown,Australia,Pakistan
+2,Test,2023/24,Melbourne Cricket Ground,Melbourne,2023-12-26,male,0,6,PJ Cummins,Pakistan,field,Australia,79,79,unknown,unknown,Australia,Pakistan
+3,Test,2023/24,Sydney Cricket Ground,Sydney,2024-01-03,male,0,6,Aamer Jamal,Pakistan,bat,Australia,8,8,unknown,unknown,Pakistan,Australia
+1,Test,2023/24,Adelaide Oval,Adelaide,2024-01-17,male,0,6,TM Head,Australia,field,Australia,10,10,unknown,unknown,West Indies,Australia
+2,Test,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-01-25,male,0,6,S Joseph,West Indies,bat,West Indies,8,8,unknown,unknown,West Indies,Australia
+1,Test,2023,"Windsor Park, Roseau, Dominica",Roseau,2023-07-12,male,0,6,YBK Jaiswal,West Indies,bat,India,141,1,unknown,unknown,West Indies,India
+2,Test,2023,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,2023-07-20,male,0,6,Mohammed Siraj,West Indies,field,unknown,unknown,0,unknown,unknown,India,West Indies
+1,Test,2023,Galle International Stadium,Galle,2023-07-16,male,0,6,Saud Shakeel,Sri Lanka,bat,Pakistan,4,4,unknown,unknown,Sri Lanka,Pakistan
+2,Test,2023,"Sinhalese Sports Club Ground, Colombo",Colombo,2023-07-24,male,0,6,Abdullah Shafique,Sri Lanka,bat,Pakistan,222,1,unknown,unknown,Sri Lanka,Pakistan
+1,Test,2024,"Lord's, London",London,2024-07-10,male,0,6,AAP Atkinson,England,field,England,114,1,unknown,unknown,West Indies,England
+2,Test,2024,"Trent Bridge, Nottingham",Nottingham,2024-07-18,male,0,6,OJ Pope,West Indies,field,England,241,241,unknown,unknown,England,West Indies
+3,Test,2024,"Edgbaston, Birmingham",Birmingham,2024-07-26,male,0,6,MA Wood,West Indies,bat,England,10,10,unknown,unknown,West Indies,England
+1,Test,2024,"Old Trafford, Manchester",Manchester,2024-08-21,male,0,6,JL Smith,Sri Lanka,bat,England,5,5,unknown,unknown,Sri Lanka,England
+2,Test,2024,"Lord's, London",London,2024-08-29,male,0,6,AAP Atkinson,Sri Lanka,field,England,190,190,unknown,unknown,England,Sri Lanka
+3,Test,2024,"Kennington Oval, London",London,2024-09-06,male,0,6,P Nissanka,Sri Lanka,field,Sri Lanka,8,8,unknown,unknown,England,Sri Lanka
+1,Test,2023/24,"SuperSport Park, Centurion",Centurion,2023-12-26,male,0,6,D Elgar,South Africa,field,South Africa,32,1,unknown,unknown,India,South Africa
+2,Test,2023/24,"Newlands, Cape Town",Cape Town,2024-01-03,male,0,6,Mohammed Siraj,South Africa,bat,India,7,7,unknown,unknown,South Africa,India
+1,Test,2023/24,"Bay Oval, Mount Maunganui",Mount Maunganui,2024-02-04,male,0,6,R Ravindra,South Africa,field,New Zealand,281,281,unknown,unknown,New Zealand,South Africa
+2,Test,2023/24,"Seddon Park, Hamilton",Hamilton,2024-02-13,male,0,6,W O'Rourke,South Africa,bat,New Zealand,7,7,unknown,unknown,South Africa,New Zealand
+1,Test,2023/24,"Basin Reserve, Wellington",Wellington,2024-02-29,male,0,6,C Green,New Zealand,field,Australia,172,172,unknown,unknown,Australia,New Zealand
+2,Test,2023/24,"Hagley Oval, Christchurch",Christchurch,2024-03-08,male,0,6,AT Carey,Australia,field,Australia,3,3,unknown,unknown,New Zealand,Australia
+1,Test,2023/24,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,2024-01-25,male,0,6,OJ Pope,England,bat,England,28,28,unknown,unknown,England,India
+2,Test,2023/24,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,2024-02-02,male,0,6,JJ Bumrah,India,bat,India,106,106,unknown,unknown,India,England
+3,Test,2023/24,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2024-02-15,male,0,6,RA Jadeja,India,bat,India,434,434,unknown,unknown,India,England
+4,Test,2023/24,"JSCA International Stadium Complex, Ranchi",Ranchi,2024-02-23,male,0,6,Dhruv Jurel,England,bat,India,5,5,unknown,unknown,England,India
+5,Test,2023/24,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,2024-03-07,male,0,6,Kuldeep Yadav,England,bat,India,64,1,unknown,unknown,England,India
+unknown,Test,2025,"Trent Bridge, Nottingham",Nottingham,2025-05-22,male,0,6,Shoaib Bashir,Zimbabwe,field,England,45,1,unknown,unknown,England,Zimbabwe
+1,Test,2023/24,Sylhet International Cricket Stadium,Sylhet,2023-11-28,male,0,6,Taijul Islam,Bangladesh,bat,Bangladesh,150,150,unknown,unknown,Bangladesh,New Zealand
+2,Test,2023/24,"Shere Bangla National Stadium, Mirpur",Dhaka,2023-12-06,male,0,6,GD Phillips,Bangladesh,bat,New Zealand,4,4,unknown,unknown,Bangladesh,New Zealand
+1,Test,2023/24,Sylhet International Cricket Stadium,Sylhet,2024-03-22,male,0,6,DM de Silva,Bangladesh,field,Sri Lanka,328,328,unknown,unknown,Sri Lanka,Bangladesh
+2,Test,2023/24,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2024-03-30,male,0,6,PHKD Mendis,Sri Lanka,bat,Sri Lanka,192,192,unknown,unknown,Sri Lanka,Bangladesh
+1,Test,2024/25,Perth Stadium,Perth,2024-11-22,male,0,6,JJ Bumrah,India,bat,India,295,295,unknown,unknown,India,Australia
+2,Test,2024/25,Adelaide Oval,Adelaide,2024-12-06,male,0,6,TM Head,India,bat,Australia,10,10,unknown,unknown,India,Australia
+3,Test,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-12-14,male,0,6,TM Head,India,field,unknown,unknown,0,unknown,unknown,Australia,India
+4,Test,2024/25,Melbourne Cricket Ground,Melbourne,2024-12-26,male,0,6,PJ Cummins,Australia,bat,Australia,184,184,unknown,unknown,Australia,India
+5,Test,2024/25,Sydney Cricket Ground,Sydney,2025-01-03,male,0,6,SM Boland,India,bat,Australia,6,6,unknown,unknown,India,Australia
+1,Test,2024/25,"Hagley Oval, Christchurch",Christchurch,2024-11-28,male,0,6,BA Carse,England,field,England,8,8,unknown,unknown,New Zealand,England
+2,Test,2024/25,"Basin Reserve, Wellington",Wellington,2024-12-06,male,0,6,HC Brook,New Zealand,field,England,323,323,unknown,unknown,England,New Zealand
+3,Test,2024/25,"Seddon Park, Hamilton",Hamilton,2024-12-14,male,0,6,MJ Santner,England,field,New Zealand,423,423,unknown,unknown,New Zealand,England
+unknown,Test,2024,"Civil Service Cricket Club, Stormont, Belfast",Belfast,2024-07-25,male,0,6,AR McBrine,Ireland,field,Ireland,4,4,unknown,unknown,Zimbabwe,Ireland
+1,Test,2024/25,"Kingsmead, Durban",Durban,2024-11-27,male,0,6,M Jansen,Sri Lanka,field,South Africa,233,233,unknown,unknown,South Africa,Sri Lanka
+2,Test,2024/25,"St George's Park, Gqeberha",Gqeberha,2024-12-05,male,0,6,D Paterson,South Africa,bat,South Africa,109,109,unknown,unknown,South Africa,Sri Lanka
+1,Test,2024/25,"SuperSport Park, Centurion",Centurion,2024-12-26,male,0,6,AK Markram,South Africa,field,South Africa,2,2,unknown,unknown,Pakistan,South Africa
+2,Test,2024/25,"Newlands, Cape Town",Cape Town,2025-01-03,male,0,6,RD Rickelton,South Africa,bat,South Africa,10,10,unknown,unknown,South Africa,Pakistan
+1,Test,2024,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,2024-08-07,male,0,6,KA Maharaj,South Africa,bat,unknown,unknown,0,unknown,unknown,South Africa,West Indies
+2,Test,2024,"Providence Stadium, Guyana",Providence,2024-08-15,male,0,6,PWA Mulder,South Africa,bat,South Africa,40,40,unknown,unknown,South Africa,West Indies
+1,Test,2024/25,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,2024-11-22,male,0,6,JP Greaves,Bangladesh,field,West Indies,201,201,unknown,unknown,West Indies,Bangladesh
+2,Test,2024/25,"Sabina Park, Kingston, Jamaica",Kingston,2024-11-30,male,0,6,Taijul Islam,Bangladesh,bat,Bangladesh,101,101,unknown,unknown,Bangladesh,West Indies
+1,Test,2024/25,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2024-09-19,male,0,6,R Ashwin,Bangladesh,field,India,280,280,unknown,unknown,India,Bangladesh
+2,Test,2024/25,"Green Park, Kanpur",Kanpur,2024-09-27,male,0,6,YBK Jaiswal,India,field,India,7,7,unknown,unknown,Bangladesh,India
+1,Test,2024/25,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-10-16,male,0,6,R Ravindra,India,bat,New Zealand,8,8,unknown,unknown,India,New Zealand
+2,Test,2024/25,"Maharashtra Cricket Association Stadium, Pune",Pune,2024-10-24,male,0,6,MJ Santner,New Zealand,bat,New Zealand,113,113,unknown,unknown,New Zealand,India
+3,Test,2024/25,"Wankhede Stadium, Mumbai",Mumbai,2024-11-01,male,0,6,AY Patel,New Zealand,bat,New Zealand,25,25,unknown,unknown,New Zealand,India
+1,Test,2024,Rawalpindi Cricket Stadium,Rawalpindi,2024-08-21,male,0,6,Mushfiqur Rahim,Bangladesh,field,Bangladesh,10,10,unknown,unknown,Pakistan,Bangladesh
+2,Test,2024,Rawalpindi Cricket Stadium,Rawalpindi,2024-08-30,male,0,6,Liton Das,Bangladesh,field,Bangladesh,6,6,unknown,unknown,Pakistan,Bangladesh
+1,Test,2024/25,Multan Cricket Stadium,Multan,2024-10-07,male,0,6,HC Brook,Pakistan,bat,England,47,1,unknown,unknown,Pakistan,England
+2,Test,2024/25,Multan Cricket Stadium,Multan,2024-10-15,male,0,6,Sajid Khan,Pakistan,bat,Pakistan,152,152,unknown,unknown,Pakistan,England
+3,Test,2024/25,Rawalpindi Cricket Stadium,Rawalpindi,2024-10-24,male,0,6,Saud Shakeel,England,bat,Pakistan,9,9,unknown,unknown,England,Pakistan
+1,Test,2024/25,Multan Cricket Stadium,Multan,2025-01-17,male,0,6,Sajid Khan,Pakistan,bat,Pakistan,127,127,unknown,unknown,Pakistan,West Indies
+2,Test,2024/25,Multan Cricket Stadium,Multan,2025-01-25,male,0,6,JA Warrican,West Indies,bat,West Indies,120,120,unknown,unknown,West Indies,Pakistan
+1,Test,2024,Galle International Stadium,Galle,2024-09-18,male,0,6,NGRP Jayasuriya,Sri Lanka,bat,Sri Lanka,63,63,unknown,unknown,Sri Lanka,New Zealand
+2,Test,2024,Galle International Stadium,Galle,2024-09-26,male,0,6,PHKD Mendis,Sri Lanka,bat,Sri Lanka,154,1,unknown,unknown,Sri Lanka,New Zealand
+1,Test,2025,"Headingley, Leeds",Leeds,2025-06-20,male,0,6,BM Duckett,England,field,England,5,5,unknown,unknown,India,England
+2,Test,2025,"Edgbaston, Birmingham",Birmingham,2025-07-02,male,0,6,Shubman Gill,England,field,India,336,336,unknown,unknown,India,England
+3,Test,2025,"Lord's, London",London,2025-07-10,male,0,6,BA Stokes,England,bat,England,22,22,unknown,unknown,England,India
+4,Test,2025,"Old Trafford, Manchester",Manchester,2025-07-23,male,0,6,BA Stokes,England,field,unknown,unknown,0,unknown,unknown,India,England
+5,Test,2025,"Kennington Oval, London",London,2025-07-31,male,0,6,Mohammed Siraj,England,field,India,6,6,unknown,unknown,India,England
+unknown,Test,2025,"Lord's, London",London,2025-06-11,male,0,6,AK Markram,South Africa,field,South Africa,5,5,unknown,unknown,Australia,South Africa
+1,Test,2024/25,"Shere Bangla National Stadium, Mirpur",Dhaka,2024-10-21,male,0,6,K Verreynne,Bangladesh,bat,South Africa,7,7,unknown,unknown,Bangladesh,South Africa
+2,Test,2024/25,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2024-10-29,male,0,6,T de Zorzi,South Africa,bat,South Africa,273,1,unknown,unknown,South Africa,Bangladesh
+1,Test,2024/25,Galle International Stadium,Galle,2025-01-29,male,0,6,UT Khawaja,Australia,bat,Australia,242,1,unknown,unknown,Australia,Sri Lanka
+2,Test,2024/25,Galle International Stadium,Galle,2025-02-06,male,0,6,AT Carey,Sri Lanka,bat,Australia,9,9,unknown,unknown,Sri Lanka,Australia
+unknown,Test,2024/25,"Queens Sports Club, Bulawayo",Bulawayo,2025-02-06,male,0,6,AR McBrine,Ireland,bat,Ireland,63,63,unknown,unknown,Ireland,Zimbabwe
+1,Test,2025,"Kensington Oval, Bridgetown, Barbados",Bridgetown,2025-06-25,male,0,6,TM Head,Australia,bat,Australia,159,159,unknown,unknown,Australia,West Indies
+2,Test,2025,"National Cricket Stadium, St George's, Grenada",St George's,2025-07-03,male,0,6,AT Carey,Australia,bat,Australia,133,133,unknown,unknown,Australia,West Indies
+3,Test,2025,"Sabina Park, Kingston, Jamaica",Kingston,2025-07-12,male,0,6,MA Starc,Australia,bat,Australia,176,176,unknown,unknown,Australia,West Indies
+1,Test,2025,Sylhet International Cricket Stadium,Sylhet,2025-04-20,male,0,6,B Muzarabani,Bangladesh,bat,Zimbabwe,3,3,unknown,unknown,Bangladesh,Zimbabwe
+2,Test,2025,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,2025-04-28,male,0,6,Mehedi Hasan Miraz,Zimbabwe,bat,Bangladesh,106,1,unknown,unknown,Zimbabwe,Bangladesh
+1,Test,2025,"Queens Sports Club, Bulawayo",Bulawayo,2025-06-28,male,0,6,LG Pretorius,South Africa,bat,South Africa,328,328,unknown,unknown,South Africa,Zimbabwe
+2,Test,2025,"Queens Sports Club, Bulawayo",Bulawayo,2025-07-06,male,0,6,PWA Mulder,Zimbabwe,field,South Africa,236,1,unknown,unknown,South Africa,Zimbabwe
+1,Test,2025,"Queens Sports Club, Bulawayo",Bulawayo,2025-07-30,male,0,6,MJ Henry,Zimbabwe,bat,New Zealand,9,9,unknown,unknown,Zimbabwe,New Zealand
+2,Test,2025,"Queens Sports Club, Bulawayo",Bulawayo,2025-08-07,male,0,6,DP Conway,Zimbabwe,bat,New Zealand,359,1,unknown,unknown,Zimbabwe,New Zealand
+1,Test,2025/26,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2025-10-02,male,0,6,RA Jadeja,West Indies,bat,India,140,1,unknown,unknown,West Indies,India
+1,Test,2025,Galle International Stadium,Galle,2025-06-17,male,0,6,Nazmul Hossain Shanto,Bangladesh,bat,unknown,unknown,0,unknown,unknown,Bangladesh,Sri Lanka
+2,Test,2025,"Sinhalese Sports Club Ground, Colombo",Colombo,2025-06-25,male,0,6,P Nissanka,Bangladesh,bat,Sri Lanka,78,1,unknown,unknown,Bangladesh,Sri Lanka
+3,Test,2005,Kensington Oval,Bridgetown,2005-04-21,male,0,6,A Nel,West Indies,bat,South Africa,86,1,unknown,unknown,West Indies,South Africa
+4,Test,2005,Antigua Recreation Ground,St John's,2005-04-29,male,0,6,CH Gayle,South Africa,bat,unknown,unknown,0,unknown,unknown,South Africa,West Indies
+2,Test,2005,Riverside Ground,Chester-le-Street,2005-06-03,male,0,6,MJ Hoggard,England,field,England,27,1,unknown,unknown,Bangladesh,England
+1,Test,2005,Harare Sports Club,Harare,2005-08-07,male,0,6,DL Vettori,Zimbabwe,field,New Zealand,294,1,unknown,unknown,New Zealand,Zimbabwe
+2,Test,2005,Queens Sports Club,Bulawayo,2005-08-15,male,0,6,SE Bond,Zimbabwe,bat,New Zealand,46,1,unknown,unknown,Zimbabwe,New Zealand
+1,Test,2005,R.Premadasa Stadium,Colombo,2005-09-12,male,0,6,M Muralitharan,Sri Lanka,field,Sri Lanka,96,1,unknown,unknown,Bangladesh,Sri Lanka
+1,Test,2005,Queens Sports Club,Bulawayo,2005-09-13,male,0,6,IK Pathan,Zimbabwe,bat,India,90,1,unknown,unknown,Zimbabwe,India
+2,Test,2005,P Sara Oval,Colombo,2005-09-20,male,0,6,TT Samaraweera,Sri Lanka,bat,Sri Lanka,69,1,unknown,unknown,Sri Lanka,Bangladesh
+unknown,Test,2005/06,Sydney Cricket Ground,Sydney,2005-10-14,male,0,6,ML Hayden,Australia,bat,Australia,210,210,unknown,unknown,Australia,ICC World XI
+1,Test,2006,Lord's,London,2006-07-13,male,0,6,Mohammad Yousuf,England,bat,unknown,unknown,0,unknown,unknown,England,Pakistan
+2,Test,2006,Old Trafford,Manchester,2006-07-27,male,0,6,SJ Harmison,Pakistan,bat,England,120,1,unknown,unknown,Pakistan,England
+3,Test,2006,Headingley,Leeds,2006-08-04,male,0,6,Younis Khan,England,bat,England,167,167,unknown,unknown,England,Pakistan
+4,Test,2006,Kennington Oval,London,2006-08-17,male,0,6,,Pakistan,field,England,unknown,0,unknown,unknown,England,Pakistan
+1,Test,2006,Lord's,London,2006-05-11,male,0,6,DPMD Jayawardene,England,bat,unknown,unknown,0,unknown,unknown,England,Sri Lanka
+2,Test,2006,Edgbaston,Birmingham,2006-05-25,male,0,6,KP Pietersen,Sri Lanka,bat,England,6,6,unknown,unknown,Sri Lanka,England
+3,Test,2006,Trent Bridge,Nottingham,2006-06-02,male,0,6,M Muralitharan,Sri Lanka,bat,Sri Lanka,134,134,unknown,unknown,Sri Lanka,England
+1,Test,2005/06,Multan Cricket Stadium,Multan,2005-11-12,male,0,6,Salman Butt,Pakistan,bat,Pakistan,22,22,unknown,unknown,Pakistan,England
+2,Test,2005/06,Bellerive Oval,Hobart,2005-11-17,male,0,6,MEK Hussey,West Indies,bat,Australia,9,9,unknown,unknown,West Indies,Australia
+2,Test,2005/06,Iqbal Stadium,Faisalabad,2005-11-20,male,0,6,Inzamam-ul-Haq,Pakistan,bat,unknown,unknown,0,unknown,unknown,Pakistan,England
+3,Test,2005/06,Sardar Patel Stadium,Ahmedabad,2005-12-18,male,0,6,Harbhajan Singh,India,bat,India,259,259,unknown,unknown,India,Sri Lanka
+2,Test,2005/06,Melbourne Cricket Ground,unknown,2005-12-26,male,0,6,MEK Hussey,Australia,bat,Australia,184,184,unknown,unknown,Australia,South Africa
+3,Test,2005/06,Sydney Cricket Ground,unknown,2006-01-02,male,0,6,RT Ponting,South Africa,bat,Australia,8,8,unknown,unknown,South Africa,Australia
+2,Test,2005/06,Iqbal Stadium,Faisalabad,2006-01-21,male,0,6,RP Singh,Pakistan,bat,unknown,unknown,0,unknown,unknown,Pakistan,India
+3,Test,2005/06,National Stadium,Karachi,2006-01-29,male,0,6,Kamran Akmal,India,field,Pakistan,341,341,unknown,unknown,Pakistan,India
+1,Test,2005/06,Zahur Ahmed Chowdhury Stadium,Chattogram,2006-02-28,male,0,6,Mohammad Ashraful,Bangladesh,bat,Sri Lanka,8,8,unknown,unknown,Bangladesh,Sri Lanka
+2,Test,2005/06,Shaheed Chandu Stadium,Bogra,2006-03-08,male,0,6,WU Tharanga,Bangladesh,bat,Sri Lanka,10,10,unknown,unknown,Bangladesh,Sri Lanka
+1,Test,2005/06,Khan Shaheb Osman Ali Stadium,Fatullah,2006-04-09,male,0,6,AC Gilchrist,Bangladesh,bat,Australia,3,3,unknown,unknown,Bangladesh,Australia
+1,Test,2005/06,Eden Park,Auckland,2006-03-09,male,0,6,SE Bond,West Indies,field,New Zealand,27,27,unknown,unknown,New Zealand,West Indies
+2,Test,2005/06,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,2006-03-09,male,0,6,A Kumble,England,bat,India,9,9,unknown,unknown,England,India
+1,Test,2005/06,Newlands,Cape Town,2006-03-16,male,0,6,SR Clark,South Africa,bat,Australia,7,7,unknown,unknown,South Africa,Australia
+2,Test,2005/06,Kingsmead,Durban,2006-03-24,male,0,6,SK Warne,Australia,bat,Australia,112,112,unknown,unknown,Australia,South Africa
+3,Test,2005/06,The Wanderers Stadium,Johannesburg,2006-03-31,male,0,6,B Lee,South Africa,bat,Australia,2,2,unknown,unknown,South Africa,Australia
+1,Test,2005/06,SuperSport Park,Centurion,2006-04-15,male,0,6,M Ntini,South Africa,bat,South Africa,128,128,unknown,unknown,South Africa,New Zealand
+2,Test,2005/06,Newlands,Cape Town,2006-04-27,male,0,6,SP Fleming,South Africa,field,unknown,unknown,0,unknown,unknown,New Zealand,South Africa
+3,Test,2005/06,The Wanderers Stadium,Johannesburg,2006-05-05,male,0,6,GC Smith,South Africa,field,South Africa,4,4,unknown,unknown,New Zealand,South Africa
+2,Test,2005/06,Asgiriya Stadium,Kandy,2006-04-03,male,0,6,Mohammad Asif,Pakistan,field,Pakistan,8,8,unknown,unknown,Sri Lanka,Pakistan
+1,Test,2005/06,Vidarbha C.A. Ground,Nagpur,2006-03-01,male,0,6,MJ Hoggard,England,bat,unknown,unknown,0,unknown,unknown,England,India
+1,Test,2006,"Antigua Recreation Ground, St John's",Antigua,2006-06-02,male,0,6,W Jaffer,India,bat,unknown,unknown,0,unknown,unknown,India,West Indies
+2,Test,2006,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,2006-06-10,male,0,6,V Sehwag,India,bat,unknown,unknown,0,unknown,unknown,India,West Indies
+3,Test,2006,"Warner Park, Basseterre",St Kitts,2006-06-22,male,0,6,D Ganga,West Indies,bat,unknown,unknown,0,unknown,unknown,West Indies,India
+4,Test,2006,"Sabina Park, Kingston",Jamaica,2006-06-30,male,0,6,R Dravid,India,bat,India,49,49,unknown,unknown,India,West Indies
+1,Test,2006,Sinhalese Sports Club Ground,Colombo,2006-07-27,male,0,6,DPMD Jayawardene,South Africa,bat,Sri Lanka,153,1,unknown,unknown,South Africa,Sri Lanka
+2,Test,2006,P Sara Oval,Colombo,2006-08-04,male,0,6,DPMD Jayawardene,South Africa,bat,Sri Lanka,1,1,unknown,unknown,South Africa,Sri Lanka
+1,Test,2006/07,The Wanderers Stadium,Johannesburg,2006-12-15,male,0,6,S Sreesanth,India,bat,India,123,123,unknown,unknown,India,South Africa
+2,Test,2006/07,Kingsmead,Durban,2006-12-26,male,0,6,M Ntini,South Africa,bat,South Africa,174,174,unknown,unknown,South Africa,India
+3,Test,2006/07,Newlands,Cape Town,2007-01-02,male,0,6,GC Smith,India,bat,South Africa,5,5,unknown,unknown,India,South Africa
+1,Test,2006/07,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2006-11-23,male,0,6,RT Ponting,Australia,bat,Australia,277,277,unknown,unknown,Australia,England
+2,Test,2006/07,Adelaide Oval,unknown,2006-12-01,male,0,6,RT Ponting,England,bat,Australia,6,6,unknown,unknown,England,Australia
+3,Test,2006/07,W.A.C.A. Ground,Perth,2006-12-14,male,0,6,MEK Hussey,Australia,bat,Australia,206,206,unknown,unknown,Australia,England
+4,Test,2006/07,Melbourne Cricket Ground,unknown,2006-12-26,male,0,6,SK Warne,England,bat,Australia,99,1,unknown,unknown,England,Australia
+5,Test,2006/07,Sydney Cricket Ground,unknown,2007-01-02,male,0,6,SR Clark,England,bat,Australia,10,10,unknown,unknown,England,Australia
+2,Test,2006/07,St George's Park,Port Elizabeth,2007-01-19,male,0,6,Inzamam-ul-Haq,South Africa,bat,Pakistan,5,5,unknown,unknown,South Africa,Pakistan
+3,Test,2006/07,Newlands,Cape Town,2007-01-26,male,0,6,JH Kallis,South Africa,field,South Africa,5,5,unknown,unknown,Pakistan,South Africa
+1,Test,2006/07,AMI Stadium,Christchurch,2006-12-07,male,0,6,SE Bond,Sri Lanka,bat,New Zealand,5,5,unknown,unknown,Sri Lanka,New Zealand
+2,Test,2006/07,Basin Reserve,Wellington,2006-12-15,male,0,6,LPC Silva,Sri Lanka,bat,Sri Lanka,217,217,unknown,unknown,Sri Lanka,New Zealand
+1,Test,2006/07,Gaddafi Stadium,Lahore,2006-11-11,male,0,6,Umar Gul,West Indies,bat,Pakistan,9,9,unknown,unknown,West Indies,Pakistan
+2,Test,2006/07,Multan Cricket Stadium,unknown,2006-11-19,male,0,6,Mohammad Yousuf,Pakistan,bat,unknown,unknown,0,unknown,unknown,Pakistan,West Indies
+1,Test,2007,Lord's,London,2007-05-17,male,0,6,AN Cook,West Indies,field,unknown,unknown,0,unknown,unknown,England,West Indies
+2,Test,2007,Headingley,Leeds,2007-05-25,male,0,6,KP Pietersen,England,bat,England,283,1,unknown,unknown,England,West Indies
+3,Test,2007,Old Trafford,Manchester,2007-06-07,male,0,6,MS Panesar,England,bat,England,60,60,unknown,unknown,England,West Indies
+4,Test,2007,Riverside Ground,Chester-le-Street,2007-06-15,male,0,6,S Chanderpaul,England,field,England,7,7,unknown,unknown,West Indies,England
+1,Test,2007,Lord's,London,2007-07-19,male,0,6,KP Pietersen,England,bat,unknown,unknown,0,unknown,unknown,England,India
+2,Test,2007,Trent Bridge,Nottingham,2007-07-27,male,0,6,Z Khan,India,field,India,7,7,unknown,unknown,England,India
+3,Test,2007,Kennington Oval,London,2007-08-09,male,0,6,A Kumble,India,bat,unknown,unknown,0,unknown,unknown,India,England
+1,Test,2007,Zahur Ahmed Chowdhury Stadium,Chattogram,2007-05-18,male,0,6,Mashrafe Mortaza,India,bat,unknown,unknown,0,unknown,unknown,India,Bangladesh
+2,Test,2007,"Shere Bangla National Stadium, Mirpur",Dhaka,2007-05-25,male,0,6,Z Khan,Bangladesh,field,India,239,1,unknown,unknown,India,Bangladesh
+1,Test,2007/08,Asgiriya Stadium,Kandy,2007-12-01,male,0,6,KC Sangakkara,Sri Lanka,bat,Sri Lanka,88,88,unknown,unknown,Sri Lanka,England
+2,Test,2007/08,Sinhalese Sports Club Ground,Colombo,2007-12-09,male,0,6,DPMD Jayawardene,England,bat,unknown,unknown,0,unknown,unknown,England,Sri Lanka
+3,Test,2007/08,Galle International Stadium,unknown,2007-12-18,male,0,6,DPMD Jayawardene,England,field,unknown,unknown,0,unknown,unknown,Sri Lanka,England
+1,Test,2007/08,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2007-11-08,male,0,6,B Lee,Sri Lanka,field,Australia,40,1,unknown,unknown,Australia,Sri Lanka
+2,Test,2007/08,Bellerive Oval,Hobart,2007-11-16,male,0,6,B Lee,Australia,bat,Australia,96,96,unknown,unknown,Australia,Sri Lanka
+1,Test,2007/08,Melbourne Cricket Ground,unknown,2007-12-26,male,0,6,ML Hayden,Australia,bat,Australia,337,337,unknown,unknown,Australia,India
+2,Test,2007/08,Sydney Cricket Ground,unknown,2008-01-02,male,0,6,A Symonds,Australia,bat,Australia,122,122,unknown,unknown,Australia,India
+3,Test,2007/08,Western Australia Cricket Association Ground,Perth,2008-01-16,male,0,6,IK Pathan,India,bat,India,72,72,unknown,unknown,Australia,India
+4,Test,2007/08,Adelaide Oval,unknown,2008-01-24,male,0,6,SR Tendulkar,India,bat,unknown,unknown,0,unknown,unknown,Australia,India
+1,Test,2007,Sinhalese Sports Club Ground,Colombo,2007-06-25,male,0,6,M Muralitharan,Sri Lanka,field,Sri Lanka,234,1,unknown,unknown,Bangladesh,Sri Lanka
+2,Test,2007,P Sara Oval,Colombo,2007-07-03,male,0,6,KC Sangakkara,Sri Lanka,field,Sri Lanka,90,1,unknown,unknown,Bangladesh,Sri Lanka
+3,Test,2007,Asgiriya Stadium,Kandy,2007-07-11,male,0,6,M Muralitharan,Sri Lanka,field,Sri Lanka,193,1,unknown,unknown,Bangladesh,Sri Lanka
+1,Test,2008,Lord's,London,2008-05-15,male,0,6,DL Vettori,England,field,unknown,unknown,0,unknown,unknown,England,New Zealand
+2,Test,2008,Old Trafford,Manchester,2008-05-23,male,0,6,MS Panesar,New Zealand,bat,England,6,6,unknown,unknown,England,New Zealand
+3,Test,2008,Trent Bridge,Nottingham,2008-06-05,male,0,6,JM Anderson,New Zealand,field,England,9,1,unknown,unknown,England,New Zealand
+1,Test,2008,Lord's,London,2008-07-10,male,0,6,IR Bell,South Africa,field,unknown,unknown,0,unknown,unknown,England,South Africa
+2,Test,2008,Headingley,Leeds,2008-07-18,male,0,6,AG Prince,South Africa,field,South Africa,10,10,unknown,unknown,England,South Africa
+3,Test,2008,Edgbaston,Birmingham,2008-07-30,male,0,6,GC Smith,England,bat,South Africa,5,5,unknown,unknown,England,South Africa
+4,Test,2008,Kennington Oval,London,2008-08-07,male,0,6,KP Pietersen,South Africa,bat,England,6,6,unknown,unknown,England,South Africa
+1,Test,2007/08,Arun Jaitley Stadium,Delhi,2007-11-22,male,0,6,A Kumble,Pakistan,bat,India,6,6,unknown,unknown,Pakistan,India
+2,Test,2007/08,Eden Gardens,Kolkata,2007-11-30,male,0,6,W Jaffer,India,bat,unknown,unknown,0,unknown,unknown,India,Pakistan
+3,Test,2007/08,M.Chinnaswamy Stadium,Bengaluru,2007-12-08,male,0,6,SC Ganguly,India,bat,unknown,unknown,0,unknown,unknown,India,Pakistan
+1,Test,2007/08,The Wanderers Stadium,Johannesburg,2007-11-08,male,0,6,DW Steyn,South Africa,bat,South Africa,358,358,unknown,unknown,South Africa,New Zealand
+2,Test,2007/08,SuperSport Park,Centurion,2007-11-16,male,0,6,DW Steyn,New Zealand,bat,South Africa,59,1,unknown,unknown,New Zealand,South Africa
+1,Test,2007/08,St George's Park,Port Elizabeth,2007-12-26,male,0,6,MN Samuels,South Africa,field,West Indies,128,128,unknown,unknown,West Indies,South Africa
+2,Test,2007/08,Newlands,Cape Town,2008-01-02,male,0,6,AG Prince,West Indies,bat,South Africa,7,7,unknown,unknown,South Africa,West Indies
+3,Test,2007/08,Kingsmead,Durban,2008-01-10,male,0,6,AG Prince,South Africa,field,South Africa,100,1,unknown,unknown,South Africa,West Indies
+1,Test,2007/08,National Stadium,Karachi,2007-10-01,male,0,6,JH Kallis,South Africa,bat,South Africa,160,160,unknown,unknown,South Africa,Pakistan
+2,Test,2007/08,Gaddafi Stadium,Lahore,2007-10-08,male,0,6,JH Kallis,South Africa,bat,unknown,unknown,0,unknown,unknown,South Africa,Pakistan
+1,Test,2007/08,University Oval,Dunedin,2008-01-04,male,0,6,JDP Oram,New Zealand,field,New Zealand,9,9,unknown,unknown,New Zealand,Bangladesh
+2,Test,2007/08,Basin Reserve,Wellington,2008-01-12,male,0,6,DL Vettori,New Zealand,field,New Zealand,137,1,unknown,unknown,New Zealand,Bangladesh
+1,Test,2007/08,Seddon Park,Hamilton,2008-03-05,male,0,6,DL Vettori,New Zealand,bat,New Zealand,189,189,unknown,unknown,New Zealand,England
+2,Test,2007/08,Basin Reserve,Wellington,2008-03-13,male,0,6,TR Ambrose,New Zealand,field,England,126,126,unknown,unknown,New Zealand,England
+3,Test,2007/08,McLean Park,Napier,2008-03-22,male,0,6,RJ Sidebottom,England,bat,England,121,121,unknown,unknown,New Zealand,England
+1,Test,2007/08,Providence Stadium,Guyana,2008-03-22,male,0,6,WPUJC Vaas,Sri Lanka,bat,Sri Lanka,121,121,unknown,unknown,West Indies,Sri Lanka
+2,Test,2007/08,"Queen's Park Oval, Port of Spain",Trinidad,2008-04-03,male,0,6,RR Sarwan,West Indies,field,West Indies,6,6,unknown,unknown,West Indies,Sri Lanka
+1,Test,2008,"Sabina Park, Kingston",Jamaica,2008-05-22,male,0,6,SR Clark,Australia,bat,Australia,95,95,unknown,unknown,West Indies,Australia
+2,Test,2008,"Sir Vivian Richards Stadium, North Sound",Antigua,2008-05-30,male,0,6,S Chanderpaul,Australia,bat,unknown,unknown,0,unknown,unknown,West Indies,Australia
+3,Test,2008,"Kensington Oval, Bridgetown",Barbados,2008-06-12,male,0,6,SM Katich,West Indies,field,Australia,87,87,unknown,unknown,West Indies,Australia
+1,Test,2007/08,Shere Bangla National Stadium,Mirpur,2008-02-22,male,0,6,JH Kallis,Bangladesh,bat,South Africa,5,5,unknown,unknown,Bangladesh,South Africa
+2,Test,2007/08,Chittagong Divisional Stadium,unknown,2008-02-29,male,0,6,GC Smith,South Africa,bat,South Africa,205,1,unknown,unknown,Bangladesh,South Africa
+1,Test,2007/08,"MA Chidambaram Stadium, Chepauk",Chennai,2008-03-26,male,0,6,V Sehwag,South Africa,bat,unknown,unknown,0,unknown,unknown,India,South Africa
+2,Test,2007/08,"Sardar Patel Stadium, Motera",Ahmedabad,2008-04-03,male,0,6,AB de Villiers,India,bat,South Africa,90,1,unknown,unknown,India,South Africa
+3,Test,2007/08,Green Park,Kanpur,2008-04-11,male,0,6,SC Ganguly,South Africa,bat,India,8,8,unknown,unknown,India,South Africa
+1,Test,2008,Sinhalese Sports Club Ground,Colombo,2008-07-23,male,0,6,M Muralitharan,Sri Lanka,bat,Sri Lanka,239,1,unknown,unknown,Sri Lanka,India
+2,Test,2008,Galle International Stadium,unknown,2008-07-31,male,0,6,V Sehwag,India,bat,India,170,170,unknown,unknown,Sri Lanka,India
+3,Test,2008,P Saravanamuttu Stadium,Colombo,2008-08-08,male,0,6,KC Sangakkara,India,bat,Sri Lanka,8,8,unknown,unknown,Sri Lanka,India
+1,Test,2008/09,M Chinnaswamy Stadium,Bangalore,2008-10-09,male,0,6,Z Khan,Australia,bat,unknown,unknown,0,unknown,unknown,India,Australia
+2,Test,2008/09,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2008-10-17,male,0,6,MS Dhoni,India,bat,India,320,320,unknown,unknown,India,Australia
+3,Test,2008/09,Feroz Shah Kotla,Delhi,2008-10-29,male,0,6,VVS Laxman,India,bat,unknown,unknown,0,unknown,unknown,India,Australia
+4,Test,2008/09,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2008-11-06,male,0,6,JJ Krejza,India,bat,India,172,172,unknown,unknown,India,Australia
+1,Test,2009,Sophia Gardens,Cardiff,2009-07-08,male,0,6,RT Ponting,England,bat,unknown,unknown,0,unknown,unknown,England,Australia
+2,Test,2009,Lord's,London,2009-07-16,male,0,6,A Flintoff,England,bat,England,115,115,unknown,unknown,England,Australia
+3,Test,2009,Edgbaston,Birmingham,2009-07-30,male,0,6,MJ Clarke,Australia,bat,unknown,unknown,0,unknown,unknown,England,Australia
+4,Test,2009,Headingley,Leeds,2009-08-07,male,0,6,MJ North,England,bat,Australia,80,1,unknown,unknown,England,Australia
+5,Test,2009,Kennington Oval,London,2009-08-20,male,0,6,SCJ Broad,England,bat,England,197,197,unknown,unknown,England,Australia
+1,Test,2008/09,OUTsurance Oval,Bloemfontein,2008-11-19,male,0,6,GC Smith,Bangladesh,field,South Africa,129,1,unknown,unknown,South Africa,Bangladesh
+2,Test,2008/09,SuperSport Park,Centurion,2008-11-26,male,0,6,AG Prince,Bangladesh,bat,South Africa,48,1,unknown,unknown,South Africa,Bangladesh
+1,Test,2008/09,New Wanderers Stadium,Johannesburg,2009-02-26,male,0,6,MG Johnson,Australia,bat,Australia,162,162,unknown,unknown,South Africa,Australia
+2,Test,2008/09,Kingsmead,Durban,2009-03-06,male,0,6,PJ Hughes,Australia,bat,Australia,175,175,unknown,unknown,South Africa,Australia
+3,Test,2008/09,Newlands,Cape Town,2009-03-19,male,0,6,PL Harris,Australia,bat,South Africa,20,1,unknown,unknown,South Africa,Australia
+1,Test,2008/09,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2008-11-20,male,0,6,MG Johnson,New Zealand,field,Australia,149,149,unknown,unknown,Australia,New Zealand
+2,Test,2008/09,Adelaide Oval,unknown,2008-11-28,male,0,6,BJ Haddin,New Zealand,bat,Australia,62,1,unknown,unknown,Australia,New Zealand
+1,Test,2008/09,Western Australia Cricket Association Ground,Perth,2008-12-17,male,0,6,AB de Villiers,Australia,bat,South Africa,6,6,unknown,unknown,Australia,South Africa
+2,Test,2008/09,Melbourne Cricket Ground,unknown,2008-12-26,male,0,6,DW Steyn,Australia,bat,South Africa,9,9,unknown,unknown,Australia,South Africa
+3,Test,2008/09,Sydney Cricket Ground,unknown,2009-01-03,male,0,6,PM Siddle,Australia,bat,Australia,103,103,unknown,unknown,Australia,South Africa
+1,Test,2008/09,"Sabina Park, Kingston",Jamaica,2009-02-04,male,0,6,JE Taylor,England,bat,West Indies,23,1,unknown,unknown,West Indies,England
+2,Test,2008/09,"Sir Vivian Richards Stadium, North Sound",Antigua,2009-02-13,male,0,6,,West Indies,field,unknown,unknown,0,unknown,unknown,West Indies,England
+4,Test,2008/09,"Kensington Oval, Bridgetown",Barbados,2009-02-26,male,0,6,RR Sarwan,England,bat,unknown,unknown,0,unknown,unknown,West Indies,England
+5,Test,2008/09,"Queen's Park Oval, Port of Spain",Trinidad,2009-03-06,male,0,6,MJ Prior,England,bat,unknown,unknown,0,unknown,unknown,West Indies,England
+1,Test,2008/09,"MA Chidambaram Stadium, Chepauk",Chennai,2008-12-11,male,0,6,V Sehwag,England,bat,India,6,6,unknown,unknown,India,England
+2,Test,2008/09,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2008-12-19,male,0,6,G Gambhir,India,bat,unknown,unknown,0,unknown,unknown,India,England
+2,Test,2008/09,Shere Bangla National Stadium,Mirpur,2008-10-25,male,0,6,DL Vettori,Bangladesh,field,unknown,unknown,0,unknown,unknown,Bangladesh,New Zealand
+1,Test,2008/09,Seddon Park,Hamilton,2009-03-18,male,0,6,SR Tendulkar,India,field,India,10,10,unknown,unknown,New Zealand,India
+3,Test,2008/09,Basin Reserve,Wellington,2009-04-03,male,0,6,G Gambhir,New Zealand,field,unknown,unknown,0,unknown,unknown,New Zealand,India
+2,Test,2008/09,Chittagong Divisional Stadium,unknown,2009-01-03,male,0,6,TM Dilshan,Sri Lanka,bat,Sri Lanka,465,465,unknown,unknown,Bangladesh,Sri Lanka
+1,Test,2009,Lord's,London,2009-05-06,male,0,6,GP Swann,West Indies,field,England,10,10,unknown,unknown,England,West Indies
+2,Test,2009,Riverside Ground,Chester-le-Street,2009-05-14,male,0,6,JM Anderson,England,bat,England,83,1,unknown,unknown,England,West Indies
+2,Test,2008/09,McLean Park,Napier,2009-03-26,male,0,6,JD Ryder,New Zealand,bat,unknown,unknown,0,unknown,unknown,New Zealand,India
+1,Test,2009/10,SuperSport Park,Centurion,2009-12-16,male,0,6,GP Swann,England,field,unknown,unknown,0,unknown,unknown,South Africa,England
+2,Test,2009/10,Kingsmead,Durban,2009-12-26,male,0,6,GP Swann,South Africa,bat,England,98,1,unknown,unknown,South Africa,England
+3,Test,2009/10,Newlands,Cape Town,2010-01-03,male,0,6,GC Smith,England,field,unknown,unknown,0,unknown,unknown,South Africa,England
+4,Test,2009/10,New Wanderers Stadium,Johannesburg,2010-01-14,male,0,6,"M Morkel, DW Steyn",England,bat,South Africa,74,1,unknown,unknown,South Africa,England
+1,Test,2008/09,National Stadium,Karachi,2009-02-21,male,0,6,Younis Khan,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Pakistan,Sri Lanka
+2,Test,2008/09,Gaddafi Stadium,Lahore,2009-03-01,male,0,6,,Pakistan,field,unknown,unknown,0,unknown,unknown,Pakistan,Sri Lanka
+3,Test,2008/09,"Antigua Recreation Ground, St John's",Antigua,2009-02-15,male,0,6,RR Sarwan,West Indies,field,unknown,unknown,0,unknown,unknown,West Indies,England
+1,Test,2009,"Arnos Vale Ground, Kingstown",St Vincent,2009-07-09,male,0,6,Tamim Iqbal,Bangladesh,bat,Bangladesh,95,95,unknown,unknown,West Indies,Bangladesh
+2,Test,2009,"National Cricket Stadium, St George's",Grenada,2009-07-17,male,0,6,Shakib Al Hasan,Bangladesh,field,Bangladesh,4,4,unknown,unknown,West Indies,Bangladesh
+1,Test,2009,Galle International Stadium,unknown,2009-07-04,male,0,6,HMRKB Herath,Pakistan,field,Sri Lanka,50,50,unknown,unknown,Sri Lanka,Pakistan
+2,Test,2009,P Sara Oval,Colombo,2009-07-12,male,0,6,"Fawad Alam, KMDN Kulasekara",Pakistan,bat,Sri Lanka,7,7,unknown,unknown,Sri Lanka,Pakistan
+3,Test,2009,Sinhalese Sports Club Ground,Colombo,2009-07-20,male,0,6,KC Sangakkara,Sri Lanka,field,unknown,unknown,0,unknown,unknown,Sri Lanka,Pakistan
+1,Test,2009,Galle International Stadium,unknown,2009-08-18,male,0,6,TM Dilshan,New Zealand,field,Sri Lanka,202,202,unknown,unknown,Sri Lanka,New Zealand
+2,Test,2009,Sinhalese Sports Club Ground,Colombo,2009-08-26,male,0,6,DPMD Jayawardene,Sri Lanka,bat,Sri Lanka,96,96,unknown,unknown,Sri Lanka,New Zealand
+1,Test,2009/10,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2009-11-26,male,0,6,BW Hilfenhaus,Australia,bat,Australia,65,1,unknown,unknown,Australia,West Indies
+2,Test,2009/10,Adelaide Oval,unknown,2009-12-04,male,0,6,CH Gayle,West Indies,bat,unknown,unknown,0,unknown,unknown,Australia,West Indies
+3,Test,2009/10,Western Australia Cricket Association Ground,Perth,2009-12-16,male,0,6,CH Gayle,Australia,bat,Australia,35,35,unknown,unknown,Australia,West Indies
+1,Test,2009/10,Melbourne Cricket Ground,unknown,2009-12-26,male,0,6,SR Watson,Australia,bat,Australia,170,170,unknown,unknown,Australia,Pakistan
+2,Test,2009/10,Sydney Cricket Ground,unknown,2010-01-03,male,0,6,MEK Hussey,Australia,bat,Australia,36,36,unknown,unknown,Australia,Pakistan
+3,Test,2009/10,Bellerive Oval,Hobart,2010-01-14,male,0,6,RT Ponting,Australia,bat,Australia,231,231,unknown,unknown,Australia,Pakistan
+1,Test,2009/10,University Oval,Dunedin,2009-11-24,male,0,6,SE Bond,Pakistan,field,New Zealand,32,32,unknown,unknown,New Zealand,Pakistan
+2,Test,2009/10,Basin Reserve,Wellington,2009-12-03,male,0,6,Mohammad Asif,New Zealand,field,Pakistan,141,141,unknown,unknown,New Zealand,Pakistan
+3,Test,2009/10,McLean Park,Napier,2009-12-11,male,0,6,DL Vettori,Pakistan,bat,unknown,unknown,0,unknown,unknown,New Zealand,Pakistan
+unknown,Test,2009/10,Seddon Park,Hamilton,2010-02-15,male,0,6,MJ Guptill,Bangladesh,field,New Zealand,121,121,unknown,unknown,New Zealand,Bangladesh
+1,Test,2009/10,Basin Reserve,Wellington,2010-03-19,male,0,6,MJ Clarke,Australia,bat,Australia,10,10,unknown,unknown,New Zealand,Australia
+2,Test,2009/10,Seddon Park,Hamilton,2010-03-27,male,0,6,MG Johnson,Australia,bat,Australia,176,176,unknown,unknown,New Zealand,Australia
+1,Test,2010,Lord's,London,2010-07-13,male,0,6,"SM Katich, Salman Butt",Pakistan,field,Australia,150,150,unknown,unknown,Australia,Pakistan
+2,Test,2010,Headingley,Leeds,2010-07-21,male,0,6,"Mohammad Amir, SR Watson",Australia,bat,Pakistan,3,3,unknown,unknown,Australia,Pakistan
+1,Test,2010,Lord's,London,2010-05-27,male,0,6,ST Finn,Bangladesh,field,England,8,8,unknown,unknown,England,Bangladesh
+2,Test,2010,Old Trafford,Manchester,2010-06-04,male,0,6,IR Bell,England,bat,England,80,1,unknown,unknown,England,Bangladesh
+1,Test,2010,Trent Bridge,Nottingham,2010-07-29,male,0,6,JM Anderson,England,bat,England,354,354,unknown,unknown,England,Pakistan
+2,Test,2010,Edgbaston,Birmingham,2010-08-06,male,0,6,GP Swann,Pakistan,bat,England,9,9,unknown,unknown,England,Pakistan
+3,Test,2010,Kennington Oval,London,2010-08-18,male,0,6,Mohammad Amir,England,bat,Pakistan,4,4,unknown,unknown,England,Pakistan
+4,Test,2010,Lord's,London,2010-08-26,male,0,6,SCJ Broad,Pakistan,field,England,225,1,unknown,unknown,England,Pakistan
+1,Test,2009/10,Zohur Ahmed Chowdhury Stadium,Chittagong,2010-03-12,male,0,6,GP Swann,Bangladesh,field,England,181,181,unknown,unknown,Bangladesh,England
+2,Test,2009/10,Shere Bangla National Stadium,Mirpur,2010-03-20,male,0,6,Shakib Al Hasan,Bangladesh,bat,England,9,9,unknown,unknown,Bangladesh,England
+1,Test,2010/11,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2010-11-25,male,0,6,AN Cook,England,bat,unknown,unknown,0,unknown,unknown,Australia,England
+2,Test,2010/11,Adelaide Oval,unknown,2010-12-03,male,0,6,KP Pietersen,Australia,bat,England,71,1,unknown,unknown,Australia,England
+3,Test,2010/11,Western Australia Cricket Association Ground,Perth,2010-12-16,male,0,6,MG Johnson,England,field,Australia,267,267,unknown,unknown,Australia,England
+4,Test,2010/11,Melbourne Cricket Ground,unknown,2010-12-26,male,0,6,IJL Trott,England,field,England,157,1,unknown,unknown,Australia,England
+5,Test,2010/11,Sydney Cricket Ground,unknown,2011-01-03,male,0,6,AN Cook,Australia,bat,England,83,1,unknown,unknown,Australia,England
+1,Test,2009/10,"Sardar Patel Stadium, Motera",Ahmedabad,2009-11-16,male,0,6,DPMD Jayawardene,India,bat,unknown,unknown,0,unknown,unknown,India,Sri Lanka
+2,Test,2009/10,Green Park,Kanpur,2009-11-24,male,0,6,S Sreesanth,India,bat,India,144,1,unknown,unknown,India,Sri Lanka
+3,Test,2009/10,Brabourne Stadium,Mumbai,2009-12-02,male,0,6,V Sehwag,Sri Lanka,bat,India,24,1,unknown,unknown,India,Sri Lanka
+1,Test,2009/10,Zahur Ahmed Chowdhury Stadium,Chittagong,2010-01-17,male,0,6,SR Tendulkar,Bangladesh,field,India,113,113,unknown,unknown,Bangladesh,India
+2,Test,2009/10,Shere Bangla National Stadium,Mirpur,2010-01-24,male,0,6,Z Khan,Bangladesh,bat,India,10,10,unknown,unknown,Bangladesh,India
+1,Test,2010,"Queen's Park Oval, Port of Spain",Trinidad,2010-06-10,male,0,6,DW Steyn,South Africa,bat,South Africa,163,163,unknown,unknown,West Indies,South Africa
+2,Test,2010,"Warner Park, Basseterre",St Kitts,2010-06-18,male,0,6,S Chanderpaul,South Africa,bat,unknown,unknown,0,unknown,unknown,West Indies,South Africa
+3,Test,2010,"Kensington Oval, Bridgetown",Barbados,2010-06-26,male,0,6,J Botha,West Indies,bat,South Africa,7,7,unknown,unknown,West Indies,South Africa
+1,Test,2009/10,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2010-02-06,male,0,6,HM Amla,South Africa,bat,South Africa,6,1,unknown,unknown,India,South Africa
+2,Test,2009/10,Eden Gardens,Kolkata,2010-02-14,male,0,6,HM Amla,South Africa,bat,India,57,1,unknown,unknown,India,South Africa
+1,Test,2010,Galle International Stadium,unknown,2010-07-18,male,0,6,SL Malinga,Sri Lanka,bat,Sri Lanka,10,10,unknown,unknown,Sri Lanka,India
+2,Test,2010,Sinhalese Sports Club Ground,Colombo,2010-07-26,male,0,6,KC Sangakkara,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,India
+3,Test,2010,P Sara Oval,Colombo,2010-08-03,male,0,6,VVS Laxman,Sri Lanka,bat,India,5,5,unknown,unknown,Sri Lanka,India
+1,Test,2010/11,Dubai International Cricket Stadium,unknown,2010-11-12,male,0,6,Younis Khan,South Africa,bat,unknown,unknown,0,unknown,unknown,Pakistan,South Africa
+2,Test,2010/11,Sheikh Zayed Stadium,Abu Dhabi,2010-11-20,male,0,6,AB de Villiers,Pakistan,field,unknown,unknown,0,unknown,unknown,Pakistan,South Africa
+1,Test,2010/11,SuperSport Park,Centurion,2010-12-16,male,0,6,JH Kallis,South Africa,field,South Africa,25,1,unknown,unknown,South Africa,India
+2,Test,2010/11,Kingsmead,Durban,2010-12-26,male,0,6,VVS Laxman,South Africa,field,India,87,87,unknown,unknown,South Africa,India
+3,Test,2010/11,Newlands,Cape Town,2011-01-02,male,0,6,JH Kallis,India,field,unknown,unknown,0,unknown,unknown,South Africa,India
+1,Test,2010/11,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2010-10-01,male,0,6,Z Khan,Australia,bat,India,1,1,unknown,unknown,India,Australia
+2,Test,2010/11,M Chinnaswamy Stadium,Bangalore,2010-10-09,male,0,6,SR Tendulkar,Australia,bat,India,7,7,unknown,unknown,India,Australia
+1,Test,2010/11,"Sardar Patel Stadium, Motera",Ahmedabad,2010-11-04,male,0,6,Harbhajan Singh,India,bat,unknown,unknown,0,unknown,unknown,India,New Zealand
+2,Test,2010/11,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2010-11-12,male,0,6,BB McCullum,New Zealand,bat,unknown,unknown,0,unknown,unknown,India,New Zealand
+3,Test,2010/11,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2010-11-20,male,0,6,R Dravid,New Zealand,bat,India,198,1,unknown,unknown,India,New Zealand
+1,Test,2010/11,Galle International Stadium,unknown,2010-11-15,male,0,6,CH Gayle,West Indies,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,West Indies
+2,Test,2010/11,R Premadasa Stadium,Colombo,2010-11-23,male,0,6,KC Sangakkara,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,West Indies
+3,Test,2010/11,Pallekele International Cricket Stadium,unknown,2010-12-01,male,0,6,,Sri Lanka,field,unknown,unknown,0,unknown,unknown,Sri Lanka,West Indies
+1,Test,2010/11,Seddon Park,Hamilton,2011-01-07,male,0,6,Abdur Rehman,Pakistan,field,Pakistan,10,10,unknown,unknown,New Zealand,Pakistan
+2,Test,2010/11,Basin Reserve,Wellington,2011-01-15,male,0,6,Misbah-ul-Haq,New Zealand,bat,unknown,unknown,0,unknown,unknown,New Zealand,Pakistan
+1,Test,2011,Sophia Gardens,Cardiff,2011-05-26,male,0,6,IJL Trott,Sri Lanka,bat,England,14,1,unknown,unknown,England,Sri Lanka
+2,Test,2011,Lord's,London,2011-06-03,male,0,6,TM Dilshan,Sri Lanka,field,unknown,unknown,0,unknown,unknown,England,Sri Lanka
+3,Test,2011,The Rose Bowl,Southampton,2011-06-16,male,0,6,CT Tremlett,England,field,unknown,unknown,0,unknown,unknown,England,Sri Lanka
+1,Test,2011,Lord's,London,2011-07-21,male,0,6,KP Pietersen,India,field,England,196,196,unknown,unknown,England,India
+2,Test,2011,Trent Bridge,Nottingham,2011-07-29,male,0,6,SCJ Broad,India,field,England,319,319,unknown,unknown,England,India
+3,Test,2011,Edgbaston,Birmingham,2011-08-10,male,0,6,AN Cook,England,field,England,242,1,unknown,unknown,England,India
+4,Test,2011,Kennington Oval,London,2011-08-18,male,0,6,IR Bell,England,bat,England,8,1,unknown,unknown,England,India
+1,Test,2011,Providence Stadium,Guyana,2011-05-12,male,0,6,DJG Sammy,West Indies,bat,West Indies,40,40,unknown,unknown,West Indies,Pakistan
+2,Test,2011,"Warner Park, Basseterre",St Kitts,2011-05-20,male,0,6,Taufeeq Umar,Pakistan,bat,Pakistan,196,196,unknown,unknown,West Indies,Pakistan
+1,Test,2011,"Sabina Park, Kingston",Jamaica,2011-06-20,male,0,6,R Dravid,India,bat,India,63,63,unknown,unknown,West Indies,India
+2,Test,2011,"Kensington Oval, Bridgetown",Barbados,2011-06-28,male,0,6,I Sharma,West Indies,field,unknown,unknown,0,unknown,unknown,West Indies,India
+3,Test,2011,"Windsor Park, Roseau",Dominica,2011-07-06,male,0,6,S Chanderpaul,India,field,unknown,unknown,0,unknown,unknown,West Indies,India
+1,Test,2011/12,Newlands,Cape Town,2011-11-09,male,0,6,VD Philander,South Africa,field,South Africa,8,8,unknown,unknown,South Africa,Australia
+2,Test,2011/12,New Wanderers Stadium,Johannesburg,2011-11-17,male,0,6,PJ Cummins,South Africa,bat,Australia,2,2,unknown,unknown,South Africa,Australia
+1,Test,2011/12,SuperSport Park,Centurion,2011-12-15,male,0,6,VD Philander,South Africa,field,South Africa,81,1,unknown,unknown,South Africa,Sri Lanka
+2,Test,2011/12,Kingsmead,Durban,2011-12-26,male,0,6,HMRKB Herath,Sri Lanka,bat,Sri Lanka,208,208,unknown,unknown,South Africa,Sri Lanka
+3,Test,2011/12,Newlands,Cape Town,2012-01-03,male,0,6,JH Kallis,Sri Lanka,field,South Africa,10,10,unknown,unknown,South Africa,Sri Lanka
+1,Test,2011,Galle International Stadium,unknown,2011-08-31,male,0,6,MEK Hussey,Australia,bat,Australia,125,125,unknown,unknown,Sri Lanka,Australia
+2,Test,2011,Pallekele International Cricket Stadium,unknown,2011-09-08,male,0,6,MEK Hussey,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,Australia
+3,Test,2011,Sinhalese Sports Club Ground,Colombo,2011-09-16,male,0,6,MEK Hussey,Sri Lanka,field,unknown,unknown,0,unknown,unknown,Sri Lanka,Australia
+1,Test,2011/12,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2011-12-01,male,0,6,JL Pattinson,New Zealand,bat,Australia,9,9,unknown,unknown,Australia,New Zealand
+2,Test,2011/12,Bellerive Oval,Hobart,2011-12-09,male,0,6,DA Warner,Australia,field,New Zealand,7,7,unknown,unknown,Australia,New Zealand
+1,Test,2011/12,Melbourne Cricket Ground,unknown,2011-12-26,male,0,6,JL Pattinson,Australia,bat,Australia,122,122,unknown,unknown,Australia,India
+2,Test,2011/12,Sydney Cricket Ground,unknown,2012-01-03,male,0,6,MJ Clarke,India,bat,Australia,68,1,unknown,unknown,Australia,India
+3,Test,2011/12,Western Australia Cricket Association Ground,Perth,2012-01-13,male,0,6,DA Warner,Australia,field,Australia,37,1,unknown,unknown,Australia,India
+4,Test,2011/12,Adelaide Oval,unknown,2012-01-24,male,0,6,PM Siddle,Australia,bat,Australia,298,298,unknown,unknown,Australia,India
+unknown,Test,2011/12,McLean Park,Napier,2012-01-26,male,0,6,CS Martin,Zimbabwe,field,New Zealand,301,1,unknown,unknown,New Zealand,Zimbabwe
+1,Test,2011/12,University Oval,Dunedin,2012-03-07,male,0,6,GC Smith,New Zealand,field,unknown,unknown,0,unknown,unknown,New Zealand,South Africa
+2,Test,2011/12,Seddon Park,Hamilton,2012-03-15,male,0,6,VD Philander,South Africa,field,South Africa,9,9,unknown,unknown,New Zealand,South Africa
+3,Test,2011/12,Basin Reserve,Wellington,2012-03-23,male,0,6,M Morkel,New Zealand,field,unknown,unknown,0,unknown,unknown,New Zealand,South Africa
+1,Test,2011/12,Galle International Stadium,unknown,2012-03-26,male,0,6,HMRKB Herath,Sri Lanka,bat,Sri Lanka,75,75,unknown,unknown,Sri Lanka,England
+2,Test,2011/12,P Sara Oval,Colombo,2012-04-03,male,0,6,KP Pietersen,Sri Lanka,bat,England,8,8,unknown,unknown,Sri Lanka,England
+unknown,Test,2011,Harare Sports Club,unknown,2011-08-04,male,0,6,BRM Taylor,Bangladesh,field,Zimbabwe,130,130,unknown,unknown,Zimbabwe,Bangladesh
+unknown,Test,2011,Queens Sports Club,Bulawayo,2011-09-01,male,0,6,Mohammad Hafeez,Pakistan,field,Pakistan,7,7,unknown,unknown,Zimbabwe,Pakistan
+unknown,Test,2011/12,Queens Sports Club,Bulawayo,2011-11-01,male,0,6,DL Vettori,New Zealand,bat,New Zealand,34,34,unknown,unknown,Zimbabwe,New Zealand
+1,Test,2011/12,Sheikh Zayed Stadium,Abu Dhabi,2011-10-18,male,0,6,KC Sangakkara,Pakistan,field,unknown,unknown,0,unknown,unknown,Pakistan,Sri Lanka
+2,Test,2011/12,Dubai International Cricket Stadium,unknown,2011-10-26,male,0,6,Saeed Ajmal,Sri Lanka,bat,Pakistan,9,9,unknown,unknown,Pakistan,Sri Lanka
+3,Test,2011/12,Sharjah Cricket Stadium,unknown,2011-11-03,male,0,6,KC Sangakkara,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Pakistan,Sri Lanka
+1,Test,2011/12,Dubai International Cricket Stadium,unknown,2012-01-17,male,0,6,Saeed Ajmal,England,bat,Pakistan,10,10,unknown,unknown,England,Pakistan
+2,Test,2011/12,Sheikh Zayed Stadium,Abu Dhabi,2012-01-25,male,0,6,Abdur Rehman,Pakistan,bat,Pakistan,72,72,unknown,unknown,England,Pakistan
+3,Test,2011/12,Dubai International Cricket Stadium,unknown,2012-02-03,male,0,6,Azhar Ali,Pakistan,bat,Pakistan,71,71,unknown,unknown,England,Pakistan
+1,Test,2011/12,Zahur Ahmed Chowdhury Stadium,Chittagong,2011-10-21,male,0,6,Elias Sunny,Bangladesh,bat,unknown,unknown,0,unknown,unknown,Bangladesh,West Indies
+2,Test,2011/12,Shere Bangla National Stadium,Mirpur,2011-10-29,male,0,6,KA Edwards,West Indies,bat,West Indies,229,229,unknown,unknown,Bangladesh,West Indies
+1,Test,2012,Lord's,London,2012-05-17,male,0,6,SCJ Broad,England,field,England,5,5,unknown,unknown,England,West Indies
+2,Test,2012,Trent Bridge,Nottingham,2012-05-25,male,0,6,TT Bresnan,West Indies,bat,England,9,9,unknown,unknown,England,West Indies
+3,Test,2012,Edgbaston,Birmingham,2012-06-07,male,0,6,TL Best,England,field,unknown,unknown,0,unknown,unknown,England,West Indies
+1,Test,2012,Kennington Oval,London,2012-07-19,male,0,6,HM Amla,England,bat,South Africa,12,1,unknown,unknown,England,South Africa
+2,Test,2012,Headingley,Leeds,2012-08-02,male,0,6,KP Pietersen,England,field,unknown,unknown,0,unknown,unknown,England,South Africa
+3,Test,2012,Lord's,London,2012-08-16,male,0,6,VD Philander,South Africa,bat,South Africa,51,51,unknown,unknown,England,South Africa
+1,Test,2011/12,Feroz Shah Kotla,Delhi,2011-11-06,male,0,6,R Ashwin,West Indies,bat,India,5,5,unknown,unknown,India,West Indies
+2,Test,2011/12,Eden Gardens,Kolkata,2011-11-14,male,0,6,VVS Laxman,India,bat,India,15,1,unknown,unknown,India,West Indies
+3,Test,2011/12,Wankhede Stadium,Mumbai,2011-11-22,male,0,6,R Ashwin,West Indies,bat,unknown,unknown,0,unknown,unknown,India,West Indies
+1,Test,2011/12,Zahur Ahmed Chowdhury Stadium,Chittagong,2011-12-09,male,0,6,Younis Khan,Pakistan,field,Pakistan,184,1,unknown,unknown,Bangladesh,Pakistan
+2,Test,2011/12,Shere Bangla National Stadium,Mirpur,2011-12-17,male,0,6,Shakib Al Hasan,Pakistan,field,Pakistan,7,7,unknown,unknown,Bangladesh,Pakistan
+1,Test,2011/12,"Kensington Oval, Bridgetown",Barbados,2012-04-07,male,0,6,RJ Harris,West Indies,bat,Australia,3,3,unknown,unknown,West Indies,Australia
+2,Test,2011/12,"Queen's Park Oval, Port of Spain",Trinidad,2012-04-15,male,0,6,KAJ Roach,Australia,bat,unknown,unknown,0,unknown,unknown,West Indies,Australia
+3,Test,2011/12,"Windsor Park, Roseau",Dominica,2012-04-23,male,0,6,MS Wade,Australia,bat,Australia,75,75,unknown,unknown,West Indies,Australia
+1,Test,2012,"Sir Vivian Richards Stadium, North Sound",Antigua,2012-07-25,male,0,6,SP Narine,New Zealand,bat,West Indies,9,9,unknown,unknown,West Indies,New Zealand
+2,Test,2012,"Sabina Park, Kingston",Jamaica,2012-08-02,male,0,6,MN Samuels,West Indies,field,West Indies,5,5,unknown,unknown,West Indies,New Zealand
+1,Test,2012,Galle International Stadium,unknown,2012-06-22,male,0,6,KC Sangakkara,Sri Lanka,bat,Sri Lanka,209,209,unknown,unknown,Sri Lanka,Pakistan
+2,Test,2012,Sinhalese Sports Club Ground,Colombo,2012-06-30,male,0,6,Junaid Khan,Sri Lanka,field,unknown,unknown,0,unknown,unknown,Sri Lanka,Pakistan
+3,Test,2012,Pallekele International Cricket Stadium,unknown,2012-07-08,male,0,6,Asad Shafiq,Sri Lanka,field,unknown,unknown,0,unknown,unknown,Sri Lanka,Pakistan
+1,Test,2012/13,"Sardar Patel Stadium, Motera",Ahmedabad,2012-11-15,male,0,6,CA Pujara,India,bat,India,9,9,unknown,unknown,India,England
+2,Test,2012/13,Wankhede Stadium,Mumbai,2012-11-23,male,0,6,KP Pietersen,India,bat,England,10,10,unknown,unknown,India,England
+3,Test,2012/13,Eden Gardens,Kolkata,2012-12-05,male,0,6,AN Cook,India,bat,England,7,7,unknown,unknown,India,England
+4,Test,2012/13,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2012-12-13,male,0,6,JM Anderson,England,bat,unknown,unknown,0,unknown,unknown,India,England
+1,Test,2012,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2012-08-23,male,0,6,R Ashwin,India,bat,India,115,1,unknown,unknown,India,New Zealand
+2,Test,2012,M Chinnaswamy Stadium,Bangalore,2012-08-31,male,0,6,V Kohli,New Zealand,bat,India,5,5,unknown,unknown,India,New Zealand
+1,Test,2013,Lord's,London,2013-05-16,male,0,6,SCJ Broad,England,bat,England,170,170,unknown,unknown,England,New Zealand
+2,Test,2013,Headingley,Leeds,2013-05-24,male,0,6,GP Swann,England,bat,England,247,247,unknown,unknown,England,New Zealand
+1,Test,2013,Trent Bridge,Nottingham,2013-07-10,male,0,6,JM Anderson,England,bat,England,14,14,unknown,unknown,England,Australia
+2,Test,2013,Lord's,London,2013-07-18,male,0,6,JE Root,England,bat,England,347,347,unknown,unknown,England,Australia
+3,Test,2013,Old Trafford,Manchester,2013-08-01,male,0,6,MJ Clarke,Australia,bat,unknown,unknown,0,unknown,unknown,England,Australia
+4,Test,2013,Riverside Ground,Chester-le-Street,2013-08-09,male,0,6,SCJ Broad,England,bat,England,74,74,unknown,unknown,England,Australia
+5,Test,2013,Kennington Oval,London,2013-08-21,male,0,6,SR Watson,Australia,bat,unknown,unknown,0,unknown,unknown,England,Australia
+1,Test,2012/13,Newlands,Cape Town,2013-01-02,male,0,6,VD Philander,New Zealand,bat,South Africa,27,1,unknown,unknown,South Africa,New Zealand
+2,Test,2012/13,St George's Park,Port Elizabeth,2013-01-11,male,0,6,DW Steyn,South Africa,bat,South Africa,193,1,unknown,unknown,South Africa,New Zealand
+1,Test,2012/13,New Wanderers Stadium,Johannesburg,2013-02-01,male,0,6,DW Steyn,South Africa,bat,South Africa,211,211,unknown,unknown,South Africa,Pakistan
+2,Test,2012/13,Newlands,Cape Town,2013-02-14,male,0,6,RJ Peterson,South Africa,field,South Africa,4,4,unknown,unknown,South Africa,Pakistan
+3,Test,2012/13,SuperSport Park,Centurion,2013-02-22,male,0,6,KJ Abbott,South Africa,bat,South Africa,18,1,unknown,unknown,South Africa,Pakistan
+1,Test,2012/13,University Oval,Dunedin,2013-03-06,male,0,6,,New Zealand,field,unknown,unknown,0,unknown,unknown,New Zealand,England
+2,Test,2012/13,Basin Reserve,Wellington,2013-03-14,male,0,6,,New Zealand,field,unknown,unknown,0,unknown,unknown,New Zealand,England
+3,Test,2012/13,Eden Park,Auckland,2013-03-22,male,0,6,,England,field,unknown,unknown,0,unknown,unknown,New Zealand,England
+1,Test,2012/13,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2012-11-09,male,0,6,MJ Clarke,South Africa,bat,unknown,unknown,0,unknown,unknown,Australia,South Africa
+2,Test,2012/13,Adelaide Oval,unknown,2012-11-22,male,0,6,F du Plessis,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,South Africa
+3,Test,2012/13,Western Australia Cricket Association Ground,Perth,2012-11-30,male,0,6,HM Amla,South Africa,bat,South Africa,309,309,unknown,unknown,Australia,South Africa
+1,Test,2012/13,Bellerive Oval,Hobart,2012-12-14,male,0,6,PM Siddle,Australia,bat,Australia,137,137,unknown,unknown,Australia,Sri Lanka
+2,Test,2012/13,Melbourne Cricket Ground,unknown,2012-12-26,male,0,6,MG Johnson,Sri Lanka,bat,Australia,201,1,unknown,unknown,Australia,Sri Lanka
+3,Test,2012/13,Sydney Cricket Ground,unknown,2013-01-03,male,0,6,JM Bird,Australia,field,Australia,5,5,unknown,unknown,Australia,Sri Lanka
+1,Test,2012/13,Galle International Stadium,unknown,2012-11-17,male,0,6,HMRKB Herath,New Zealand,bat,Sri Lanka,10,10,unknown,unknown,Sri Lanka,New Zealand
+2,Test,2012/13,P Sara Oval,Colombo,2012-11-25,male,0,6,LRPL Taylor,New Zealand,bat,New Zealand,167,167,unknown,unknown,Sri Lanka,New Zealand
+1,Test,2012/13,Shere Bangla National Stadium,Mirpur,2012-11-13,male,0,6,KOA Powell,West Indies,bat,West Indies,77,77,unknown,unknown,Bangladesh,West Indies
+2,Test,2012/13,Sheikh Abu Naser Stadium,Khulna,2012-11-21,male,0,6,MN Samuels,Bangladesh,bat,West Indies,10,10,unknown,unknown,Bangladesh,West Indies
+1,Test,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2013-11-21,male,0,6,MG Johnson,Australia,bat,Australia,381,381,unknown,unknown,Australia,England
+2,Test,2013/14,Adelaide Oval,unknown,2013-12-05,male,0,6,MG Johnson,Australia,bat,Australia,218,218,unknown,unknown,Australia,England
+3,Test,2013/14,Western Australia Cricket Association Ground,Perth,2013-12-13,male,0,6,SPD Smith,Australia,bat,Australia,150,150,unknown,unknown,Australia,England
+4,Test,2013/14,Melbourne Cricket Ground,unknown,2013-12-26,male,0,6,MG Johnson,Australia,field,Australia,8,8,unknown,unknown,Australia,England
+5,Test,2013/14,Sydney Cricket Ground,unknown,2014-01-03,male,0,6,RJ Harris,England,field,Australia,281,281,unknown,unknown,Australia,England
+1,Test,2012/13,"Kensington Oval, Bridgetown",Barbados,2013-03-12,male,0,6,S Shillingford,Zimbabwe,bat,West Indies,9,9,unknown,unknown,West Indies,Zimbabwe
+2,Test,2012/13,"Windsor Park, Roseau",Dominica,2013-03-20,male,0,6,S Shillingford,West Indies,field,West Indies,65,1,unknown,unknown,West Indies,Zimbabwe
+1,Test,2012/13,"MA Chidambaram Stadium, Chepauk",Chennai,2013-02-22,male,0,6,MS Dhoni,Australia,bat,India,8,8,unknown,unknown,India,Australia
+2,Test,2012/13,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2013-03-02,male,0,6,CA Pujara,Australia,bat,India,135,1,unknown,unknown,India,Australia
+3,Test,2012/13,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2013-03-14,male,0,6,S Dhawan,Australia,bat,India,6,6,unknown,unknown,India,Australia
+4,Test,2012/13,Feroz Shah Kotla,Delhi,2013-03-22,male,0,6,RA Jadeja,Australia,bat,India,6,6,unknown,unknown,India,Australia
+1,Test,2012/13,Galle International Stadium,unknown,2013-03-08,male,0,6,Mushfiqur Rahim,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,Bangladesh
+2,Test,2012/13,R Premadasa Stadium,Colombo,2013-03-16,male,0,6,HMRKB Herath,Sri Lanka,field,Sri Lanka,7,7,unknown,unknown,Sri Lanka,Bangladesh
+1,Test,2013,Harare Sports Club,unknown,2013-04-17,male,0,6,BRM Taylor,Bangladesh,field,Zimbabwe,335,335,unknown,unknown,Zimbabwe,Bangladesh
+2,Test,2013,Harare Sports Club,unknown,2013-04-25,male,0,6,Mushfiqur Rahim,Zimbabwe,field,Bangladesh,143,143,unknown,unknown,Zimbabwe,Bangladesh
+3,Test,2001/02,"M Chinnaswamy Stadium, Bangalore",Bengaluru,2001-12-19,male,0,6,A Flintoff,England,bat,unknown,unknown,0,unknown,unknown,England,India
+4,Test,2002/03,Melbourne Cricket Ground,Melbourne,2002-12-26,male,0,6,JL Langer,Australia,bat,Australia,5,5,unknown,unknown,Australia,England
+5,Test,2002/03,Sydney Cricket Ground,Sydney,2003-01-02,male,0,6,MP Vaughan,England,bat,England,225,225,unknown,unknown,England,Australia
+1,Test,2002/03,"Kingsmead, Durban",Durban,2002-12-26,male,0,6,JH Kallis,Pakistan,field,South Africa,10,10,unknown,unknown,South Africa,Pakistan
+2,Test,2002/03,"Newlands, Cape Town",Cape Town,2003-01-02,male,0,6,HH Gibbs,South Africa,bat,South Africa,142,1,unknown,unknown,South Africa,Pakistan
+4,Test,2003,"Antigua Recreation Ground, St John's, Antigua",St John's,2003-05-09,male,0,6,S Chanderpaul,Australia,bat,West Indies,3,3,unknown,unknown,Australia,West Indies
+1,Test,2003,"Marrara Cricket Ground, Darwin",Darwin,2003-07-18,male,0,6,SR Waugh,Australia,field,Australia,132,1,unknown,unknown,Bangladesh,Australia
+1,Test,2003,"Edgbaston, Birmingham",Birmingham,2003-07-24,male,0,6,GC Smith,South Africa,bat,unknown,unknown,0,unknown,unknown,South Africa,England
+3,Test,2003,"Trent Bridge, Nottingham",Nottingham,2003-08-14,male,0,6,RJ Kirtley,England,bat,England,70,70,unknown,unknown,England,South Africa
+4,Test,2003,"Headingley, Leeds",Leeds,2003-08-21,male,0,6,G Kirsten,South Africa,bat,South Africa,191,191,unknown,unknown,South Africa,England
+5,Test,2003,"Kennington Oval, London",London,2003-09-04,male,0,6,ME Trescothick,South Africa,bat,England,9,9,unknown,unknown,South Africa,England
+3,Test,2003,Multan Cricket Stadium,Multan,2003-09-03,male,0,6,Inzamam-ul-Haq,Bangladesh,bat,Pakistan,1,1,unknown,unknown,Bangladesh,Pakistan
+2,Test,2003/04,"Punjab Cricket Association Stadium, Mohali, Chandigarh",Chandigarh,2003-10-16,male,0,6,DR Tuffey,New Zealand,bat,unknown,unknown,0,unknown,unknown,New Zealand,India
+1,Test,2003/04,"Western Australia Cricket Association Ground, Perth",Perth,2003-10-09,male,0,6,ML Hayden,Zimbabwe,field,Australia,175,1,unknown,unknown,Australia,Zimbabwe
+2,Test,2003/04,Sydney Cricket Ground,Sydney,2003-10-17,male,0,6,RT Ponting,Zimbabwe,bat,Australia,9,9,unknown,unknown,Zimbabwe,Australia
+1,Test,2003/04,"Gaddafi Stadium, Lahore",Lahore,2003-10-17,male,0,6,"Taufeeq Umar, Danish Kaneria",South Africa,bat,Pakistan,8,8,unknown,unknown,South Africa,Pakistan
+2,Test,2003/04,"Iqbal Stadium, Faisalabad",Faisalabad,2003-10-24,male,0,6,"G Kirsten, Taufeeq Umar",South Africa,bat,unknown,unknown,0,unknown,unknown,South Africa,Pakistan
+1,Test,2003/04,"Bangabandhu National Stadium, Dhaka",Dhaka,2003-10-21,male,0,6,SJ Harmison,Bangladesh,bat,England,7,7,unknown,unknown,Bangladesh,England
+2,Test,2003/04,"MA Aziz Stadium, Chittagong",Chattogram,2003-10-29,male,0,6,RL Johnson,Bangladesh,field,England,329,329,unknown,unknown,England,Bangladesh
+2,Test,2003/04,"Queens Sports Club, Bulawayo",Bulawayo,2003-11-12,male,0,6,BC Lara,West Indies,bat,West Indies,128,128,unknown,unknown,West Indies,Zimbabwe
+3,Test,2003/04,"Sinhalese Sports Club Ground, Colombo",Colombo,2003-12-18,male,0,6,TT Samaraweera,England,bat,Sri Lanka,215,1,unknown,unknown,England,Sri Lanka
+1,Test,2003/04,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2003-12-04,male,0,6,SC Ganguly,India,field,unknown,unknown,0,unknown,unknown,Australia,India
+4,Test,2003/04,Sydney Cricket Ground,Sydney,2004-01-02,male,0,6,SR Tendulkar,India,bat,unknown,unknown,0,unknown,unknown,India,Australia
+1,Test,2003/04,"New Wanderers Stadium, Johannesburg",Johannesburg,2003-12-12,male,0,6,M Ntini,South Africa,bat,South Africa,189,189,unknown,unknown,South Africa,West Indies
+1,Test,2003/04,Galle International Stadium,Galle,2004-03-08,male,0,6,ML Hayden,Australia,bat,Australia,197,197,unknown,unknown,Australia,Sri Lanka
+2,Test,2003/04,Eden Park,Auckland,2004-03-18,male,0,6,CS Martin,New Zealand,field,New Zealand,9,9,unknown,unknown,South Africa,New Zealand
+3,Test,2003/04,"Basin Reserve, Wellington",Wellington,2004-03-26,male,0,6,GC Smith,South Africa,field,South Africa,6,6,unknown,unknown,New Zealand,South Africa
+4,Test,2003/04,Antigua Recreation Ground,St John's,2004-04-10,male,0,6,BC Lara,West Indies,bat,unknown,unknown,0,unknown,unknown,West Indies,England
+3,Test,2003/04,Rawalpindi Cricket Stadium,Rawalpindi,2004-04-13,male,0,6,R Dravid,India,field,India,131,1,unknown,unknown,Pakistan,India
+2,Test,2004,Edgbaston,Birmingham,2004-07-29,male,0,6,A Flintoff,England,bat,England,256,256,unknown,unknown,England,West Indies
+4,Test,2004,Kennington Oval,London,2004-08-19,male,0,6,SJ Harmison,England,bat,England,10,10,unknown,unknown,England,West Indies
+2,Test,2004/05,MA Chidambaram Stadium,Chennai,2004-10-14,male,0,6,A Kumble,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,India
+4,Test,2004/05,Wankhede Stadium,Mumbai,2004-11-03,male,0,6,M Kartik,India,bat,India,13,13,unknown,unknown,India,Australia
+2,Test,2004/05,MA Aziz Stadium,Chattogram,2004-10-26,male,0,6,SP Fleming,New Zealand,bat,New Zealand,101,1,unknown,unknown,New Zealand,Bangladesh
+1,Test,2004/05,Brisbane Cricket Ground,Brisbane,2004-11-18,male,0,6,MJ Clarke,New Zealand,bat,Australia,156,1,unknown,unknown,New Zealand,Australia
+2,Test,2004/05,Adelaide Oval,Adelaide,2004-11-26,male,0,6,JL Langer,Australia,bat,Australia,213,213,unknown,unknown,Australia,New Zealand
+1,Test,2004/05,Green Park,Kanpur,2004-11-20,male,0,6,AJ Hall,South Africa,bat,unknown,unknown,0,unknown,unknown,South Africa,India
+2,Test,2004/05,Eden Gardens,Kolkata,2004-11-28,male,0,6,Harbhajan Singh,South Africa,bat,India,8,8,unknown,unknown,South Africa,India
+1,Test,2004/05,Bangabandhu National Stadium,Dhaka,2004-12-10,male,0,6,IK Pathan,India,field,India,140,1,unknown,unknown,Bangladesh,India
+1,Test,2004/05,W.A.C.A. Ground,Perth,2004-12-16,male,0,6,JL Langer,Pakistan,field,Australia,491,491,unknown,unknown,Australia,Pakistan
+3,Test,2004/05,Newlands,Cape Town,2005-01-02,male,0,6,JH Kallis,South Africa,bat,South Africa,196,196,unknown,unknown,South Africa,England
+1,Test,2004/05,Newlands,Cape Town,2005-03-04,male,0,6,JH Kallis,Zimbabwe,bat,South Africa,21,1,unknown,unknown,Zimbabwe,South Africa
+2,Test,2004/05,SuperSport Park,Centurion,2005-03-11,male,0,6,M Zondeki,South Africa,field,South Africa,62,1,unknown,unknown,Zimbabwe,South Africa
+1,Test,2004/05,AMI Stadium,Christchurch,2005-03-10,male,0,6,AC Gilchrist,Australia,field,Australia,9,9,unknown,unknown,New Zealand,Australia
+2,Test,2004/05,Basin Reserve,Wellington,2005-03-18,male,0,6,AC Gilchrist,New Zealand,field,unknown,unknown,0,unknown,unknown,Australia,New Zealand
+2,Test,2004/05,Basin Reserve,Wellington,2005-04-11,male,0,6,L Vincent,New Zealand,field,New Zealand,38,1,unknown,unknown,Sri Lanka,New Zealand
+1,Test,2013/14,New Wanderers Stadium,Johannesburg,2013-12-18,male,0,6,V Kohli,India,bat,unknown,unknown,0,unknown,unknown,South Africa,India
+2,Test,2013/14,Kingsmead,Durban,2013-12-26,male,0,6,DW Steyn,India,bat,South Africa,10,10,unknown,unknown,South Africa,India
+1,Test,2013/14,SuperSport Park,Centurion,2014-02-12,male,0,6,MG Johnson,South Africa,field,Australia,281,281,unknown,unknown,South Africa,Australia
+2,Test,2013/14,St George's Park,Port Elizabeth,2014-02-20,male,0,6,JP Duminy,South Africa,bat,South Africa,231,231,unknown,unknown,South Africa,Australia
+3,Test,2013/14,Newlands,Cape Town,2014-03-01,male,0,6,DA Warner,Australia,bat,Australia,245,245,unknown,unknown,South Africa,Australia
+1,Test,2013/14,Sheikh Zayed Stadium,Abu Dhabi,2013-10-14,male,0,6,Khurram Manzoor,South Africa,bat,Pakistan,7,7,unknown,unknown,Pakistan,South Africa
+2,Test,2013/14,Dubai International Cricket Stadium,unknown,2013-10-23,male,0,6,GC Smith,Pakistan,bat,South Africa,92,1,unknown,unknown,Pakistan,South Africa
+1,Test,2013/14,Sheikh Zayed Stadium,Abu Dhabi,2013-12-31,male,0,6,AD Mathews,Pakistan,field,unknown,unknown,0,unknown,unknown,Pakistan,Sri Lanka
+2,Test,2013/14,Dubai International Cricket Stadium,unknown,2014-01-08,male,0,6,DPMD Jayawardene,Sri Lanka,field,Sri Lanka,9,9,unknown,unknown,Pakistan,Sri Lanka
+3,Test,2013/14,Sharjah Cricket Stadium,unknown,2014-01-16,male,0,6,Azhar Ali,Sri Lanka,bat,Pakistan,5,5,unknown,unknown,Pakistan,Sri Lanka
+1,Test,2013,Harare Sports Club,unknown,2013-09-03,male,0,6,Younis Khan,Zimbabwe,field,Pakistan,221,221,unknown,unknown,Zimbabwe,Pakistan
+2,Test,2013,Harare Sports Club,unknown,2013-09-10,male,0,6,TL Chatara,Zimbabwe,bat,Zimbabwe,24,24,unknown,unknown,Zimbabwe,Pakistan
+1,Test,2013/14,University Oval,Dunedin,2013-12-03,male,0,6,LRPL Taylor,West Indies,field,unknown,unknown,0,unknown,unknown,New Zealand,West Indies
+2,Test,2013/14,Basin Reserve,Wellington,2013-12-11,male,0,6,TA Boult,West Indies,field,New Zealand,73,1,unknown,unknown,New Zealand,West Indies
+3,Test,2013/14,Seddon Park,Hamilton,2013-12-19,male,0,6,LRPL Taylor,New Zealand,field,New Zealand,8,8,unknown,unknown,New Zealand,West Indies
+1,Test,2013/14,Eden Park,Auckland,2014-02-06,male,0,6,BB McCullum,India,field,New Zealand,40,40,unknown,unknown,New Zealand,India
+2,Test,2013/14,Basin Reserve,Wellington,2014-02-14,male,0,6,BB McCullum,India,field,unknown,unknown,0,unknown,unknown,New Zealand,India
+1,Test,2014,Trent Bridge,Nottingham,2014-07-09,male,0,6,JM Anderson,India,bat,unknown,unknown,0,unknown,unknown,England,India
+2,Test,2014,Lord's,London,2014-07-17,male,0,6,I Sharma,England,field,India,95,95,unknown,unknown,England,India
+3,Test,2014,The Rose Bowl,Southampton,2014-07-27,male,0,6,JM Anderson,England,bat,England,266,266,unknown,unknown,England,India
+4,Test,2014,Old Trafford,Manchester,2014-08-07,male,0,6,SCJ Broad,India,bat,England,54,1,unknown,unknown,England,India
+5,Test,2014,Kennington Oval,London,2014-08-15,male,0,6,JE Root,England,field,England,244,1,unknown,unknown,England,India
+1,Test,2014,Lord's,London,2014-06-12,male,0,6,JE Root,Sri Lanka,field,unknown,unknown,0,unknown,unknown,England,Sri Lanka
+2,Test,2014,Headingley,Leeds,2014-06-20,male,0,6,AD Mathews,England,field,Sri Lanka,100,100,unknown,unknown,England,Sri Lanka
+1,Test,2013/14,Zahur Ahmed Chowdhury Stadium,Chittagong,2013-10-09,male,0,6,Sohag Gazi,New Zealand,bat,unknown,unknown,0,unknown,unknown,Bangladesh,New Zealand
+2,Test,2013/14,Shere Bangla National Stadium,Mirpur,2013-10-21,male,0,6,Mominul Haque,Bangladesh,bat,unknown,unknown,0,unknown,unknown,Bangladesh,New Zealand
+1,Test,2013/14,Eden Gardens,Kolkata,2013-11-06,male,0,6,RG Sharma,West Indies,bat,India,51,1,unknown,unknown,India,West Indies
+2,Test,2013/14,Wankhede Stadium,Mumbai,2013-11-14,male,0,6,PP Ojha,India,field,India,126,1,unknown,unknown,India,West Indies
+1,Test,2013/14,Shere Bangla National Stadium,Mirpur,2014-01-27,male,0,6,DPMD Jayawardene,Sri Lanka,field,Sri Lanka,248,1,unknown,unknown,Bangladesh,Sri Lanka
+2,Test,2013/14,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-02-04,male,0,6,KC Sangakkara,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Bangladesh,Sri Lanka
+1,Test,2014/15,SuperSport Park,Centurion,2014-12-17,male,0,6,HM Amla,West Indies,field,South Africa,220,1,unknown,unknown,South Africa,West Indies
+2,Test,2014/15,St George's Park,Port Elizabeth,2014-12-26,male,0,6,KC Brathwaite,West Indies,field,unknown,unknown,0,unknown,unknown,South Africa,West Indies
+3,Test,2014/15,Newlands,Cape Town,2015-01-02,male,0,6,AB de Villiers,West Indies,bat,South Africa,8,8,unknown,unknown,South Africa,West Indies
+1,Test,2014/15,Dubai International Cricket Stadium,unknown,2014-10-22,male,0,6,Younis Khan,Pakistan,bat,Pakistan,221,221,unknown,unknown,Australia,Pakistan
+2,Test,2014/15,Sheikh Zayed Stadium,Abu Dhabi,2014-10-30,male,0,6,Misbah-ul-Haq,Pakistan,bat,Pakistan,356,356,unknown,unknown,Australia,Pakistan
+1,Test,2014,Galle International Stadium,unknown,2014-07-16,male,0,6,DW Steyn,South Africa,bat,South Africa,153,153,unknown,unknown,Sri Lanka,South Africa
+2,Test,2014,Sinhalese Sports Club Ground,Colombo,2014-07-24,male,0,6,DPMD Jayawardene,Sri Lanka,bat,unknown,unknown,0,unknown,unknown,Sri Lanka,South Africa
+1,Test,2014,"Sabina Park, Kingston",Jamaica,2014-06-08,male,0,6,MD Craig,New Zealand,bat,New Zealand,186,186,unknown,unknown,West Indies,New Zealand
+2,Test,2014,"Queen's Park Oval, Port of Spain",Trinidad,2014-06-16,male,0,6,KC Brathwaite,New Zealand,bat,West Indies,10,10,unknown,unknown,West Indies,New Zealand
+3,Test,2014,"Kensington Oval, Bridgetown",Barbados,2014-06-26,male,0,6,KS Williamson,New Zealand,bat,New Zealand,53,53,unknown,unknown,West Indies,New Zealand
+1,Test,2014,"Arnos Vale Ground, Kingstown",St Vincent,2014-09-05,male,0,6,KC Brathwaite,Bangladesh,field,West Indies,10,10,unknown,unknown,West Indies,Bangladesh
+2,Test,2014,"Beausejour Stadium, Gros Islet",St Lucia,2014-09-13,male,0,6,S Chanderpaul,Bangladesh,field,West Indies,296,296,unknown,unknown,West Indies,Bangladesh
+unknown,Test,2014,Harare Sports Club,unknown,2014-08-09,male,0,6,DL Piedt,Zimbabwe,bat,South Africa,9,9,unknown,unknown,Zimbabwe,South Africa
+1,Test,2014/15,Sheikh Zayed Stadium,Abu Dhabi,2014-11-09,male,0,6,Rahat Ali,Pakistan,bat,Pakistan,248,248,unknown,unknown,New Zealand,Pakistan
+2,Test,2014/15,Dubai International Cricket Stadium,unknown,2014-11-17,male,0,6,LRPL Taylor,New Zealand,bat,unknown,unknown,0,unknown,unknown,New Zealand,Pakistan
+3,Test,2014/15,Sharjah Cricket Stadium,unknown,2014-11-26,male,0,6,MD Craig,Pakistan,bat,New Zealand,80,1,unknown,unknown,New Zealand,Pakistan
+1,Test,2015,Lord's,London,2015-05-21,male,0,6,BA Stokes,New Zealand,field,England,124,124,unknown,unknown,England,New Zealand
+2,Test,2015,Headingley,Leeds,2015-05-29,male,0,6,BJ Watling,England,field,New Zealand,199,199,unknown,unknown,England,New Zealand
+1,Test,2015,Sophia Gardens,Cardiff,2015-07-08,male,0,6,JE Root,England,bat,England,169,169,unknown,unknown,England,Australia
+2,Test,2015,Lord's,London,2015-07-16,male,0,6,SPD Smith,Australia,bat,Australia,405,405,unknown,unknown,England,Australia
+3,Test,2015,Edgbaston,Birmingham,2015-07-29,male,0,6,ST Finn,Australia,bat,England,8,8,unknown,unknown,England,Australia
+4,Test,2015,Trent Bridge,Nottingham,2015-08-06,male,0,6,SCJ Broad,England,field,England,78,1,unknown,unknown,England,Australia
+5,Test,2015,Kennington Oval,London,2015-08-20,male,0,6,SPD Smith,England,field,Australia,46,1,unknown,unknown,England,Australia
+1,Test,2014,Galle International Stadium,unknown,2014-08-06,male,0,6,HMRKB Herath,Pakistan,bat,Sri Lanka,7,7,unknown,unknown,Sri Lanka,Pakistan
+2,Test,2014,Sinhalese Sports Club Ground,Colombo,2014-08-14,male,0,6,HMRKB Herath,Sri Lanka,bat,Sri Lanka,105,105,unknown,unknown,Sri Lanka,Pakistan
+1,Test,2014/15,Hagley Oval,Christchurch,2014-12-26,male,0,6,BB McCullum,Sri Lanka,field,New Zealand,8,8,unknown,unknown,New Zealand,Sri Lanka
+2,Test,2014/15,Basin Reserve,Wellington,2015-01-03,male,0,6,KS Williamson,Sri Lanka,field,New Zealand,193,193,unknown,unknown,New Zealand,Sri Lanka
+1,Test,2014/15,Adelaide Oval,unknown,2014-12-09,male,0,6,NM Lyon,Australia,bat,Australia,48,48,unknown,unknown,Australia,India
+2,Test,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2014-12-17,male,0,6,SPD Smith,India,bat,Australia,4,4,unknown,unknown,Australia,India
+3,Test,2014/15,Melbourne Cricket Ground,unknown,2014-12-26,male,0,6,RJ Harris,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,India
+4,Test,2014/15,Sydney Cricket Ground,unknown,2015-01-06,male,0,6,SPD Smith,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,India
+1,Test,2014/15,Shere Bangla National Stadium,Mirpur,2014-10-25,male,0,6,Taijul Islam,Zimbabwe,bat,Bangladesh,3,3,unknown,unknown,Bangladesh,Zimbabwe
+2,Test,2014/15,Sheikh Abu Naser Stadium,Khulna,2014-11-03,male,0,6,Shakib Al Hasan,Bangladesh,bat,Bangladesh,162,162,unknown,unknown,Bangladesh,Zimbabwe
+3,Test,2014/15,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-11-12,male,0,6,Mominul Haque,Bangladesh,bat,Bangladesh,186,186,unknown,unknown,Bangladesh,Zimbabwe
+1,Test,2015,"Sir Vivian Richards Stadium, North Sound",Antigua,2015-04-13,male,0,6,JO Holder,West Indies,field,unknown,unknown,0,unknown,unknown,West Indies,England
+2,Test,2015,"National Cricket Stadium, St George's",Grenada,2015-04-21,male,0,6,JE Root,England,field,England,9,9,unknown,unknown,West Indies,England
+3,Test,2015,"Kensington Oval, Bridgetown",Barbados,2015-05-01,male,0,6,J Blackwood,England,bat,West Indies,5,5,unknown,unknown,West Indies,England
+1,Test,2015/16,Kingsmead,Durban,2015-12-26,male,0,6,MM Ali,South Africa,field,England,241,241,unknown,unknown,South Africa,England
+2,Test,2015/16,Newlands,Cape Town,2016-01-02,male,0,6,BA Stokes,England,bat,unknown,unknown,0,unknown,unknown,South Africa,England
+3,Test,2015/16,New Wanderers Stadium,Johannesburg,2016-01-14,male,0,6,SCJ Broad,South Africa,bat,England,7,7,unknown,unknown,South Africa,England
+4,Test,2015/16,SuperSport Park,Centurion,2016-01-22,male,0,6,K Rabada,South Africa,bat,South Africa,280,280,unknown,unknown,South Africa,England
+1,Test,2015,"Windsor Park, Roseau",Dominica,2015-06-03,male,0,6,AC Voges,West Indies,bat,Australia,9,9,unknown,unknown,West Indies,Australia
+2,Test,2015,"Sabina Park, Kingston",Jamaica,2015-06-11,male,0,6,SPD Smith,West Indies,field,Australia,277,277,unknown,unknown,West Indies,Australia
+1,Test,2015,Zahur Ahmed Chowdhury Stadium,Chittagong,2015-07-21,male,0,6,Mustafizur Rahman,South Africa,bat,unknown,unknown,0,unknown,unknown,Bangladesh,South Africa
+2,Test,2015,Shere Bangla National Stadium,Mirpur,2015-07-30,male,0,6,Mushfiqur Rahim,Bangladesh,bat,unknown,unknown,0,unknown,unknown,Bangladesh,South Africa
+1,Test,2015,Sheikh Abu Naser Stadium,Khulna,2015-04-28,male,0,6,Tamim Iqbal,Bangladesh,bat,unknown,unknown,0,unknown,unknown,Bangladesh,Pakistan
+2,Test,2015,Shere Bangla National Stadium,Mirpur,2015-05-06,male,0,6,Azhar Ali,Bangladesh,field,Pakistan,328,328,unknown,unknown,Bangladesh,Pakistan
+1,Test,2015,Galle International Stadium,unknown,2015-06-17,male,0,6,Sarfraz Ahmed,Pakistan,field,Pakistan,10,10,unknown,unknown,Sri Lanka,Pakistan
+2,Test,2015,P Sara Oval,Colombo,2015-06-25,male,0,6,KTGD Prasad,Pakistan,bat,Sri Lanka,7,7,unknown,unknown,Sri Lanka,Pakistan
+3,Test,2015,Pallekele International Cricket Stadium,unknown,2015-07-03,male,0,6,Younis Khan,Pakistan,field,Pakistan,7,7,unknown,unknown,Sri Lanka,Pakistan
+unknown,Test,2015,Khan Shaheb Osman Ali Stadium,Fatullah,2015-06-10,male,0,6,S Dhawan,India,bat,unknown,unknown,0,unknown,unknown,Bangladesh,India
+1,Test,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-11-05,male,0,6,DA Warner,Australia,bat,Australia,208,208,unknown,unknown,Australia,New Zealand
+2,Test,2015/16,Western Australia Cricket Association Ground,Perth,2015-11-13,male,0,6,LRPL Taylor,Australia,bat,unknown,unknown,0,unknown,unknown,Australia,New Zealand
+3,Test,2015/16,Adelaide Oval,unknown,2015-11-27,male,0,6,JR Hazlewood,New Zealand,bat,Australia,3,3,unknown,unknown,Australia,New Zealand
+1,Test,2015/16,Bellerive Oval,Hobart,2015-12-10,male,0,6,AC Voges,Australia,bat,Australia,212,1,unknown,unknown,Australia,West Indies
+2,Test,2015/16,Melbourne Cricket Ground,unknown,2015-12-26,male,0,6,NM Lyon,West Indies,field,Australia,177,177,unknown,unknown,Australia,West Indies
+3,Test,2015/16,Sydney Cricket Ground,unknown,2016-01-03,male,0,6,DA Warner,West Indies,bat,unknown,unknown,0,unknown,unknown,Australia,West Indies
+1,Test,2015,Galle International Stadium,unknown,2015-08-12,male,0,6,LD Chandimal,Sri Lanka,bat,Sri Lanka,63,63,unknown,unknown,Sri Lanka,India
+2,Test,2015,P Sara Oval,Colombo,2015-08-20,male,0,6,KL Rahul,India,bat,India,278,278,unknown,unknown,Sri Lanka,India
+3,Test,2015,Sinhalese Sports Club Ground,Colombo,2015-08-28,male,0,6,CA Pujara,Sri Lanka,field,India,117,117,unknown,unknown,Sri Lanka,India
+1,Test,2015/16,Sheikh Zayed Stadium,Abu Dhabi,2015-10-13,male,0,6,AN Cook,Pakistan,bat,unknown,unknown,0,unknown,unknown,England,Pakistan
+2,Test,2015/16,Dubai International Cricket Stadium,unknown,2015-10-22,male,0,6,Wahab Riaz,Pakistan,bat,Pakistan,178,178,unknown,unknown,England,Pakistan
+3,Test,2015/16,Sharjah Cricket Stadium,unknown,2015-11-01,male,0,6,Mohammad Hafeez,Pakistan,bat,Pakistan,127,127,unknown,unknown,England,Pakistan
+1,Test,2015/16,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2015-11-05,male,0,6,RA Jadeja,India,bat,India,108,108,unknown,unknown,India,South Africa
+2,Test,2015/16,M Chinnaswamy Stadium,Bangalore,2015-11-14,male,0,6,,India,field,unknown,unknown,0,unknown,unknown,India,South Africa
+3,Test,2015/16,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2015-11-25,male,0,6,R Ashwin,India,bat,India,124,124,unknown,unknown,India,South Africa
+4,Test,2015/16,Feroz Shah Kotla,Delhi,2015-12-03,male,0,6,AM Rahane,India,bat,India,337,337,unknown,unknown,India,South Africa
+1,Test,2016,Headingley,Leeds,2016-05-19,male,0,6,JM Bairstow,Sri Lanka,field,England,88,1,unknown,unknown,England,Sri Lanka
+2,Test,2016,Riverside Ground,Chester-le-Street,2016-05-27,male,0,6,JM Anderson,England,bat,England,9,9,unknown,unknown,England,Sri Lanka
+3,Test,2016,Lord's,London,2016-06-09,male,0,6,JM Bairstow,England,bat,unknown,unknown,0,unknown,unknown,England,Sri Lanka
+1,Test,2016,Lord's,London,2016-07-14,male,0,6,Yasir Shah,Pakistan,bat,Pakistan,75,75,unknown,unknown,England,Pakistan
+2,Test,2016,Old Trafford,Manchester,2016-07-22,male,0,6,JE Root,England,bat,England,330,330,unknown,unknown,England,Pakistan
+3,Test,2016,Edgbaston,Birmingham,2016-08-03,male,0,6,MM Ali,Pakistan,field,England,141,141,unknown,unknown,England,Pakistan
+4,Test,2016,Kennington Oval,London,2016-08-11,male,0,6,Younis Khan,England,bat,Pakistan,10,10,unknown,unknown,England,Pakistan
+1,Test,2015/16,University Oval,Dunedin,2015-12-10,male,0,6,MJ Guptill,Sri Lanka,field,New Zealand,122,122,unknown,unknown,New Zealand,Sri Lanka
+2,Test,2015/16,Seddon Park,Hamilton,2015-12-18,male,0,6,KS Williamson,New Zealand,field,New Zealand,5,5,unknown,unknown,New Zealand,Sri Lanka
+1,Test,2015/16,Basin Reserve,Wellington,2016-02-12,male,0,6,AC Voges,Australia,field,Australia,52,1,unknown,unknown,New Zealand,Australia
+2,Test,2015/16,Hagley Oval,Christchurch,2016-02-20,male,0,6,JA Burns,Australia,field,Australia,7,7,unknown,unknown,New Zealand,Australia
+1,Test,2015/16,Galle International Stadium,unknown,2015-10-14,male,0,6,HMRKB Herath,Sri Lanka,bat,Sri Lanka,6,1,unknown,unknown,Sri Lanka,West Indies
+2,Test,2015/16,P Sara Oval,Colombo,2015-10-22,male,0,6,TAM Siriwardana,Sri Lanka,bat,Sri Lanka,72,72,unknown,unknown,Sri Lanka,West Indies
+1,Test,2016,Kingsmead,Durban,2016-08-19,male,0,6,,South Africa,bat,unknown,unknown,0,unknown,unknown,South Africa,New Zealand
+2,Test,2016,SuperSport Park,Centurion,2016-08-27,male,0,6,Q de Kock,New Zealand,field,South Africa,204,204,unknown,unknown,South Africa,New Zealand
+1,Test,2016/17,St George's Park,Port Elizabeth,2016-12-26,male,0,6,SC Cook,South Africa,bat,South Africa,206,206,unknown,unknown,South Africa,Sri Lanka
+2,Test,2016/17,Newlands,Cape Town,2017-01-02,male,0,6,K Rabada,Sri Lanka,field,South Africa,282,282,unknown,unknown,South Africa,Sri Lanka
+3,Test,2016/17,New Wanderers Stadium,Johannesburg,2017-01-12,male,0,6,JP Duminy,South Africa,bat,South Africa,118,1,unknown,unknown,South Africa,Sri Lanka
+1,Test,2016,Pallekele International Cricket Stadium,unknown,2016-07-26,male,0,6,BKG Mendis,Sri Lanka,bat,Sri Lanka,106,106,unknown,unknown,Sri Lanka,Australia
+2,Test,2016,Galle International Stadium,unknown,2016-08-04,male,0,6,MDK Perera,Sri Lanka,bat,Sri Lanka,229,229,unknown,unknown,Sri Lanka,Australia
+3,Test,2016,Sinhalese Sports Club Ground,Colombo,2016-08-13,male,0,6,HMRKB Herath,Sri Lanka,bat,Sri Lanka,163,163,unknown,unknown,Sri Lanka,Australia

@@ -1,0 +1,24 @@
+CRICKET FEATURE ENGINEERING SUMMARY
+======================================================================
+
+FEATURE CATEGORIES:
+  Player Form: Rolling averages, strike rates, career stats for batters and bowlers
+  Venue: Venue-specific statistics, pitch behavior, toss impact
+  Matchups: Historical bowler vs batter performance
+  Team: Team win rates, toss preferences, overall strength
+  Situation: Match phase, pressure index, run rate, wickets lost
+
+ML APPLICATIONS:
+  Classification: Wicket prediction, match outcome, player selection
+  Regression: Runs prediction, economy rate, strike rate forecasting
+  Time Series: Performance trends, form prediction
+  Clustering: Player types, match situations grouping
+
+FILES CREATED:
+  - batting_form_features.csv
+  - bowler_batter_matchups.csv
+  - bowling_form_features.csv
+  - ml_ready_features.csv
+  - situation_features.csv
+  - team_features.csv
+  - venue_features.csv

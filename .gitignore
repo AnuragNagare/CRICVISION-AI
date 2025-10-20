@@ -1,0 +1,33 @@
+# Large data files that exceed GitHub's file size limit
+Processed_Data/T20s_ball_by_ball.csv
+Processed_Data/ODIs_ball_by_ball.csv
+Processed_Data/Tests_ball_by_ball.csv
+
+# Large model files
+Models/boundary_prediction_model.pkl
+Models/wicket_prediction_model.pkl
+
+# Video files
+*.mp4
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

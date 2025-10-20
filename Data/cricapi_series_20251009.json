@@ -1,0 +1,293 @@
+{
+  "apikey": "da998a01-9b16-49af-8c6c-d8a26aef1181",
+  "data": [
+    {
+      "id": "a3f343a2-bd79-481e-99d7-1652be67d501",
+      "name": "Sri Lanka tour of England, 2026",
+      "startDate": "2026-09-15",
+      "endDate": "Sep 27",
+      "odi": 3,
+      "t20": 3,
+      "test": 0,
+      "squads": 0,
+      "matches": 6
+    },
+    {
+      "id": "9596e1ca-2915-4a34-84f1-aca96eda85fd",
+      "name": "Ireland Women tour of England 2026",
+      "startDate": "2026-09-01",
+      "endDate": "Sep 06",
+      "odi": 3,
+      "t20": 0,
+      "test": 0,
+      "squads": 0,
+      "matches": 3
+    },
+    {
+      "id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
+      "name": "Pakistan tour of England 2026",
+      "startDate": "2026-08-19",
+      "endDate": "Sep 09",
+      "odi": 0,
+      "t20": 0,
+      "test": 3,
+      "squads": 0,
+      "matches": 3
+    },
+    {
+      "id": "660b3bb0-f5ce-453d-835f-5456a1de1c5e",
+      "name": "India tour of England, 2026",
+      "startDate": "2026-07-01",
+      "endDate": "Jul 19",
+      "odi": 3,
+      "t20": 5,
+      "test": 0,
+      "squads": 0,
+      "matches": 8
+    },
+    {
+      "id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "name": "ICC Womens T20 World Cup 2026",
+      "startDate": "2026-06-12",
+      "endDate": "Jul 05",
+      "odi": 0,
+      "t20": 33,
+      "test": 0,
+      "squads": 0,
+      "matches": 33
+    },
+    {
+      "id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
+      "name": "New Zealand tour of England, 2026",
+      "startDate": "2026-06-04",
+      "endDate": "Jun 29",
+      "odi": 0,
+      "t20": 0,
+      "test": 3,
+      "squads": 0,
+      "matches": 3
+    },
+    {
+      "id": "755fa8ff-3135-432e-bbdf-ad77413c948d",
+      "name": "India Women tour of England 2026",
+      "startDate": "2026-05-28",
+      "endDate": "Jul 13",
+      "odi": 0,
+      "t20": 3,
+      "test": 1,
+      "squads": 0,
+      "matches": 4
+    },
+    {
+      "id": "17fda001-ea50-4ce4-b3cd-7a416800d63f",
+      "name": "New Zealand Women tour of England 2026",
+      "startDate": "2026-05-10",
+      "endDate": "May 25",
+      "odi": 3,
+      "t20": 3,
+      "test": 0,
+      "squads": 0,
+      "matches": 6
+    },
+    {
+      "id": "221ce020-6d73-405c-97b5-afa1621389fd",
+      "name": "South Africa tour of New Zealand, 2026",
+      "startDate": "2026-03-15",
+      "endDate": "Mar 25",
+      "odi": 0,
+      "t20": 5,
+      "test": 0,
+      "squads": 0,
+      "matches": 5
+    },
+    {
+      "id": "a9baf551-3308-4266-adb8-09c54564f21a",
+      "name": "South Africa Women tour of New Zealand, 2026",
+      "startDate": "2026-03-15",
+      "endDate": "Apr 04",
+      "odi": 3,
+      "t20": 5,
+      "test": 0,
+      "squads": 0,
+      "matches": 8
+    },
+    {
+      "id": "d1b9b631-35f1-4777-8476-b0f1d9f6cef4",
+      "name": "Zimbabwe Women tour of New Zealand, 2026",
+      "startDate": "2026-02-25",
+      "endDate": "Mar 11",
+      "odi": 3,
+      "t20": 3,
+      "test": 0,
+      "squads": 0,
+      "matches": 6
+    },
+    {
+      "id": "6b96a934-366e-4135-8f5a-73594dcb97b1",
+      "name": "India Women tour of Australia, 2026",
+      "startDate": "2026-02-15",
+      "endDate": "Mar 06",
+      "odi": 3,
+      "t20": 3,
+      "test": 1,
+      "squads": 0,
+      "matches": 7
+    },
+    {
+      "id": "690ad175-893f-42e3-a373-a313f6ac1eba",
+      "name": "Pakistan Women tour of South Africa, 2026",
+      "startDate": "2026-02-10",
+      "endDate": "Mar 01",
+      "odi": 3,
+      "t20": 3,
+      "test": 0,
+      "squads": 0,
+      "matches": 6
+    },
+    {
+      "id": "2af687f7-2128-4ae1-9fbd-7eb094a8f6cb",
+      "name": "West Indies tour of South Africa, 2026",
+      "startDate": "2026-01-27",
+      "endDate": "Feb 06",
+      "odi": 0,
+      "t20": 5,
+      "test": 0,
+      "squads": 0,
+      "matches": 5
+    },
+    {
+      "id": "ddc26590-194b-43f2-95fd-a245db40ce89",
+      "name": "England tour of Sri Lanka 2026",
+      "startDate": "2026-01-22",
+      "endDate": "Feb 03",
+      "odi": 3,
+      "t20": 3,
+      "test": 0,
+      "squads": 0,
+      "matches": 6
+    },
+    {
+      "id": "b31173af-1e08-4359-8a7e-1521b9847e54",
+      "name": "New Zealand tour of India, 2026",
+      "startDate": "2026-01-11",
+      "endDate": "Jan 31",
+      "odi": 3,
+      "t20": 5,
+      "test": 0,
+      "squads": 0,
+      "matches": 8
+    },
+    {
+      "id": "02cafabf-ce3e-4b47-9910-c75dfd8d1515",
+      "name": "SA20, 2025-26",
+      "startDate": "2025-12-26",
+      "endDate": "Jan 25",
+      "odi": 0,
+      "t20": 34,
+      "test": 0,
+      "squads": 0,
+      "matches": 34
+    },
+    {
+      "id": "a5b34a2a-ab59-4f58-ba16-47e66ecb7d7a",
+      "name": "Super Smash 2025-26",
+      "startDate": "2025-12-26",
+      "endDate": "Jan 31",
+      "odi": 0,
+      "t20": 32,
+      "test": 0,
+      "squads": 0,
+      "matches": 32
+    },
+    {
+      "id": "8d24a29a-f3cf-4bc9-bc47-a5f4b2ff8bb7",
+      "name": "Vijay Hazare Trophy Plate 2025-26",
+      "startDate": "2025-12-24",
+      "endDate": "Jan 06",
+      "odi": 16,
+      "t20": 0,
+      "test": 0,
+      "squads": 0,
+      "matches": 16
+    },
+    {
+      "id": "f386fc20-1920-4556-bc7c-4f48cd441d3e",
+      "name": "Vijay Hazare Trophy Elite 2025-26",
+      "startDate": "2025-12-24",
+      "endDate": "Jan 18",
+      "odi": 119,
+      "t20": 0,
+      "test": 0,
+      "squads": 0,
+      "matches": 119
+    },
+    {
+      "id": "107c2a65-2778-4235-b31d-bbc29346cd94",
+      "name": "Big Bash League 2025-26",
+      "startDate": "2025-12-14",
+      "endDate": "Jan 25",
+      "odi": 0,
+      "t20": 44,
+      "test": 0,
+      "squads": 0,
+      "matches": 44
+    },
+    {
+      "id": "8ab7b95e-5ba3-470b-87cd-9d42345143b4",
+      "name": "Ireland Women tour of South Africa 2025",
+      "startDate": "2025-12-05",
+      "endDate": "Dec 19",
+      "odi": 3,
+      "t20": 3,
+      "test": 0,
+      "squads": 0,
+      "matches": 6
+    },
+    {
+      "id": "35c5209a-781b-48f9-8675-0f57be850b4a",
+      "name": "International League T20, 2025-26",
+      "startDate": "2025-12-02",
+      "endDate": "Jan 04",
+      "odi": 0,
+      "t20": 34,
+      "test": 0,
+      "squads": 0,
+      "matches": 34
+    },
+    {
+      "id": "67c70ea0-5305-4311-af81-06add8783de2",
+      "name": "Syed Mushtaq Ali Trophy Elite 2025",
+      "startDate": "2025-11-26",
+      "endDate": "Dec 18",
+      "odi": 0,
+      "t20": 125,
+      "test": 0,
+      "squads": 0,
+      "matches": 125
+    },
+    {
+      "id": "a8be2757-f3e8-4993-8882-00e7e5b6c3f6",
+      "name": "Syed Mushtaq Ali Trophy Plate 2025",
+      "startDate": "2025-11-26",
+      "endDate": "Dec 06",
+      "odi": 0,
+      "t20": 16,
+      "test": 0,
+      "squads": 0,
+      "matches": 16
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 3,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 8,
+    "offsetRows": 0,
+    "totalRows": 928,
+    "queryTime": 76.782,
+    "s": 0,
+    "cache": 0
+  }
+}

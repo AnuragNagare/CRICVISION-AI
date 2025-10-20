@@ -1,0 +1,36 @@
+1. Wicket Probability Prediction
+  Description: Predict likelihood of taking wicket on next ball
+  Features: ['bowler form', 'batter form', 'match situation', 'venue', 'over number']
+  Target: is_wicket
+  Model: Classification (Logistic Regression, Random Forest, Neural Network)
+
+2. Runs Prediction
+  Description: Predict runs likely to be scored in an over/innings
+  Features: ['batting team', 'bowling team', 'venue', 'recent form', 'powerplay']
+  Target: total_runs
+  Model: Regression (Linear, XGBoost, LSTM)
+
+3. Economy Rate Optimization
+  Description: Optimize bowling strategy for minimum economy
+  Features: ['bowler type', 'batter weakness', 'field placement', 'pitch conditions']
+  Target: economy_rate
+  Model: Optimization (Reinforcement Learning, Genetic Algorithm)
+
+4. Match Outcome Prediction
+  Description: Predict match winner based on current state
+  Features: ['current score', 'wickets', 'overs left', 'required run rate', 'team strength']
+  Target: match_winner
+  Model: Classification (Ensemble methods, Deep Learning)
+
+5. Player Performance Forecasting
+  Description: Forecast player performance for upcoming matches
+  Features: ['recent form', 'opponent strength', 'venue', 'match conditions']
+  Target: runs/wickets
+  Model: Time Series (ARIMA, Prophet, LSTM)
+
+6. Optimal Team Selection
+  Description: Recommend best playing XI based on conditions
+  Features: ['player stats', 'venue history', 'opponent analysis', 'pitch report']
+  Target: team_composition
+  Model: Optimization (Genetic Algorithm, Multi-objective)
+

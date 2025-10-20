@@ -1,0 +1,62 @@
+CRICKET AI MODEL PERFORMANCE REPORT
+======================================================================
+Generated: 2025-10-15 11:21:57.152252
+
+======================================================================
+WICKET PREDICTION
+======================================================================
+
+Logistic Regression:
+  • Accuracy: 0.9469
+  • Precision: 1.0000
+  • Recall: 0.0013
+  • F1 Score: 0.0026
+  • Auc Roc: 0.6019
+
+Random Forest:
+  • Accuracy: 0.9364
+  • Precision: 0.0373
+  • Recall: 0.0079
+  • F1 Score: 0.0130
+  • Auc Roc: 0.6242
+
+Gradient Boosting:
+  • Accuracy: 0.9469
+  • Precision: 1.0000
+  • Recall: 0.0013
+  • F1 Score: 0.0026
+  • Auc Roc: 0.6359
+
+======================================================================
+RUNS PREDICTION
+======================================================================
+
+Linear Regression:
+  • Mse: 2.4671
+  • Rmse: 1.5707
+  • Mae: 1.1460
+  • R2 Score: 0.0105
+
+Random Forest:
+  • Mse: 2.9263
+  • Rmse: 1.7106
+  • Mae: 1.2430
+  • R2 Score: -0.1737
+
+======================================================================
+BOUNDARY PREDICTION
+======================================================================
+
+Random Forest:
+  • Accuracy: 0.8141
+  • Precision: 0.1182
+  • Recall: 0.0417
+  • F1 Score: 0.0616
+  • Auc Roc: 0.5611
+
+Gradient Boosting:
+  • Accuracy: 0.8537
+  • Precision: 0.6667
+  • Recall: 0.0019
+  • F1 Score: 0.0038
+  • Auc Roc: 0.5777

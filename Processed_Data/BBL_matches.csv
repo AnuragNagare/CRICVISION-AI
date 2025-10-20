@@ -1,0 +1,619 @@
+match_id,match_type,season,venue,city,date,gender,overs,balls_per_over,player_of_match,toss_winner,toss_decision,match_winner,result_type,result_margin,umpire_1,umpire_2,team_1,team_2
+1,T20,2016/17,Sydney Showground Stadium,unknown,2016-12-20,male,20,6,MC Henriques,Sydney Sixers,field,Sydney Sixers,9,9,unknown,unknown,Sydney Thunder,Sydney Sixers
+2,T20,2016/17,Adelaide Oval,unknown,2016-12-21,male,20,6,BB McCullum,Adelaide Strikers,field,Brisbane Heat,10,10,unknown,unknown,Adelaide Strikers,Brisbane Heat
+3,T20,2016/17,Docklands Stadium,Melbourne,2016-12-22,male,20,6,AJ Finch,Sydney Thunder,field,Melbourne Renegades,49,49,unknown,unknown,Melbourne Renegades,Sydney Thunder
+4,T20,2016/17,Sydney Cricket Ground,unknown,2016-12-23,male,20,6,DJM Short,Sydney Sixers,field,Hobart Hurricanes,60,60,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+5,T20,2016/17,Western Australia Cricket Association Ground,Perth,2016-12-23,male,20,6,AJ Turner,Adelaide Strikers,field,Perth Scorchers,48,48,unknown,unknown,Perth Scorchers,Adelaide Strikers
+6,T20,2016/17,Bellerive Oval,Hobart,2016-12-26,male,20,6,RJ Quiney,Hobart Hurricanes,bat,Melbourne Stars,7,7,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+7,T20,2016/17,Sydney Cricket Ground,unknown,2016-12-27,male,20,6,J Botha,Perth Scorchers,bat,Sydney Sixers,6,6,unknown,unknown,Sydney Sixers,Perth Scorchers
+8,T20,2016/17,Sydney Showground Stadium,unknown,2016-12-28,male,20,6,CA Lynn,Brisbane Heat,field,Brisbane Heat,3,3,unknown,unknown,Sydney Thunder,Brisbane Heat
+9,T20,2016/17,Docklands Stadium,Melbourne,2016-12-29,male,20,6,M Klinger,Perth Scorchers,field,Perth Scorchers,4,4,unknown,unknown,Melbourne Renegades,Perth Scorchers
+10,T20,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2016-12-30,male,20,6,CA Lynn,Brisbane Heat,field,Brisbane Heat,7,7,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+11,T20,2016/17,Adelaide Oval,unknown,2016-12-31,male,20,6,SA Abbott,Sydney Sixers,field,Adelaide Strikers,48,48,unknown,unknown,Adelaide Strikers,Sydney Sixers
+12,T20,2016/17,Melbourne Cricket Ground,unknown,2017-01-01,male,20,6,GB Hogg,Melbourne Stars,field,Melbourne Renegades,7,7,unknown,unknown,Melbourne Stars,Melbourne Renegades
+13,T20,2016/17,Western Australia Cricket Association Ground,Perth,2017-01-01,male,20,6,MR Marsh,Sydney Thunder,field,Perth Scorchers,50,50,unknown,unknown,Perth Scorchers,Sydney Thunder
+14,T20,2016/17,Bellerive Oval,Hobart,2017-01-02,male,20,6,DT Christian,Hobart Hurricanes,field,Hobart Hurricanes,8,8,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+15,T20,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-01-03,male,20,6,DP Hughes,Sydney Sixers,field,Sydney Sixers,3,3,unknown,unknown,Brisbane Heat,Sydney Sixers
+16,T20,2016/17,Sydney Showground Stadium,unknown,2017-01-04,male,20,6,EJG Morgan,Sydney Thunder,field,Sydney Thunder,6,6,unknown,unknown,Sydney Thunder,Melbourne Stars
+17,T20,2016/17,Western Australia Cricket Association Ground,Perth,2017-01-05,male,20,6,CA Lynn,Perth Scorchers,bat,Brisbane Heat,9,9,unknown,unknown,Perth Scorchers,Brisbane Heat
+18,T20,2016/17,Adelaide Oval,unknown,2017-01-06,male,20,6,BR Dunk,Adelaide Strikers,field,Adelaide Strikers,5,5,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+19,T20,2016/17,Docklands Stadium,Melbourne,2017-01-07,male,20,6,A Zampa,Melbourne Renegades,field,Melbourne Stars,46,46,unknown,unknown,Melbourne Renegades,Melbourne Stars
+20,T20,2016/17,Bellerive Oval,Hobart,2017-01-08,male,20,6,SR Watson,Sydney Thunder,field,Sydney Thunder,6,6,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+21,T20,2016/17,Sydney Cricket Ground,unknown,2017-01-09,male,20,6,BJ Haddin,Melbourne Renegades,bat,Sydney Sixers,6,6,unknown,unknown,Sydney Sixers,Melbourne Renegades
+22,T20,2016/17,Melbourne Cricket Ground,unknown,2017-01-10,male,20,6,BW Hilfenhaus,Melbourne Stars,field,Melbourne Stars,2,2,unknown,unknown,Melbourne Stars,Adelaide Strikers
+23,T20,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-01-11,male,20,6,M Klinger,Brisbane Heat,field,Perth Scorchers,27,27,unknown,unknown,Brisbane Heat,Perth Scorchers
+24,T20,2016/17,Docklands Stadium,Melbourne,2017-01-12,male,20,6,BR McDermott,Hobart Hurricanes,field,Hobart Hurricanes,2,2,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+25,T20,2016/17,Sydney Cricket Ground,unknown,2017-01-14,male,20,6,Fawad Ahmed,Sydney Sixers,bat,Sydney Thunder,8,8,unknown,unknown,Sydney Sixers,Sydney Thunder
+26,T20,2016/17,Western Australia Cricket Association Ground,Perth,2017-01-14,male,20,6,MA Beer,Perth Scorchers,bat,Melbourne Stars,7,7,unknown,unknown,Perth Scorchers,Melbourne Stars
+27,T20,2016/17,Adelaide Oval,unknown,2017-01-16,male,20,6,MS Harris,Adelaide Strikers,field,Melbourne Renegades,6,6,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+28,T20,2016/17,Melbourne Cricket Ground,unknown,2017-01-17,male,20,6,MJ Swepson,Melbourne Stars,bat,Brisbane Heat,7,7,unknown,unknown,Melbourne Stars,Brisbane Heat
+29,T20,2016/17,Sydney Showground Stadium,unknown,2017-01-18,male,20,6,IS Sodhi,Sydney Thunder,field,Adelaide Strikers,77,77,unknown,unknown,Sydney Thunder,Adelaide Strikers
+30,T20,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-01-20,male,20,6,AJ Finch,Brisbane Heat,field,Melbourne Renegades,1,1,unknown,unknown,Brisbane Heat,Melbourne Renegades
+31,T20,2016/17,Bellerive Oval,Hobart,2017-01-21,male,20,6,SE Marsh,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+32,T20,2016/17,Melbourne Cricket Ground,unknown,2017-01-21,male,20,6,SA Abbott,Sydney Sixers,field,Sydney Sixers,3,3,unknown,unknown,Melbourne Stars,Sydney Sixers
+unknown,T20,2016/17,Western Australia Cricket Association Ground,Perth,2017-01-24,male,20,6,MG Johnson,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Perth Scorchers,Melbourne Stars
+unknown,T20,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-01-25,male,20,6,MC Henriques,Sydney Sixers,field,unknown,unknown,0,unknown,unknown,Brisbane Heat,Sydney Sixers
+unknown,T20,2016/17,Western Australia Cricket Association Ground,Perth,2017-01-28,male,20,6,JA Richardson,Perth Scorchers,field,Perth Scorchers,9,9,unknown,unknown,Perth Scorchers,Sydney Sixers
+1,T20,2017/18,Sydney Showground Stadium,Sydney,2017-12-19,male,20,6,SR Watson,Sydney Thunder,field,Sydney Thunder,5,5,unknown,unknown,Sydney Thunder,Sydney Sixers
+2,T20,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-12-20,male,20,6,MP Stoinis,Melbourne Stars,field,Brisbane Heat,15,15,unknown,unknown,Brisbane Heat,Melbourne Stars
+3,T20,2017/18,Bellerive Oval,Hobart,2017-12-21,male,20,6,DJ Bravo,Melbourne Renegades,field,Melbourne Renegades,7,7,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+4,T20,2017/18,Adelaide Oval,Adelaide,2017-12-22,male,20,6,Rashid Khan,Adelaide Strikers,bat,Adelaide Strikers,53,53,unknown,unknown,Adelaide Strikers,Sydney Thunder
+5,T20,2017/18,Sydney Cricket Ground,Sydney,2017-12-23,male,20,6,AJ Turner,Perth Scorchers,field,Perth Scorchers,6,6,unknown,unknown,Sydney Sixers,Perth Scorchers
+6,T20,2017/18,Docklands Stadium,Melbourne,2017-12-23,male,20,6,JD Wildermuth,Melbourne Renegades,field,Melbourne Renegades,7,7,unknown,unknown,Melbourne Renegades,Brisbane Heat
+7,T20,2017/18,W.A.C.A. Ground,Perth,2017-12-26,male,20,6,HWR Cartwright,Melbourne Stars,field,Perth Scorchers,13,13,unknown,unknown,Perth Scorchers,Melbourne Stars
+8,T20,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-12-27,male,20,6,AI Ross,Sydney Thunder,bat,Brisbane Heat,6,6,unknown,unknown,Brisbane Heat,Sydney Thunder
+9,T20,2017/18,Sydney Cricket Ground,Sydney,2017-12-28,male,20,6,AT Carey,Sydney Sixers,field,Adelaide Strikers,6,6,unknown,unknown,Sydney Sixers,Adelaide Strikers
+10,T20,2017/18,Docklands Stadium,Melbourne,2017-12-29,male,20,6,MG Johnson,Perth Scorchers,field,Perth Scorchers,3,3,unknown,unknown,Melbourne Renegades,Perth Scorchers
+11,T20,2017/18,Aurora Stadium,Launceston,2017-12-30,male,20,6,JC Buttler,Hobart Hurricanes,field,Sydney Thunder,57,57,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+12,T20,2017/18,Adelaide Oval,Adelaide,2017-12-31,male,20,6,MG Neser,Adelaide Strikers,bat,Adelaide Strikers,56,56,unknown,unknown,Adelaide Strikers,Brisbane Heat
+13,T20,2017/18,Sydney Showground Stadium,Sydney,2018-01-01,male,20,6,DJM Short,Sydney Thunder,field,Hobart Hurricanes,9,9,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+14,T20,2017/18,W.A.C.A. Ground,Perth,2018-01-01,male,20,6,M Klinger,Perth Scorchers,field,Perth Scorchers,6,6,unknown,unknown,Perth Scorchers,Sydney Sixers
+15,T20,2017/18,Melbourne Cricket Ground,Melbourne,2018-01-02,male,20,6,MJ Swepson,Brisbane Heat,field,Brisbane Heat,9,9,unknown,unknown,Melbourne Stars,Brisbane Heat
+16,T20,2017/18,"Simonds Stadium, South Geelong, Victoria",Geelong,2018-01-03,male,20,6,AJ Finch,Melbourne Renegades,field,Melbourne Renegades,8,8,unknown,unknown,Melbourne Renegades,Sydney Sixers
+17,T20,2017/18,Bellerive Oval,Hobart,2018-01-04,male,20,6,DJM Short,Hobart Hurricanes,bat,Hobart Hurricanes,7,7,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+18,T20,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2018-01-05,male,20,6,BCJ Cutting,Perth Scorchers,field,Brisbane Heat,49,49,unknown,unknown,Brisbane Heat,Perth Scorchers
+19,T20,2017/18,Melbourne Cricket Ground,Melbourne,2018-01-06,male,20,6,Mohammad Nabi,Melbourne Renegades,field,Melbourne Renegades,6,6,unknown,unknown,Melbourne Stars,Melbourne Renegades
+20,T20,2017/18,Sydney Showground Stadium,Sydney,2018-01-07,male,20,6,Rashid Khan,Adelaide Strikers,bat,Adelaide Strikers,25,25,unknown,unknown,Sydney Thunder,Adelaide Strikers
+21,T20,2017/18,Bellerive Oval,Hobart,2018-01-08,male,20,6,SW Billings,Hobart Hurricanes,bat,Hobart Hurricanes,5,5,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+22,T20,2017/18,W.A.C.A. Ground,Perth,2018-01-08,male,20,6,AJ Turner,Perth Scorchers,field,Perth Scorchers,5,5,unknown,unknown,Perth Scorchers,Melbourne Renegades
+23,T20,2017/18,Adelaide Oval,Adelaide,2018-01-09,male,20,6,TM Head,Melbourne Stars,bat,Adelaide Strikers,8,8,unknown,unknown,Adelaide Strikers,Melbourne Stars
+24,T20,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2018-01-10,male,20,6,DJM Short,Hobart Hurricanes,bat,Hobart Hurricanes,3,3,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+25,T20,2017/18,Sydney Showground Stadium,Sydney,2018-01-11,male,20,6,UT Khawaja,Sydney Thunder,bat,Sydney Thunder,3,3,unknown,unknown,Sydney Thunder,Perth Scorchers
+26,T20,2017/18,Docklands Stadium,Melbourne,2018-01-12,male,20,6,KP Pietersen,Melbourne Renegades,field,Melbourne Stars,23,23,unknown,unknown,Melbourne Renegades,Melbourne Stars
+27,T20,2017/18,Traeger Park,Alice Springs,2018-01-13,male,20,6,AC Agar,Perth Scorchers,field,Perth Scorchers,6,6,unknown,unknown,Adelaide Strikers,Perth Scorchers
+28,T20,2017/18,Sydney Cricket Ground,Sydney,2018-01-13,male,20,6,CJ Green,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Sydney Sixers,Sydney Thunder
+29,T20,2017/18,Bellerive Oval,Hobart,2018-01-15,male,20,6,DT Christian,Brisbane Heat,bat,Hobart Hurricanes,6,6,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+30,T20,2017/18,Melbourne Cricket Ground,Melbourne,2018-01-16,male,20,6,NM Lyon,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Melbourne Stars,Sydney Sixers
+31,T20,2017/18,Adelaide Oval,Adelaide,2018-01-17,male,20,6,AT Carey,Adelaide Strikers,bat,Adelaide Strikers,11,11,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+32,T20,2017/18,Sydney Cricket Ground,Sydney,2018-01-18,male,20,6,SA Abbott,Sydney Sixers,field,Sydney Sixers,9,9,unknown,unknown,Sydney Sixers,Brisbane Heat
+33,T20,2017/18,Melbourne Cricket Ground,Melbourne,2018-01-20,male,20,6,SR Watson,Sydney Thunder,field,Sydney Thunder,7,7,unknown,unknown,Melbourne Stars,Sydney Thunder
+34,T20,2017/18,W.A.C.A. Ground,Perth,2018-01-20,male,20,6,AC Agar,Perth Scorchers,field,Perth Scorchers,5,5,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+35,T20,2017/18,Docklands Stadium,Melbourne,2018-01-22,male,20,6,CA Ingram,Melbourne Renegades,field,Adelaide Strikers,26,26,unknown,unknown,Melbourne Renegades,Adelaide Strikers
+36,T20,2017/18,Sydney Cricket Ground,Sydney,2018-01-23,male,20,6,JL Denly,Sydney Sixers,field,Sydney Sixers,5,5,unknown,unknown,Sydney Sixers,Melbourne Stars
+37,T20,2017/18,Manuka Oval,Canberra,2018-01-24,male,20,6,KW Richardson,Sydney Thunder,field,Melbourne Renegades,9,9,unknown,unknown,Sydney Thunder,Melbourne Renegades
+38,T20,2017/18,W.A.C.A. Ground,Perth,2018-01-25,male,20,6,AC Voges,Perth Scorchers,field,Perth Scorchers,4,4,unknown,unknown,Perth Scorchers,Adelaide Strikers
+39,T20,2017/18,Melbourne Cricket Ground,Melbourne,2018-01-27,male,20,6,KP Pietersen,Melbourne Stars,field,Melbourne Stars,3,3,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+40,T20,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2018-01-27,male,20,6,TLW Cooper,Brisbane Heat,field,Melbourne Renegades,26,26,unknown,unknown,Brisbane Heat,Melbourne Renegades
+unknown,T20,2017/18,Perth Stadium,Perth,2018-02-01,male,20,6,MS Wade,Perth Scorchers,field,Hobart Hurricanes,71,71,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+unknown,T20,2017/18,Adelaide Oval,Adelaide,2018-02-02,male,20,6,TM Head,Adelaide Strikers,bat,Adelaide Strikers,1,1,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+unknown,T20,2017/18,Adelaide Oval,Adelaide,2018-02-04,male,20,6,J Weatherald,Adelaide Strikers,bat,Adelaide Strikers,25,25,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+1,T20,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2018-12-19,male,20,6,Rashid Khan,Adelaide Strikers,field,Adelaide Strikers,5,5,unknown,unknown,Brisbane Heat,Adelaide Strikers
+2,T20,2018/19,Docklands Stadium,Melbourne,2018-12-20,male,20,6,Usman Shinwari,Melbourne Renegades,field,Melbourne Renegades,4,4,unknown,unknown,Melbourne Renegades,Perth Scorchers
+3,T20,2018/19,Manuka Oval,Canberra,2018-12-21,male,20,6,DR Sams,Melbourne Stars,field,Sydney Thunder,15,15,unknown,unknown,Sydney Thunder,Melbourne Stars
+4,T20,2018/19,Sydney Cricket Ground,Sydney,2018-12-22,male,20,6,SNJ O'Keefe,Sydney Sixers,bat,Sydney Sixers,17,17,unknown,unknown,Sydney Sixers,Perth Scorchers
+5,T20,2018/19,Carrara Oval,Carrara,2018-12-22,male,20,6,DJM Short,Brisbane Heat,field,Hobart Hurricanes,15,15,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+6,T20,2018/19,Adelaide Oval,Adelaide,2018-12-23,male,20,6,DT Christian,Melbourne Renegades,field,Melbourne Renegades,5,5,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+7,T20,2018/19,Bellerive Oval,Hobart,2018-12-24,male,20,6,DJM Short,Hobart Hurricanes,field,Hobart Hurricanes,6,6,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+8,T20,2018/19,Sydney Showground Stadium,Sydney,2018-12-24,male,20,6,JC Buttler,Sydney Sixers,field,Sydney Thunder,21,21,unknown,unknown,Sydney Thunder,Sydney Sixers
+9,T20,2018/19,Perth Stadium,Perth,2018-12-26,male,20,6,JA Richardson,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Perth Scorchers,Adelaide Strikers
+10,T20,2018/19,Sydney Cricket Ground,Sydney,2018-12-27,male,20,6,PSP Handscomb,Melbourne Stars,field,Melbourne Stars,5,5,unknown,unknown,Sydney Sixers,Melbourne Stars
+11,T20,2018/19,Bellerive Oval,Hobart,2018-12-28,male,20,6,MS Wade,Hobart Hurricanes,field,Hobart Hurricanes,7,7,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+12,T20,2018/19,Docklands Stadium,Melbourne,2018-12-29,male,20,6,BAD Manenti,Melbourne Renegades,field,Sydney Sixers,33,33,unknown,unknown,Melbourne Renegades,Sydney Sixers
+13,T20,2018/19,Aurora Stadium,Launceston,2018-12-30,male,20,6,RP Meredith,Hobart Hurricanes,field,Hobart Hurricanes,6,6,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+14,T20,2018/19,Adelaide Oval,Adelaide,2018-12-31,male,20,6,PM Siddle,Adelaide Strikers,bat,Adelaide Strikers,20,20,unknown,unknown,Adelaide Strikers,Sydney Thunder
+15,T20,2018/19,Carrara Oval,Carrara,2019-01-01,male,20,6,CA Lynn,Sydney Sixers,field,Sydney Sixers,5,5,unknown,unknown,Brisbane Heat,Sydney Sixers
+16,T20,2018/19,Melbourne Cricket Ground,Melbourne,2019-01-01,male,20,6,MP Stoinis,Melbourne Stars,field,Melbourne Stars,7,7,unknown,unknown,Melbourne Stars,Melbourne Renegades
+17,T20,2018/19,Sydney Showground Stadium,Sydney,2019-01-02,male,20,6,CJ Ferguson,Sydney Thunder,bat,Sydney Thunder,1,1,unknown,unknown,Sydney Thunder,Perth Scorchers
+18,T20,2018/19,"Simonds Stadium, South Geelong, Victoria",Geelong,2019-01-03,male,20,6,J Weatherald,Melbourne Renegades,field,Adelaide Strikers,32,32,unknown,unknown,Melbourne Renegades,Adelaide Strikers
+19,T20,2018/19,Bellerive Oval,Hobart,2019-01-04,male,20,6,DJM Short,Hobart Hurricanes,field,Hobart Hurricanes,5,5,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+20,T20,2018/19,Carrara Oval,Carrara,2019-01-05,male,20,6,MP Stoinis,Sydney Thunder,bat,Melbourne Stars,8,8,unknown,unknown,Melbourne Stars,Sydney Thunder
+21,T20,2018/19,Perth Stadium,Perth,2019-01-05,male,20,6,Mujeeb Ur Rahman,Brisbane Heat,field,Brisbane Heat,5,5,unknown,unknown,Perth Scorchers,Brisbane Heat
+22,T20,2018/19,Adelaide Oval,Adelaide,2019-01-06,male,20,6,JL Denly,Adelaide Strikers,bat,Sydney Sixers,6,6,unknown,unknown,Adelaide Strikers,Sydney Sixers
+23,T20,2018/19,Docklands Stadium,Melbourne,2019-01-07,male,20,6,SB Harper,Melbourne Renegades,field,Melbourne Renegades,6,6,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+24,T20,2018/19,Sydney Showground Stadium,Sydney,2019-01-08,male,20,6,CA Lynn,Sydney Thunder,field,Brisbane Heat,15,15,unknown,unknown,Sydney Thunder,Brisbane Heat
+25,T20,2018/19,Melbourne Cricket Ground,Melbourne,2019-01-09,male,20,6,AJ Tye,Perth Scorchers,field,Perth Scorchers,6,6,unknown,unknown,Melbourne Stars,Perth Scorchers
+26,T20,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-01-10,male,20,6,SB Harper,Melbourne Renegades,field,Melbourne Renegades,8,8,unknown,unknown,Brisbane Heat,Melbourne Renegades
+27,T20,2018/19,Adelaide Oval,Adelaide,2019-01-11,male,20,6,CA Ingram,Melbourne Stars,field,Adelaide Strikers,41,41,unknown,unknown,Adelaide Strikers,Melbourne Stars
+28,T20,2018/19,Sydney Showground Stadium,Sydney,2019-01-13,male,20,6,SR Watson,Sydney Thunder,bat,Sydney Thunder,71,71,unknown,unknown,Sydney Thunder,Adelaide Strikers
+29,T20,2018/19,Geelong Cricket Ground,Geelong,2019-01-13,male,20,6,M Bryant,Melbourne Renegades,field,Brisbane Heat,101,101,unknown,unknown,Melbourne Renegades,Brisbane Heat
+30,T20,2018/19,Perth Stadium,Perth,2019-01-13,male,20,6,CT Bancroft,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Perth Scorchers,Sydney Sixers
+31,T20,2018/19,Melbourne Cricket Ground,Melbourne,2019-01-14,male,20,6,DJM Short,Melbourne Stars,field,Hobart Hurricanes,59,59,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+32,T20,2018/19,Sydney Cricket Ground,Sydney,2019-01-16,male,20,6,KW Richardson,Melbourne Renegades,field,Melbourne Renegades,7,7,unknown,unknown,Sydney Sixers,Melbourne Renegades
+33,T20,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-01-17,male,20,6,,Sydney Thunder,bat,unknown,unknown,0,unknown,unknown,Brisbane Heat,Sydney Thunder
+34,T20,2018/19,Perth Stadium,Perth,2019-01-18,male,20,6,GJ Bailey,Hobart Hurricanes,field,Hobart Hurricanes,4,4,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+35,T20,2018/19,Docklands Stadium,Melbourne,2019-01-19,male,20,6,MP Stoinis,Melbourne Stars,field,Melbourne Stars,6,6,unknown,unknown,Melbourne Renegades,Melbourne Stars
+36,T20,2018/19,Sydney Cricket Ground,Sydney,2019-01-20,male,20,6,JM Vince,Brisbane Heat,field,Sydney Sixers,79,79,unknown,unknown,Sydney Sixers,Brisbane Heat
+37,T20,2018/19,Adelaide Oval,Adelaide,2019-01-21,male,20,6,MS Wade,Adelaide Strikers,bat,Hobart Hurricanes,10,10,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+38,T20,2018/19,Sydney Showground Stadium,Sydney,2019-01-22,male,20,6,HF Gurney,Sydney Thunder,field,Melbourne Renegades,12,12,unknown,unknown,Sydney Thunder,Melbourne Renegades
+39,T20,2018/19,Ted Summerton Reserve,Moe,2019-01-23,male,20,6,BR Dunk,Adelaide Strikers,field,Melbourne Stars,44,44,unknown,unknown,Melbourne Stars,Adelaide Strikers
+40,T20,2018/19,Sydney Cricket Ground,Sydney,2019-01-23,male,20,6,JR Philippe,Sydney Sixers,field,Sydney Sixers,9,9,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+41,T20,2018/19,Perth Stadium,Perth,2019-01-24,male,20,6,CJ Ferguson,Sydney Thunder,field,Sydney Thunder,6,6,unknown,unknown,Perth Scorchers,Sydney Thunder
+42,T20,2018/19,Melbourne Cricket Ground,Melbourne,2019-01-27,male,20,6,MP Stoinis,Brisbane Heat,field,Melbourne Stars,5,5,unknown,unknown,Melbourne Stars,Brisbane Heat
+43,T20,2018/19,Perth Stadium,Perth,2019-01-28,male,20,6,CP Tremain,Perth Scorchers,field,Melbourne Renegades,78,78,unknown,unknown,Perth Scorchers,Melbourne Renegades
+44,T20,2018/19,Bellerive Oval,Hobart,2019-01-29,male,20,6,DJM Short,Hobart Hurricanes,field,Hobart Hurricanes,9,9,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+45,T20,2018/19,Sydney Cricket Ground,Sydney,2019-01-29,male,20,6,BJ Dwarshuis,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Sydney Sixers,Adelaide Strikers
+46,T20,2018/19,Docklands Stadium,Melbourne,2019-01-30,male,20,6,CJ Boyce,Melbourne Renegades,bat,Melbourne Renegades,27,27,unknown,unknown,Melbourne Renegades,Sydney Thunder
+47,T20,2018/19,Aurora Stadium,Launceston,2019-01-31,male,20,6,J Weatherald,Adelaide Strikers,field,Adelaide Strikers,7,7,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+48,T20,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-02-01,male,20,6,Mujeeb Ur Rahman,Brisbane Heat,field,Brisbane Heat,6,6,unknown,unknown,Brisbane Heat,Perth Scorchers
+49,T20,2018/19,Sydney Cricket Ground,Sydney,2019-02-02,male,20,6,DP Hughes,Sydney Sixers,field,Sydney Sixers,9,9,unknown,unknown,Sydney Sixers,Sydney Thunder
+50,T20,2018/19,Adelaide Oval,Adelaide,2019-02-03,male,20,6,MT Renshaw,Brisbane Heat,field,Brisbane Heat,6,6,unknown,unknown,Adelaide Strikers,Brisbane Heat
+51,T20,2018/19,Perth Stadium,Perth,2019-02-03,male,20,6,AJ Turner,Melbourne Stars,field,Perth Scorchers,27,27,unknown,unknown,Perth Scorchers,Melbourne Stars
+52,T20,2018/19,Bellerive Oval,Hobart,2019-02-07,male,20,6,MS Wade,Melbourne Renegades,field,Hobart Hurricanes,16,16,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+53,T20,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-02-08,male,20,6,BCJ Cutting,Brisbane Heat,field,Brisbane Heat,10,10,unknown,unknown,Brisbane Heat,Melbourne Stars
+54,T20,2018/19,Adelaide Oval,Adelaide,2019-02-09,male,20,6,JW Wells,Perth Scorchers,bat,Adelaide Strikers,5,5,unknown,unknown,Adelaide Strikers,Perth Scorchers
+55,T20,2018/19,Manuka Oval,Canberra,2019-02-09,male,20,6,PJ Cummins,Sydney Thunder,field,Sydney Thunder,4,4,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+56,T20,2018/19,Melbourne Cricket Ground,Melbourne,2019-02-10,male,20,6,GJ Maxwell,Sydney Sixers,field,Melbourne Stars,94,94,unknown,unknown,Melbourne Stars,Sydney Sixers
+unknown,T20,2018/19,Bellerive Oval,Hobart,2019-02-14,male,20,6,DJ Worrall,Melbourne Stars,field,Melbourne Stars,6,6,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+unknown,T20,2018/19,Docklands Stadium,Melbourne,2019-02-15,male,20,6,DT Christian,Melbourne Renegades,field,Melbourne Renegades,3,3,unknown,unknown,Melbourne Renegades,Sydney Sixers
+unknown,T20,2018/19,Docklands Stadium,Melbourne,2019-02-17,male,20,6,DT Christian,Melbourne Stars,field,Melbourne Renegades,13,13,unknown,unknown,Melbourne Stars,Melbourne Renegades
+1,T20,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-12-17,male,20,6,CJ Ferguson,Sydney Thunder,bat,Sydney Thunder,29,29,unknown,unknown,Brisbane Heat,Sydney Thunder
+2,T20,2019/20,Sydney Cricket Ground,Sydney,2019-12-18,male,20,6,JR Philippe,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Sydney Sixers,Perth Scorchers
+3,T20,2019/20,"Simonds Stadium, South Geelong, Victoria",Geelong,2019-12-19,male,20,6,AD Hales,Melbourne Renegades,bat,Sydney Thunder,6,6,unknown,unknown,Melbourne Renegades,Sydney Thunder
+4,T20,2019/20,Traeger Park,Alice Springs,2019-12-20,male,20,6,Qais Ahmad,Hobart Hurricanes,bat,Hobart Hurricanes,25,25,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+5,T20,2019/20,Carrara Oval,Carrara,2019-12-20,male,20,6,GJ Maxwell,Brisbane Heat,field,Melbourne Stars,22,22,unknown,unknown,Brisbane Heat,Melbourne Stars
+6,T20,2019/20,Manuka Oval,Canberra,2019-12-21,male,20,6,,Sydney Thunder,field,unknown,unknown,0,unknown,unknown,Sydney Thunder,Adelaide Strikers
+7,T20,2019/20,Perth Stadium,Perth,2019-12-21,male,20,6,MR Marsh,Melbourne Renegades,field,Perth Scorchers,11,11,unknown,unknown,Perth Scorchers,Melbourne Renegades
+8,T20,2019/20,Ted Summerton Reserve,Moe,2019-12-22,male,20,6,Haris Rauf,Melbourne Stars,bat,Melbourne Stars,52,52,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+9,T20,2019/20,Sydney Cricket Ground,Sydney,2019-12-22,male,20,6,CA Lynn,Sydney Sixers,field,Brisbane Heat,48,48,unknown,unknown,Sydney Sixers,Brisbane Heat
+10,T20,2019/20,Adelaide Oval,Adelaide,2019-12-23,male,20,6,J Weatherald,Perth Scorchers,field,Adelaide Strikers,15,15,unknown,unknown,Adelaide Strikers,Perth Scorchers
+11,T20,2019/20,Bellerive Oval,Hobart,2019-12-24,male,20,6,RP Meredith,Melbourne Renegades,bat,Hobart Hurricanes,7,7,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+12,T20,2019/20,Perth Stadium,Perth,2019-12-26,male,20,6,TK Curran,Perth Scorchers,field,Sydney Sixers,48,48,unknown,unknown,Perth Scorchers,Sydney Sixers
+13,T20,2019/20,Carrara Oval,Carrara,2019-12-27,male,20,6,JW Wells,Melbourne Stars,field,Adelaide Strikers,5,5,unknown,unknown,Melbourne Stars,Adelaide Strikers
+14,T20,2019/20,Sydney Cricket Ground,Sydney,2019-12-28,male,20,6,TK Curran,Sydney Thunder,bat,unknown,unknown,0,unknown,unknown,Sydney Sixers,Sydney Thunder
+15,T20,2019/20,Docklands Stadium,Melbourne,2019-12-29,male,20,6,Rashid Khan,Adelaide Strikers,bat,Adelaide Strikers,18,18,unknown,unknown,Melbourne Renegades,Adelaide Strikers
+16,T20,2019/20,Aurora Stadium,Launceston,2019-12-30,male,20,6,NM Coulter-Nile,Melbourne Stars,field,Melbourne Stars,4,4,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+17,T20,2019/20,Adelaide Oval,Adelaide,2019-12-31,male,20,6,CJ Ferguson,Sydney Thunder,bat,Sydney Thunder,3,3,unknown,unknown,Adelaide Strikers,Sydney Thunder
+18,T20,2019/20,Carrara Oval,Carrara,2020-01-01,male,20,6,Fawad Ahmed,Perth Scorchers,bat,Perth Scorchers,40,40,unknown,unknown,Brisbane Heat,Perth Scorchers
+19,T20,2019/20,Sydney Showground Stadium,Sydney,2020-01-02,male,20,6,NCR Larkin,Sydney Thunder,bat,Melbourne Stars,3,3,unknown,unknown,Sydney Thunder,Melbourne Stars
+20,T20,2019/20,Docklands Stadium,Melbourne,2020-01-02,male,20,6,JM Vince,Melbourne Renegades,bat,Sydney Sixers,6,6,unknown,unknown,Melbourne Renegades,Sydney Sixers
+21,T20,2019/20,Bellerive Oval,Hobart,2020-01-03,male,20,6,CA Lynn,Hobart Hurricanes,field,Brisbane Heat,31,31,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+22,T20,2019/20,Melbourne Cricket Ground,Melbourne,2020-01-04,male,20,6,A Zampa,Melbourne Stars,field,Melbourne Stars,8,8,unknown,unknown,Melbourne Stars,Melbourne Renegades
+23,T20,2019/20,International Sports Stadium,Coffs Harbour,2020-01-05,male,20,6,JR Philippe,Adelaide Strikers,bat,Sydney Sixers,7,7,unknown,unknown,Sydney Sixers,Adelaide Strikers
+24,T20,2019/20,Perth Stadium,Perth,2020-01-05,male,20,6,DJM Short,Hobart Hurricanes,bat,Hobart Hurricanes,8,8,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+25,T20,2019/20,Sydney Showground Stadium,Sydney,2020-01-06,male,20,6,T Banton,Brisbane Heat,bat,Brisbane Heat,16,16,unknown,unknown,Sydney Thunder,Brisbane Heat
+26,T20,2019/20,"Simonds Stadium, South Geelong, Victoria",Geelong,2020-01-07,male,20,6,LS Livingstone,Perth Scorchers,field,Perth Scorchers,6,6,unknown,unknown,Melbourne Renegades,Perth Scorchers
+27,T20,2019/20,Adelaide Oval,Adelaide,2020-01-08,male,20,6,TK Curran,Sydney Sixers,field,Sydney Sixers,2,2,unknown,unknown,Adelaide Strikers,Sydney Sixers
+28,T20,2019/20,Melbourne Cricket Ground,Melbourne,2020-01-08,male,20,6,Haris Rauf,Melbourne Stars,field,Melbourne Stars,6,6,unknown,unknown,Melbourne Stars,Sydney Thunder
+29,T20,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2020-01-09,male,20,6,BCJ Cutting,Hobart Hurricanes,bat,Brisbane Heat,5,5,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+30,T20,2019/20,Docklands Stadium,Melbourne,2020-01-10,male,20,6,GJ Maxwell,Melbourne Stars,field,Melbourne Stars,7,7,unknown,unknown,Melbourne Renegades,Melbourne Stars
+31,T20,2019/20,Sydney Showground Stadium,Sydney,2020-01-11,male,20,6,AD Hales,Sydney Thunder,field,Sydney Thunder,4,4,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+32,T20,2019/20,Perth Stadium,Perth,2020-01-11,male,20,6,MR Marsh,Perth Scorchers,bat,Perth Scorchers,34,34,unknown,unknown,Perth Scorchers,Brisbane Heat
+33,T20,2019/20,Adelaide Oval,Adelaide,2020-01-12,male,20,6,JW Wells,Adelaide Strikers,bat,Adelaide Strikers,63,63,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+34,T20,2019/20,Melbourne Cricket Ground,Melbourne,2020-01-12,male,20,6,MP Stoinis,Sydney Sixers,field,Melbourne Stars,44,44,unknown,unknown,Melbourne Stars,Sydney Sixers
+35,T20,2019/20,Bellerive Oval,Hobart,2020-01-13,male,20,6,JP Inglis,Hobart Hurricanes,field,Perth Scorchers,77,77,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+36,T20,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2020-01-14,male,20,6,JL Pattinson,Adelaide Strikers,bat,Brisbane Heat,7,7,unknown,unknown,Brisbane Heat,Adelaide Strikers
+37,T20,2019/20,Manuka Oval,Canberra,2020-01-15,male,20,6,SB Harper,Melbourne Renegades,bat,Melbourne Renegades,12,12,unknown,unknown,Sydney Thunder,Melbourne Renegades
+38,T20,2019/20,Perth Stadium,Perth,2020-01-15,male,20,6,JR Coleman,Perth Scorchers,bat,Melbourne Stars,8,8,unknown,unknown,Perth Scorchers,Melbourne Stars
+39,T20,2019/20,Sydney Cricket Ground,Sydney,2020-01-16,male,20,6,,Hobart Hurricanes,field,unknown,unknown,0,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+40,T20,2019/20,Adelaide Oval,Adelaide,2020-01-17,male,20,6,LN O'Connor,Brisbane Heat,bat,Adelaide Strikers,10,10,unknown,unknown,Adelaide Strikers,Brisbane Heat
+41,T20,2019/20,Melbourne Cricket Ground,Melbourne,2020-01-18,male,20,6,GJ Maxwell,Melbourne Stars,bat,Melbourne Stars,10,10,unknown,unknown,Melbourne Stars,Perth Scorchers
+42,T20,2019/20,Sydney Showground Stadium,Sydney,2020-01-18,male,20,6,CH Morris,Sydney Thunder,field,Sydney Thunder,4,4,unknown,unknown,Sydney Thunder,Sydney Sixers
+43,T20,2019/20,Aurora Stadium,Launceston,2020-01-19,male,20,6,TM Head,Hobart Hurricanes,field,Adelaide Strikers,10,10,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+44,T20,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2020-01-19,male,20,6,CJ Boyce,Brisbane Heat,field,Melbourne Renegades,44,44,unknown,unknown,Brisbane Heat,Melbourne Renegades
+45,T20,2019/20,Sydney Cricket Ground,Sydney,2020-01-20,male,20,6,MC Henriques,Melbourne Stars,field,Sydney Sixers,21,21,unknown,unknown,Sydney Sixers,Melbourne Stars
+46,T20,2019/20,Perth Stadium,Perth,2020-01-20,male,20,6,LS Livingstone,Sydney Thunder,bat,Perth Scorchers,8,8,unknown,unknown,Perth Scorchers,Sydney Thunder
+47,T20,2019/20,Docklands Stadium,Melbourne,2020-01-21,male,20,6,M Wright,Melbourne Renegades,field,Hobart Hurricanes,4,4,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+48,T20,2019/20,Adelaide Oval,Adelaide,2020-01-22,male,20,6,JW Wells,Melbourne Stars,field,Adelaide Strikers,11,11,unknown,unknown,Adelaide Strikers,Melbourne Stars
+49,T20,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2020-01-23,male,20,6,SNJ O'Keefe,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Brisbane Heat,Sydney Sixers
+50,T20,2019/20,Bellerive Oval,Hobart,2020-01-24,male,20,6,DJM Short,Hobart Hurricanes,bat,Hobart Hurricanes,57,57,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+51,T20,2019/20,Perth Stadium,Perth,2020-01-24,male,20,6,WA Agar,Adelaide Strikers,bat,Adelaide Strikers,16,16,unknown,unknown,Perth Scorchers,Adelaide Strikers
+52,T20,2019/20,Sydney Cricket Ground,Sydney,2020-01-25,male,20,6,SPD Smith,Sydney Sixers,field,Sydney Sixers,7,7,unknown,unknown,Sydney Sixers,Melbourne Renegades
+53,T20,2019/20,Melbourne Cricket Ground,Melbourne,2020-01-25,male,20,6,AB de Villiers,Brisbane Heat,bat,Brisbane Heat,71,71,unknown,unknown,Melbourne Stars,Brisbane Heat
+54,T20,2019/20,Sydney Showground Stadium,Sydney,2020-01-26,male,20,6,AD Hales,Perth Scorchers,bat,Sydney Thunder,7,7,unknown,unknown,Sydney Thunder,Perth Scorchers
+55,T20,2019/20,Adelaide Oval,Adelaide,2020-01-26,male,20,6,MS Wade,Hobart Hurricanes,bat,Hobart Hurricanes,10,10,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+56,T20,2019/20,Docklands Stadium,Melbourne,2020-01-27,male,20,6,AJ Finch,Brisbane Heat,bat,Melbourne Renegades,7,7,unknown,unknown,Melbourne Renegades,Brisbane Heat
+unknown,T20,2019/20,Bellerive Oval,Hobart,2020-01-30,male,20,6,JD Cook,Sydney Thunder,bat,Sydney Thunder,57,57,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+unknown,T20,2019/20,Melbourne Cricket Ground,Melbourne,2020-01-31,male,20,6,SNJ O'Keefe,Melbourne Stars,field,Sydney Sixers,43,43,unknown,unknown,Melbourne Stars,Sydney Sixers
+unknown,T20,2019/20,Adelaide Oval,Adelaide,2020-02-01,male,20,6,AD Hales,Adelaide Strikers,field,Sydney Thunder,8,8,unknown,unknown,Adelaide Strikers,Sydney Thunder
+unknown,T20,2019/20,Melbourne Cricket Ground,Melbourne,2020-02-06,male,20,6,NCR Larkin,Melbourne Stars,bat,Melbourne Stars,28,28,unknown,unknown,Melbourne Stars,Sydney Thunder
+unknown,T20,2019/20,Sydney Cricket Ground,Sydney,2020-02-08,male,20,6,JR Philippe,Melbourne Stars,field,Sydney Sixers,19,19,unknown,unknown,Sydney Sixers,Melbourne Stars
+33,T20,2020/21,Adelaide Oval,Adelaide,2021-01-08,male,20,6,Mohammad Nabi,Adelaide Strikers,bat,Melbourne Renegades,6,6,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+52,T20,2020/21,Melbourne Cricket Ground,Melbourne,2021-01-24,male,20,6,MS Wade,Sydney Sixers,field,Hobart Hurricanes,7,7,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+3,T20,2020/21,Manuka Oval,Canberra,2020-12-12,male,20,6,A Zampa,Melbourne Stars,bat,Melbourne Stars,22,22,unknown,unknown,Melbourne Stars,Sydney Thunder
+30,T20,2020/21,Perth Stadium,Perth,2021-01-06,male,20,6,MR Marsh,Sydney Sixers,field,Perth Scorchers,86,86,unknown,unknown,Perth Scorchers,Sydney Sixers
+10,T20,2020/21,Bellerive Oval,Hobart,2020-12-19,male,20,6,BR McDermott,Hobart Hurricanes,field,Hobart Hurricanes,6,6,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+12,T20,2020/21,Manuka Oval,Canberra,2020-12-22,male,20,6,CJ Ferguson,Sydney Thunder,field,Sydney Thunder,7,7,unknown,unknown,Perth Scorchers,Sydney Thunder
+24,T20,2020/21,Brisbane Cricket Ground,Brisbane,2021-01-02,male,20,6,MT Steketee,Sydney Sixers,bat,Brisbane Heat,4,4,unknown,unknown,Sydney Sixers,Brisbane Heat
+29,T20,2020/21,Adelaide Oval,Adelaide,2021-01-05,male,20,6,RJ Gibson,Adelaide Strikers,bat,Adelaide Strikers,60,60,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+47,T20,2020/21,Docklands Stadium,Melbourne,2021-01-22,male,20,6,JA Richardson,Perth Scorchers,bat,Perth Scorchers,22,22,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+32,T20,2020/21,Carrara Oval,Carrara,2021-01-07,male,20,6,CA Lynn,Melbourne Stars,field,Brisbane Heat,17,17,unknown,unknown,Brisbane Heat,Melbourne Stars
+53,T20,2020/21,Adelaide Oval,Adelaide,2021-01-25,male,20,6,AD Hales,Sydney Thunder,field,Sydney Thunder,9,9,unknown,unknown,Adelaide Strikers,Sydney Thunder
+6,T20,2020/21,Bellerive Oval,Hobart,2020-12-13,male,20,6,JR Philippe,Melbourne Renegades,field,Sydney Sixers,145,145,unknown,unknown,Sydney Sixers,Melbourne Renegades
+44,T20,2020/21,Docklands Stadium,Melbourne,2021-01-19,male,20,6,C Munro,Brisbane Heat,field,Perth Scorchers,59,59,unknown,unknown,Perth Scorchers,Brisbane Heat
+40,T20,2020/21,Melbourne Cricket Ground,Melbourne,2021-01-15,male,20,6,ADS Fletcher,Adelaide Strikers,field,Melbourne Stars,111,111,unknown,unknown,Melbourne Stars,Adelaide Strikers
+43,T20,2020/21,Manuka Oval,Canberra,2021-01-18,male,20,6,BR McDermott,Hobart Hurricanes,field,Hobart Hurricanes,6,6,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+4,T20,2020/21,Bellerive Oval,Hobart,2020-12-12,male,20,6,JK Lalor,Perth Scorchers,bat,Melbourne Renegades,7,7,unknown,unknown,Perth Scorchers,Melbourne Renegades
+26,T20,2020/21,Carrara Oval,Carrara,2021-01-03,male,20,6,JR Philippe,Sydney Sixers,field,Sydney Sixers,7,7,unknown,unknown,Adelaide Strikers,Sydney Sixers
+39,T20,2020/21,Manuka Oval,Canberra,2021-01-14,male,20,6,JA Burns,Brisbane Heat,field,Brisbane Heat,5,5,unknown,unknown,Melbourne Renegades,Brisbane Heat
+23,T20,2020/21,Bellerive Oval,Hobart,2021-01-02,male,20,6,SM Boland,Melbourne Stars,field,Hobart Hurricanes,21,21,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+17,T20,2020/21,Adelaide Oval,Adelaide,2020-12-28,male,20,6,Rashid Khan,Perth Scorchers,field,Adelaide Strikers,71,71,unknown,unknown,Adelaide Strikers,Perth Scorchers
+15,T20,2020/21,Carrara Oval,Carrara,2020-12-26,male,20,6,DP Hughes,Sydney Sixers,field,Sydney Sixers,1,1,unknown,unknown,Melbourne Stars,Sydney Sixers
+51,T20,2020/21,Adelaide Oval,Adelaide,2021-01-24,male,20,6,PM Siddle,Adelaide Strikers,bat,Adelaide Strikers,6,6,unknown,unknown,Adelaide Strikers,Sydney Thunder
+49,T20,2020/21,Docklands Stadium,Melbourne,2021-01-23,male,20,6,M Labuschagne,Brisbane Heat,bat,Brisbane Heat,26,26,unknown,unknown,Brisbane Heat,Melbourne Renegades
+50,T20,2020/21,Melbourne Cricket Ground,Melbourne,2021-01-23,male,20,6,JJ Roy,Melbourne Stars,field,Perth Scorchers,11,11,unknown,unknown,Perth Scorchers,Melbourne Stars
+5,T20,2020/21,Bellerive Oval,Hobart,2020-12-13,male,20,6,DJM Short,Adelaide Strikers,field,Hobart Hurricanes,11,11,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+28,T20,2020/21,Brisbane Cricket Ground,Brisbane,2021-01-04,male,20,6,JA Burns,Sydney Thunder,bat,Brisbane Heat,5,5,unknown,unknown,Sydney Thunder,Brisbane Heat
+1,T20,2020/21,Bellerive Oval,Hobart,2020-12-10,male,20,6,TH David,Sydney Sixers,field,Hobart Hurricanes,16,16,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+25,T20,2020/21,Perth Stadium,Perth,2021-01-03,male,20,6,JP Inglis,Melbourne Renegades,field,Perth Scorchers,96,96,unknown,unknown,Perth Scorchers,Melbourne Renegades
+19,T20,2020/21,Manuka Oval,Canberra,2020-12-29,male,20,6,AD Hales,Melbourne Stars,field,Sydney Thunder,75,75,unknown,unknown,Sydney Thunder,Melbourne Stars
+35,T20,2020/21,Carrara Oval,Carrara,2021-01-10,male,20,6,DT Christian,Sydney Sixers,field,Sydney Sixers,3,3,unknown,unknown,Brisbane Heat,Sydney Sixers
+22,T20,2020/21,Carrara Oval,Carrara,2021-01-01,male,20,6,AD Hales,Sydney Thunder,field,Sydney Thunder,7,7,unknown,unknown,Melbourne Renegades,Sydney Thunder
+37,T20,2020/21,Perth Stadium,Perth,2021-01-12,male,20,6,JJ Roy,Hobart Hurricanes,bat,Perth Scorchers,9,9,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+56,T20,2020/21,Melbourne Cricket Ground,Melbourne,2021-01-26,male,20,6,BJ Dwarshuis,Sydney Sixers,field,Sydney Sixers,5,5,unknown,unknown,Melbourne Stars,Sydney Sixers
+46,T20,2020/21,Adelaide Oval,Adelaide,2021-01-21,male,20,6,AT Carey,Adelaide Strikers,bat,Adelaide Strikers,82,82,unknown,unknown,Adelaide Strikers,Brisbane Heat
+55,T20,2020/21,Melbourne Cricket Ground,Melbourne,2021-01-26,male,20,6,Z Evans,Hobart Hurricanes,field,Melbourne Renegades,11,11,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+38,T20,2020/21,Manuka Oval,Canberra,2021-01-13,male,20,6,SNJ O'Keefe,Sydney Sixers,field,Sydney Sixers,5,5,unknown,unknown,Sydney Thunder,Sydney Sixers
+54,T20,2020/21,Adelaide Oval,Adelaide,2021-01-26,male,20,6,M Labuschagne,Perth Scorchers,field,Brisbane Heat,6,6,unknown,unknown,Brisbane Heat,Perth Scorchers
+8,T20,2020/21,Aurora Stadium,Launceston,2020-12-15,male,20,6,PM Siddle,Adelaide Strikers,field,Adelaide Strikers,5,5,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+42,T20,2020/21,Melbourne Cricket Ground,Melbourne,2021-01-17,male,20,6,LC Hatcher,Melbourne Renegades,bat,Melbourne Stars,6,6,unknown,unknown,Melbourne Renegades,Melbourne Stars
+41,T20,2020/21,Manuka Oval,Canberra,2021-01-16,male,20,6,JR Philippe,Perth Scorchers,bat,Sydney Sixers,7,7,unknown,unknown,Perth Scorchers,Sydney Sixers
+7,T20,2020/21,Manuka Oval,Canberra,2020-12-14,male,20,6,DR Sams,Brisbane Heat,bat,Sydney Thunder,4,4,unknown,unknown,Brisbane Heat,Sydney Thunder
+9,T20,2020/21,Aurora Stadium,Launceston,2020-12-16,male,20,6,,Melbourne Stars,field,unknown,unknown,0,unknown,unknown,Perth Scorchers,Melbourne Stars
+16,T20,2020/21,Brisbane Cricket Ground,Brisbane,2020-12-27,male,20,6,L Gregory,Brisbane Heat,field,Brisbane Heat,4,4,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+45,T20,2020/21,Docklands Stadium,Melbourne,2021-01-20,male,20,6,MW Harvey,Melbourne Stars,bat,Melbourne Renegades,5,5,unknown,unknown,Melbourne Stars,Melbourne Renegades
+21,T20,2020/21,Adelaide Oval,Adelaide,2020-12-31,male,20,6,JA Richardson,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Adelaide Strikers,Perth Scorchers
+31,T20,2020/21,Perth Stadium,Perth,2021-01-07,male,20,6,N McAndrew,Hobart Hurricanes,field,Sydney Thunder,39,39,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+2,T20,2020/21,Manuka Oval,Canberra,2020-12-11,male,20,6,NM Coulter-Nile,Melbourne Stars,field,Melbourne Stars,6,6,unknown,unknown,Brisbane Heat,Melbourne Stars
+11,T20,2020/21,Bellerive Oval,Hobart,2020-12-20,male,20,6,DT Christian,Adelaide Strikers,field,Sydney Sixers,38,38,unknown,unknown,Sydney Sixers,Adelaide Strikers
+14,T20,2020/21,Manuka Oval,Canberra,2020-12-26,male,20,6,O Davies,Melbourne Renegades,field,Sydney Thunder,129,129,unknown,unknown,Sydney Thunder,Melbourne Renegades
+20,T20,2020/21,Brisbane Cricket Ground,Brisbane,2020-12-30,male,20,6,Mujeeb Ur Rahman,Brisbane Heat,field,Hobart Hurricanes,1,1,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+36,T20,2020/21,Adelaide Oval,Adelaide,2021-01-11,male,20,6,WA Agar,Melbourne Stars,bat,Adelaide Strikers,5,5,unknown,unknown,Melbourne Stars,Adelaide Strikers
+18,T20,2020/21,Carrara Oval,Carrara,2020-12-29,male,20,6,JO Holder,Melbourne Renegades,bat,Sydney Sixers,2,2,unknown,unknown,Melbourne Renegades,Sydney Sixers
+34,T20,2020/21,Perth Stadium,Perth,2021-01-09,male,20,6,JA Richardson,Sydney Thunder,field,Perth Scorchers,17,17,unknown,unknown,Perth Scorchers,Sydney Thunder
+27,T20,2020/21,Bellerive Oval,Hobart,2021-01-04,male,20,6,MP Stoinis,Hobart Hurricanes,field,Melbourne Stars,10,10,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+48,T20,2020/21,Adelaide Oval,Adelaide,2021-01-22,male,20,6,AD Hales,Sydney Sixers,field,Sydney Thunder,46,46,unknown,unknown,Sydney Thunder,Sydney Sixers
+13,T20,2020/21,Brisbane Cricket Ground,Brisbane,2020-12-23,male,20,6,JJ Peirson,Brisbane Heat,field,Adelaide Strikers,2,2,unknown,unknown,Adelaide Strikers,Brisbane Heat
+unknown,T20,2020/21,Sydney Cricket Ground,Sydney,2021-02-06,male,20,6,JM Vince,Perth Scorchers,field,Sydney Sixers,27,27,unknown,unknown,Sydney Sixers,Perth Scorchers
+unknown,T20,2020/21,Brisbane Cricket Ground,Brisbane,2021-01-29,male,20,6,JJ Peirson,Adelaide Strikers,bat,Brisbane Heat,6,6,unknown,unknown,Adelaide Strikers,Brisbane Heat
+unknown,T20,2020/21,Manuka Oval,Canberra,2021-01-30,male,20,6,JM Vince,Perth Scorchers,bat,Sydney Sixers,9,9,unknown,unknown,Perth Scorchers,Sydney Sixers
+unknown,T20,2020/21,Manuka Oval,Canberra,2021-01-31,male,20,6,SD Heazlett,Brisbane Heat,field,Brisbane Heat,7,7,unknown,unknown,Sydney Thunder,Brisbane Heat
+unknown,T20,2020/21,Manuka Oval,Canberra,2021-02-04,male,20,6,LS Livingstone,Brisbane Heat,field,Perth Scorchers,49,49,unknown,unknown,Perth Scorchers,Brisbane Heat
+1,T20,2021/22,Sydney Cricket Ground,Sydney,2021-12-05,male,20,6,JR Philippe,Melbourne Stars,field,Sydney Sixers,152,152,unknown,unknown,Sydney Sixers,Melbourne Stars
+2,T20,2021/22,"Manuka Oval, Canberra",Canberra,2021-12-06,male,20,6,AI Ross,Sydney Thunder,field,Sydney Thunder,7,7,unknown,unknown,Brisbane Heat,Sydney Thunder
+3,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2021-12-07,male,20,6,Zahir Khan,Melbourne Renegades,bat,Melbourne Renegades,2,2,unknown,unknown,Melbourne Renegades,Adelaide Strikers
+4,T20,2021/22,"Aurora Stadium, Launceston",Launceston,2021-12-08,male,20,6,MC Henriques,Hobart Hurricanes,field,Sydney Sixers,14,14,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+5,T20,2021/22,Perth Stadium,Perth,2021-12-08,male,20,6,M Kelly,Perth Scorchers,bat,Perth Scorchers,6,6,unknown,unknown,Perth Scorchers,Brisbane Heat
+6,T20,2021/22,Adelaide Oval,Adelaide,2021-12-09,male,20,6,WA Agar,Adelaide Strikers,bat,Adelaide Strikers,49,49,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+7,T20,2021/22,Melbourne Cricket Ground,Melbourne,2021-12-10,male,20,6,NCR Larkin,Sydney Thunder,field,Melbourne Stars,4,4,unknown,unknown,Melbourne Stars,Sydney Thunder
+8,T20,2021/22,Sydney Cricket Ground,Sydney,2021-12-11,male,20,6,MS Wade,Hobart Hurricanes,bat,Hobart Hurricanes,44,44,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+9,T20,2021/22,Sydney Showground Stadium,Sydney,2021-12-11,male,20,6,C Munro,Perth Scorchers,bat,Perth Scorchers,49,49,unknown,unknown,Perth Scorchers,Adelaide Strikers
+10,T20,2021/22,Sydney Showground Stadium,Sydney,2021-12-12,male,20,6,AD Russell,Melbourne Stars,field,Melbourne Stars,6,6,unknown,unknown,Sydney Thunder,Melbourne Stars
+11,T20,2021/22,Carrara Oval,Carrara,2021-12-13,male,20,6,JJ Bazley,Brisbane Heat,field,Brisbane Heat,5,5,unknown,unknown,Melbourne Renegades,Brisbane Heat
+12,T20,2021/22,"Bellerive Oval, Hobart",Hobart,2021-12-14,male,20,6,MR Marsh,Perth Scorchers,bat,Perth Scorchers,53,53,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+13,T20,2021/22,Melbourne Cricket Ground,Melbourne,2021-12-15,male,20,6,JR Philippe,Sydney Sixers,field,Sydney Sixers,7,7,unknown,unknown,Melbourne Stars,Sydney Sixers
+14,T20,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2021-12-19,male,20,6,S Mahmood,Brisbane Heat,field,Sydney Thunder,53,53,unknown,unknown,Sydney Thunder,Brisbane Heat
+15,T20,2021/22,"Bellerive Oval, Hobart",Hobart,2021-12-20,male,20,6,KR Patterson,Perth Scorchers,bat,Perth Scorchers,42,42,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+16,T20,2021/22,Sydney Cricket Ground,Sydney,2021-12-21,male,20,6,SA Abbott,Adelaide Strikers,bat,Sydney Sixers,4,4,unknown,unknown,Adelaide Strikers,Sydney Sixers
+17,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2021-12-22,male,20,6,MR Marsh,Perth Scorchers,bat,Perth Scorchers,21,21,unknown,unknown,Perth Scorchers,Melbourne Renegades
+18,T20,2021/22,Adelaide Oval,Adelaide,2021-12-23,male,20,6,BM Duckett,Brisbane Heat,bat,Brisbane Heat,39,39,unknown,unknown,Brisbane Heat,Adelaide Strikers
+19,T20,2021/22,"Bellerive Oval, Hobart",Hobart,2021-12-24,male,20,6,NT Ellis,Hobart Hurricanes,bat,Hobart Hurricanes,24,24,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+20,T20,2021/22,Sydney Showground Stadium,Sydney,2021-12-26,male,20,6,DT Christian,Sydney Thunder,field,Sydney Sixers,30,30,unknown,unknown,Sydney Sixers,Sydney Thunder
+21,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2021-12-26,male,20,6,MR Marsh,Melbourne Renegades,bat,Perth Scorchers,8,8,unknown,unknown,Melbourne Renegades,Perth Scorchers
+22,T20,2021/22,"Bellerive Oval, Hobart",Hobart,2021-12-27,male,20,6,BR McDermott,Adelaide Strikers,bat,Hobart Hurricanes,7,7,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+23,T20,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2021-12-27,male,20,6,JM Clarke,Brisbane Heat,field,Melbourne Stars,20,20,unknown,unknown,Melbourne Stars,Brisbane Heat
+24,T20,2021/22,"Manuka Oval, Canberra",Canberra,2021-12-28,male,20,6,SW Billings,Perth Scorchers,field,Sydney Thunder,34,34,unknown,unknown,Sydney Thunder,Perth Scorchers
+25,T20,2021/22,Sydney Cricket Ground,Sydney,2021-12-29,male,20,6,SA Abbott,Brisbane Heat,bat,Sydney Sixers,2,2,unknown,unknown,Brisbane Heat,Sydney Sixers
+26,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2021-12-29,male,20,6,BR McDermott,Melbourne Renegades,field,Hobart Hurricanes,85,85,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+42,T20,2021/22,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-01-11,male,20,6,LJ Evans,Perth Scorchers,bat,Perth Scorchers,47,47,unknown,unknown,Perth Scorchers,Melbourne Stars
+28,T20,2021/22,Adelaide Oval,Adelaide,2021-12-31,male,20,6,JJS Sangha,Sydney Thunder,bat,Sydney Thunder,22,22,unknown,unknown,Sydney Thunder,Adelaide Strikers
+29,T20,2021/22,"Bellerive Oval, Hobart",Hobart,2022-01-01,male,20,6,XC Bartlett,Hobart Hurricanes,field,Brisbane Heat,14,14,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+31,T20,2021/22,"Junction Oval, Melbourne",Melbourne,2022-01-02,male,20,6,P Hatzoglou,Perth Scorchers,bat,Perth Scorchers,50,50,unknown,unknown,Perth Scorchers,Melbourne Stars
+32,T20,2021/22,Sydney Showground Stadium,Sydney,2022-01-02,male,20,6,M Gilkes,Sydney Thunder,bat,Sydney Thunder,28,28,unknown,unknown,Sydney Thunder,Adelaide Strikers
+33,T20,2021/22,Melbourne Cricket Ground,Melbourne,2022-01-03,male,20,6,KW Richardson,Melbourne Stars,bat,Melbourne Renegades,5,5,unknown,unknown,Melbourne Stars,Melbourne Renegades
+unknown,T20,2021/22,Melbourne Cricket Ground,Melbourne,2022-01-21,male,20,6,MW Short,Adelaide Strikers,bat,Adelaide Strikers,22,22,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+35,T20,2021/22,Adelaide Oval,Adelaide,2022-01-05,male,20,6,MW Short,Adelaide Strikers,field,Adelaide Strikers,7,7,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+36,T20,2021/22,Carrara Oval,Carrara,2022-01-06,male,20,6,GS Sandhu,Perth Scorchers,bat,Sydney Thunder,6,6,unknown,unknown,Perth Scorchers,Sydney Thunder
+37,T20,2021/22,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-01-06,male,20,6,SE Marsh,Melbourne Renegades,field,Melbourne Renegades,5,5,unknown,unknown,Brisbane Heat,Melbourne Renegades
+38,T20,2021/22,Carrara Oval,Carrara,2022-01-04,male,20,6,AM Hardie,Perth Scorchers,bat,Perth Scorchers,10,10,unknown,unknown,Perth Scorchers,Sydney Sixers
+48,T20,2021/22,Adelaide Oval,Adelaide,2022-01-15,male,20,6,HTRY Thornton,Melbourne Stars,field,Adelaide Strikers,23,23,unknown,unknown,Adelaide Strikers,Melbourne Stars
+40,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2022-01-08,male,20,6,DR Sams,Melbourne Renegades,field,Sydney Thunder,129,129,unknown,unknown,Sydney Thunder,Melbourne Renegades
+41,T20,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-01-08,male,20,6,BR McDermott,Hobart Hurricanes,field,Hobart Hurricanes,8,8,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+42,T20,2021/22,"International Sports Stadium, Coffs Harbour",Coffs Harbour,2022-01-09,male,20,6,AJ Turner,Sydney Sixers,bat,Perth Scorchers,5,5,unknown,unknown,Sydney Sixers,Perth Scorchers
+44,T20,2021/22,Melbourne Cricket Ground,Melbourne,2022-01-10,male,20,6,JM Clarke,Melbourne Stars,field,Melbourne Stars,5,5,unknown,unknown,Adelaide Strikers,Melbourne Stars
+43,T20,2021/22,Melbourne Cricket Ground,Melbourne,2022-01-10,male,20,6,AD Hales,Hobart Hurricanes,bat,Sydney Thunder,9,9,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+43,T20,2021/22,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-01-11,male,20,6,BJ Dwarshuis,Sydney Sixers,bat,Sydney Sixers,45,45,unknown,unknown,Sydney Sixers,Melbourne Renegades
+44,T20,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-01-12,male,20,6,Rashid Khan,Adelaide Strikers,bat,Adelaide Strikers,71,71,unknown,unknown,Adelaide Strikers,Brisbane Heat
+45,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2022-01-13,male,20,6,RP Meredith,Hobart Hurricanes,bat,Hobart Hurricanes,9,9,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+46,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2022-01-13,male,20,6,GJ Maxwell,Melbourne Renegades,bat,Melbourne Stars,6,6,unknown,unknown,Melbourne Renegades,Melbourne Stars
+47,T20,2021/22,Adelaide Oval,Adelaide,2022-01-14,male,20,6,Fawad Ahmed,Adelaide Strikers,field,Adelaide Strikers,6,6,unknown,unknown,Perth Scorchers,Adelaide Strikers
+49,T20,2021/22,Sydney Cricket Ground,Sydney,2022-01-15,male,20,6,SNJ O'Keefe,Sydney Thunder,field,Sydney Sixers,60,60,unknown,unknown,Sydney Sixers,Sydney Thunder
+50,T20,2021/22,Melbourne Cricket Ground,Melbourne,2022-01-16,male,20,6,GJ Maxwell,Brisbane Heat,bat,Melbourne Stars,8,8,unknown,unknown,Brisbane Heat,Melbourne Stars
+51,T20,2021/22,Adelaide Oval,Adelaide,2022-01-17,male,20,6,IA Cockbain,Sydney Sixers,bat,Adelaide Strikers,8,8,unknown,unknown,Sydney Sixers,Adelaide Strikers
+52,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2022-01-17,male,20,6,MR Marsh,Brisbane Heat,bat,Perth Scorchers,6,6,unknown,unknown,Brisbane Heat,Perth Scorchers
+53,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2022-01-18,male,20,6,AJ Finch,Hobart Hurricanes,bat,Hobart Hurricanes,6,6,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+54,T20,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-01-19,male,20,6,DP Hughes,Brisbane Heat,field,Sydney Sixers,27,27,unknown,unknown,Sydney Sixers,Brisbane Heat
+56,T20,2021/22,Melbourne Cricket Ground,Melbourne,2022-01-19,male,20,6,GJ Maxwell,Hobart Hurricanes,field,Melbourne Stars,106,106,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+55,T20,2021/22,Melbourne Cricket Ground,Melbourne,2022-01-19,male,20,6,CJ Boyce,Melbourne Renegades,field,Sydney Thunder,1,1,unknown,unknown,Sydney Thunder,Melbourne Renegades
+unknown,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2022-01-22,male,20,6,JP Inglis,Perth Scorchers,bat,Perth Scorchers,48,48,unknown,unknown,Perth Scorchers,Sydney Sixers
+unknown,T20,2021/22,Melbourne Cricket Ground,Melbourne,2022-01-23,male,20,6,IA Cockbain,Adelaide Strikers,bat,Adelaide Strikers,6,6,unknown,unknown,Adelaide Strikers,Sydney Thunder
+unknown,T20,2021/22,Sydney Cricket Ground,Sydney,2022-01-26,male,20,6,H Kerr,Sydney Sixers,field,Sydney Sixers,4,4,unknown,unknown,Adelaide Strikers,Sydney Sixers
+unknown,T20,2021/22,"Docklands Stadium, Melbourne",Melbourne,2022-01-28,male,20,6,LJ Evans,Sydney Sixers,field,Perth Scorchers,79,79,unknown,unknown,Perth Scorchers,Sydney Sixers
+1,T20,2022/23,"Manuka Oval, Canberra",Canberra,2022-12-13,male,20,6,GS Sandhu,Sydney Thunder,field,Sydney Thunder,1,1,unknown,unknown,Melbourne Stars,Sydney Thunder
+2,T20,2022/23,Adelaide Oval,Adelaide,2022-12-14,male,20,6,MW Short,Adelaide Strikers,bat,Adelaide Strikers,51,51,unknown,unknown,Adelaide Strikers,Sydney Sixers
+3,T20,2022/23,"Cazaly's Stadium, Cairns",Cairns,2022-12-15,male,20,6,NJ Maddinson,Brisbane Heat,field,Melbourne Renegades,22,22,unknown,unknown,Melbourne Renegades,Brisbane Heat
+4,T20,2022/23,Melbourne Cricket Ground,Melbourne,2022-12-16,male,20,6,JM Clarke,Hobart Hurricanes,field,Melbourne Stars,38,38,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+5,T20,2022/23,Sydney Showground Stadium,Sydney,2022-12-16,male,20,6,HTRY Thornton,Adelaide Strikers,bat,Adelaide Strikers,124,124,unknown,unknown,Adelaide Strikers,Sydney Thunder
+6,T20,2022/23,Perth Stadium,Perth,2022-12-17,male,20,6,JA Richardson,Perth Scorchers,bat,Perth Scorchers,38,38,unknown,unknown,Perth Scorchers,Sydney Sixers
+7,T20,2022/23,"Docklands Stadium, Melbourne",Melbourne,2022-12-18,male,20,6,AJ Finch,Sydney Thunder,bat,Melbourne Renegades,4,4,unknown,unknown,Sydney Thunder,Melbourne Renegades
+8,T20,2022/23,"University of Tasmania Stadium, Launceston",Launceston,2022-12-19,male,20,6,PG Dooley,Hobart Hurricanes,bat,Hobart Hurricanes,8,8,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+9,T20,2022/23,Adelaide Oval,Adelaide,2022-12-20,male,20,6,MW Short,Sydney Thunder,bat,Adelaide Strikers,6,6,unknown,unknown,Sydney Thunder,Adelaide Strikers
+10,T20,2022/23,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-12-21,male,20,6,AD Russell,Brisbane Heat,bat,Melbourne Renegades,4,4,unknown,unknown,Brisbane Heat,Melbourne Renegades
+11,T20,2022/23,Sydney Cricket Ground,Sydney,2022-12-22,male,20,6,JR Philippe,Sydney Sixers,bat,Sydney Sixers,6,6,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+12,T20,2022/23,"Junction Oval, Melbourne",Melbourne,2022-12-23,male,20,6,JP Inglis,Perth Scorchers,bat,Perth Scorchers,61,61,unknown,unknown,Perth Scorchers,Melbourne Stars
+13,T20,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-12-23,male,20,6,SW Billings,Brisbane Heat,bat,Brisbane Heat,6,6,unknown,unknown,Brisbane Heat,Adelaide Strikers
+14,T20,2022/23,"Bellerive Oval, Hobart",Hobart,2022-12-24,male,20,6,RP Meredith,Hobart Hurricanes,bat,Hobart Hurricanes,8,8,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+15,T20,2022/23,Sydney Cricket Ground,Sydney,2022-12-26,male,20,6,MC Henriques,Sydney Sixers,field,Sydney Sixers,7,7,unknown,unknown,Melbourne Stars,Sydney Sixers
+16,T20,2022/23,Perth Stadium,Perth,2022-12-26,male,20,6,AJ Turner,Adelaide Strikers,bat,Perth Scorchers,3,3,unknown,unknown,Adelaide Strikers,Perth Scorchers
+17,T20,2022/23,Sydney Showground Stadium,Sydney,2022-12-27,male,20,6,M Gilkes,Brisbane Heat,bat,Sydney Thunder,10,10,unknown,unknown,Brisbane Heat,Sydney Thunder
+18,T20,2022/23,Sydney Cricket Ground,Sydney,2022-12-28,male,20,6,BJ Dwarshuis,Melbourne Renegades,field,Sydney Sixers,34,34,unknown,unknown,Sydney Sixers,Melbourne Renegades
+19,T20,2022/23,Carrara Oval,Carrara,2022-12-29,male,20,6,DR Sams,Brisbane Heat,field,Sydney Thunder,11,11,unknown,unknown,Sydney Thunder,Brisbane Heat
+20,T20,2022/23,Perth Stadium,Perth,2022-12-29,male,20,6,JA Richardson,Melbourne Stars,bat,Perth Scorchers,6,6,unknown,unknown,Melbourne Stars,Perth Scorchers
+21,T20,2022/23,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-12-30,male,20,6,CJ Jordan,Melbourne Renegades,bat,Sydney Sixers,6,6,unknown,unknown,Melbourne Renegades,Sydney Sixers
+22,T20,2022/23,"Lavington Sports Oval, Albury",Albury,2022-12-31,male,20,6,O Davies,Hobart Hurricanes,field,Sydney Thunder,62,62,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+23,T20,2022/23,Adelaide Oval,Adelaide,2022-12-31,male,20,6,MP Stoinis,Melbourne Stars,bat,Melbourne Stars,8,8,unknown,unknown,Melbourne Stars,Adelaide Strikers
+24,T20,2022/23,"Docklands Stadium, Melbourne",Melbourne,2023-01-01,male,20,6,AJ Tye,Melbourne Renegades,bat,Perth Scorchers,5,5,unknown,unknown,Melbourne Renegades,Perth Scorchers
+25,T20,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-01-01,male,20,6,J Brown,Brisbane Heat,bat,Brisbane Heat,15,15,unknown,unknown,Brisbane Heat,Sydney Sixers
+26,T20,2022/23,"Bellerive Oval, Hobart",Hobart,2023-01-02,male,20,6,CP Jewell,Adelaide Strikers,bat,Hobart Hurricanes,7,7,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+27,T20,2022/23,Melbourne Cricket Ground,Melbourne,2023-01-03,male,20,6,TS Rogers,Melbourne Stars,field,Melbourne Renegades,33,33,unknown,unknown,Melbourne Renegades,Melbourne Stars
+28,T20,2022/23,"North Sydney Oval, Sydney",Sydney,2023-01-04,male,20,6,,Sydney Sixers,field,unknown,unknown,0,unknown,unknown,Brisbane Heat,Sydney Sixers
+29,T20,2022/23,Perth Stadium,Perth,2023-01-04,male,20,6,O Davies,Perth Scorchers,bat,Sydney Thunder,6,6,unknown,unknown,Perth Scorchers,Sydney Thunder
+30,T20,2022/23,Adelaide Oval,Adelaide,2023-01-05,male,20,6,MW Short,Adelaide Strikers,field,Adelaide Strikers,7,7,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+31,T20,2022/23,Melbourne Cricket Ground,Melbourne,2023-01-06,male,20,6,JM Vince,Sydney Sixers,field,Sydney Sixers,6,6,unknown,unknown,Melbourne Stars,Sydney Sixers
+32,T20,2022/23,"Docklands Stadium, Melbourne",Melbourne,2023-01-07,male,20,6,SB Harper,Melbourne Renegades,field,Melbourne Renegades,6,6,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+33,T20,2022/23,Perth Stadium,Perth,2023-01-07,male,20,6,CT Bancroft,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Brisbane Heat,Perth Scorchers
+34,T20,2022/23,Sydney Showground Stadium,Sydney,2023-01-08,male,20,6,SA Abbott,Sydney Sixers,field,Sydney Sixers,7,7,unknown,unknown,Sydney Thunder,Sydney Sixers
+35,T20,2022/23,"Bellerive Oval, Hobart",Hobart,2023-01-09,male,20,6,NT Ellis,Hobart Hurricanes,field,Hobart Hurricanes,2,2,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+36,T20,2022/23,Adelaide Oval,Adelaide,2023-01-10,male,20,6,CA Lynn,Melbourne Renegades,field,Adelaide Strikers,20,20,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+37,T20,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-01-11,male,20,6,JP Behrendorff,Perth Scorchers,field,Perth Scorchers,8,8,unknown,unknown,Brisbane Heat,Perth Scorchers
+38,T20,2022/23,Melbourne Cricket Ground,Melbourne,2023-01-12,male,20,6,LC Hatcher,Melbourne Stars,field,Melbourne Stars,9,9,unknown,unknown,Adelaide Strikers,Melbourne Stars
+39,T20,2022/23,Sydney Showground Stadium,Sydney,2023-01-13,male,20,6,AJ Tye,Perth Scorchers,field,Perth Scorchers,9,9,unknown,unknown,Sydney Thunder,Perth Scorchers
+40,T20,2022/23,Adelaide Oval,Adelaide,2023-01-14,male,20,6,MP Kuhnemann,Adelaide Strikers,field,Brisbane Heat,17,17,unknown,unknown,Brisbane Heat,Adelaide Strikers
+41,T20,2022/23,"Docklands Stadium, Melbourne",Melbourne,2023-01-14,male,20,6,KW Richardson,Melbourne Stars,field,Melbourne Renegades,6,6,unknown,unknown,Melbourne Renegades,Melbourne Stars
+42,T20,2022/23,"Bellerive Oval, Hobart",Hobart,2023-01-15,male,20,6,NT Ellis,Sydney Thunder,bat,Hobart Hurricanes,5,5,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+43,T20,2022/23,Sydney Cricket Ground,Sydney,2023-01-15,male,20,6,SA Abbott,Perth Scorchers,field,Sydney Sixers,6,6,unknown,unknown,Sydney Sixers,Perth Scorchers
+44,T20,2022/23,Melbourne Cricket Ground,Melbourne,2023-01-16,male,20,6,MT Renshaw,Brisbane Heat,field,Brisbane Heat,3,3,unknown,unknown,Melbourne Stars,Brisbane Heat
+45,T20,2022/23,"International Sports Stadium, Coffs Harbour",Coffs Harbour,2023-01-17,male,20,6,SPD Smith,Adelaide Strikers,field,Sydney Sixers,59,59,unknown,unknown,Sydney Sixers,Adelaide Strikers
+46,T20,2022/23,Perth Stadium,Perth,2023-01-18,male,20,6,AM Hardie,Hobart Hurricanes,bat,Perth Scorchers,7,7,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+47,T20,2022/23,"Manuka Oval, Canberra",Canberra,2023-01-19,male,20,6,M Gilkes,Melbourne Renegades,bat,Sydney Thunder,8,8,unknown,unknown,Melbourne Renegades,Sydney Thunder
+48,T20,2022/23,Adelaide Oval,Adelaide,2023-01-20,male,20,6,DA Payne,Adelaide Strikers,bat,Perth Scorchers,7,7,unknown,unknown,Adelaide Strikers,Perth Scorchers
+49,T20,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-01-20,male,20,6,MG Neser,Hobart Hurricanes,field,Brisbane Heat,12,12,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+50,T20,2022/23,Sydney Cricket Ground,Sydney,2023-01-21,male,20,6,SPD Smith,Sydney Sixers,bat,Sydney Sixers,125,125,unknown,unknown,Sydney Sixers,Sydney Thunder
+51,T20,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-01-22,male,20,6,SR Hain,Brisbane Heat,bat,Brisbane Heat,4,4,unknown,unknown,Brisbane Heat,Melbourne Stars
+52,T20,2022/23,Perth Stadium,Perth,2023-01-22,male,20,6,CT Bancroft,Melbourne Renegades,field,Perth Scorchers,10,10,unknown,unknown,Perth Scorchers,Melbourne Renegades
+53,T20,2022/23,"Bellerive Oval, Hobart",Hobart,2023-01-23,male,20,6,SPD Smith,Hobart Hurricanes,field,Sydney Sixers,24,24,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+54,T20,2022/23,"Docklands Stadium, Melbourne",Melbourne,2023-01-24,male,20,6,AJ Finch,Melbourne Renegades,field,Melbourne Renegades,6,6,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+55,T20,2022/23,"University of Tasmania Stadium, Launceston",Launceston,2023-01-25,male,20,6,NT Ellis,Brisbane Heat,field,Hobart Hurricanes,2,2,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+56,T20,2022/23,Melbourne Cricket Ground,Melbourne,2023-01-25,male,20,6,CJ Green,Sydney Thunder,field,Sydney Thunder,3,3,unknown,unknown,Melbourne Stars,Sydney Thunder
+unknown,T20,2022/23,Sydney Showground Stadium,Sydney,2023-01-27,male,20,6,UT Khawaja,Sydney Thunder,field,Brisbane Heat,8,8,unknown,unknown,Brisbane Heat,Sydney Thunder
+unknown,T20,2022/23,Perth Stadium,Perth,2023-01-28,male,20,6,AJ Turner,Sydney Sixers,bat,Perth Scorchers,7,7,unknown,unknown,Sydney Sixers,Perth Scorchers
+unknown,T20,2022/23,"Docklands Stadium, Melbourne",Melbourne,2023-01-29,male,20,6,XC Bartlett,Brisbane Heat,field,Brisbane Heat,7,7,unknown,unknown,Melbourne Renegades,Brisbane Heat
+unknown,T20,2022/23,Sydney Cricket Ground,Sydney,2023-02-02,male,20,6,MG Neser,Sydney Sixers,bat,Brisbane Heat,4,4,unknown,unknown,Sydney Sixers,Brisbane Heat
+unknown,T20,2022/23,Perth Stadium,Perth,2023-02-04,male,20,6,AJ Turner,Brisbane Heat,bat,Perth Scorchers,5,5,unknown,unknown,Brisbane Heat,Perth Scorchers
+1,T20,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-12-07,male,20,6,C Munro,Melbourne Stars,field,Brisbane Heat,103,103,unknown,unknown,Brisbane Heat,Melbourne Stars
+2,T20,2023/24,Sydney Cricket Ground,Sydney,2023-12-08,male,20,6,SPD Smith,Melbourne Renegades,field,Sydney Sixers,8,8,unknown,unknown,Sydney Sixers,Melbourne Renegades
+4,T20,2023/24,"GMHBA Stadium, South Geelong, Victoria",Geelong,2023-12-10,male,20,6,,Melbourne Renegades,field,unknown,unknown,0,unknown,unknown,Perth Scorchers,Melbourne Renegades
+5,T20,2023/24,"University of Tasmania Stadium, Launceston",Launceston,2023-12-11,male,20,6,DP Hughes,Hobart Hurricanes,bat,Sydney Sixers,6,6,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+6,T20,2023/24,"Manuka Oval, Canberra",Canberra,2023-12-12,male,20,6,MJ Swepson,Sydney Thunder,field,Brisbane Heat,20,20,unknown,unknown,Brisbane Heat,Sydney Thunder
+7,T20,2023/24,Melbourne Cricket Ground,Melbourne,2023-12-13,male,20,6,H McKenzie,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Melbourne Stars,Perth Scorchers
+8,T20,2023/24,Adelaide Oval,Adelaide,2023-12-19,male,20,6,MW Short,Sydney Thunder,bat,Adelaide Strikers,6,6,unknown,unknown,Sydney Thunder,Adelaide Strikers
+9,T20,2023/24,Perth Stadium,Perth,2023-12-20,male,20,6,JP Behrendorff,Hobart Hurricanes,bat,Perth Scorchers,9,9,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+10,T20,2023/24,"Docklands Stadium, Melbourne",Melbourne,2023-12-21,male,20,6,PI Walter,Brisbane Heat,field,Brisbane Heat,6,6,unknown,unknown,Melbourne Renegades,Brisbane Heat
+11,T20,2023/24,Sydney Cricket Ground,Sydney,2023-12-22,male,20,6,JC Silk,Adelaide Strikers,field,Sydney Sixers,1,1,unknown,unknown,Sydney Sixers,Adelaide Strikers
+12,T20,2023/24,"Lavington Sports Oval, Albury",Albury,2023-12-23,male,20,6,Zaman Khan,Melbourne Stars,bat,Sydney Thunder,5,5,unknown,unknown,Melbourne Stars,Sydney Thunder
+13,T20,2023/24,"Bellerive Oval, Hobart",Hobart,2023-12-23,male,20,6,MS Wade,Hobart Hurricanes,field,Hobart Hurricanes,6,6,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+14,T20,2023/24,Sydney Cricket Ground,Sydney,2023-12-26,male,20,6,HWR Cartwright,Melbourne Stars,field,Melbourne Stars,4,4,unknown,unknown,Sydney Sixers,Melbourne Stars
+15,T20,2023/24,Perth Stadium,Perth,2023-12-26,male,20,6,JP Inglis,Melbourne Renegades,field,Perth Scorchers,13,13,unknown,unknown,Perth Scorchers,Melbourne Renegades
+16,T20,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-12-27,male,20,6,NA McSweeney,Brisbane Heat,bat,Brisbane Heat,15,15,unknown,unknown,Brisbane Heat,Sydney Thunder
+17,T20,2023/24,"Bellerive Oval, Hobart",Hobart,2023-12-28,male,20,6,GJ Maxwell,Melbourne Stars,field,Melbourne Stars,7,7,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+18,T20,2023/24,"Docklands Stadium, Melbourne",Melbourne,2023-12-29,male,20,6,J Fraser-McGurk,Adelaide Strikers,bat,Melbourne Renegades,4,4,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+19,T20,2023/24,Sydney Showground Stadium,Sydney,2023-12-30,male,20,6,,Sydney Thunder,bat,unknown,unknown,0,unknown,unknown,Sydney Thunder,Sydney Sixers
+20,T20,2023/24,Adelaide Oval,Adelaide,2023-12-31,male,20,6,MP Stoinis,Melbourne Stars,field,Melbourne Stars,7,7,unknown,unknown,Adelaide Strikers,Melbourne Stars
+21,T20,2023/24,"Bellerive Oval, Hobart",Hobart,2024-01-01,male,20,6,CJ Jordan,Hobart Hurricanes,field,Hobart Hurricanes,7,7,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+23,T20,2023/24,Melbourne Cricket Ground,Melbourne,2024-01-02,male,20,6,GJ Maxwell,Melbourne Stars,field,Melbourne Stars,8,8,unknown,unknown,Melbourne Renegades,Melbourne Stars
+24,T20,2023/24,"International Sports Stadium, Coffs Harbour",Coffs Harbour,2024-01-03,male,20,6,PI Walter,Brisbane Heat,field,Brisbane Heat,3,3,unknown,unknown,Sydney Sixers,Brisbane Heat
+25,T20,2023/24,Perth Stadium,Perth,2024-01-03,male,20,6,LJ Evans,Adelaide Strikers,field,Perth Scorchers,42,42,unknown,unknown,Perth Scorchers,Adelaide Strikers
+26,T20,2023/24,"Docklands Stadium, Melbourne",Melbourne,2024-01-04,male,20,6,SR Hain,Hobart Hurricanes,field,Hobart Hurricanes,6,6,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+27,T20,2023/24,Adelaide Oval,Adelaide,2024-01-05,male,20,6,MW Short,Adelaide Strikers,field,Adelaide Strikers,9,9,unknown,unknown,Perth Scorchers,Adelaide Strikers
+28,T20,2023/24,Melbourne Cricket Ground,Melbourne,2024-01-06,male,20,6,JM Vince,Sydney Sixers,field,Sydney Sixers,7,7,unknown,unknown,Melbourne Stars,Sydney Sixers
+29,T20,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-01-07,male,20,6,XC Bartlett,Hobart Hurricanes,field,Brisbane Heat,1,1,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+30,T20,2023/24,Sydney Showground Stadium,Sydney,2024-01-08,male,20,6,AC Agar,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Sydney Thunder,Perth Scorchers
+31,T20,2023/24,Adelaide Oval,Adelaide,2024-01-09,male,20,6,CJ Boyce,Adelaide Strikers,field,Adelaide Strikers,5,5,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+32,T20,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-01-10,male,20,6,MG Neser,Brisbane Heat,bat,Brisbane Heat,23,23,unknown,unknown,Brisbane Heat,Perth Scorchers
+33,T20,2023/24,"Bellerive Oval, Hobart",Hobart,2024-01-11,male,20,6,J Weatherald,Adelaide Strikers,field,Adelaide Strikers,8,8,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+34,T20,2023/24,Sydney Cricket Ground,Sydney,2024-01-12,male,20,6,SNJ O'Keefe,Sydney Thunder,field,Sydney Sixers,19,19,unknown,unknown,Sydney Sixers,Sydney Thunder
+35,T20,2023/24,Perth Stadium,Perth,2024-01-13,male,20,6,NR Hobson,Perth Scorchers,bat,Perth Scorchers,35,35,unknown,unknown,Perth Scorchers,Brisbane Heat
+36,T20,2023/24,"Docklands Stadium, Melbourne",Melbourne,2024-01-13,male,20,6,SE Marsh,Melbourne Renegades,field,Melbourne Renegades,6,6,unknown,unknown,Melbourne Stars,Melbourne Renegades
+37,T20,2023/24,"Manuka Oval, Canberra",Canberra,2024-01-14,male,20,6,L Pope,Sydney Thunder,bat,Adelaide Strikers,9,9,unknown,unknown,Sydney Thunder,Adelaide Strikers
+38,T20,2023/24,Melbourne Cricket Ground,Melbourne,2024-01-15,male,20,6,NT Ellis,Melbourne Stars,field,Hobart Hurricanes,7,7,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+39,T20,2023/24,Perth Stadium,Perth,2024-01-16,male,20,6,DP Hughes,Perth Scorchers,bat,Sydney Sixers,3,3,unknown,unknown,Perth Scorchers,Sydney Sixers
+unknown,T20,2023/24,Carrara Oval,Carrara,2024-01-19,male,20,6,BJ Dwarshuis,Brisbane Heat,field,Sydney Sixers,39,39,unknown,unknown,Sydney Sixers,Brisbane Heat
+unknown,T20,2023/24,Perth Stadium,Perth,2024-01-20,male,20,6,L Pope,Perth Scorchers,field,Adelaide Strikers,50,50,unknown,unknown,Adelaide Strikers,Perth Scorchers
+unknown,T20,2023/24,Carrara Oval,Carrara,2024-01-22,male,20,6,J Brown,Brisbane Heat,bat,Brisbane Heat,54,54,unknown,unknown,Brisbane Heat,Adelaide Strikers
+unknown,T20,2023/24,Sydney Cricket Ground,Sydney,2024-01-24,male,20,6,SH Johnson,Sydney Sixers,field,Brisbane Heat,54,54,unknown,unknown,Brisbane Heat,Sydney Sixers
+1,T20,2024/25,Perth Stadium,Perth,2024-12-15,male,20,6,JA Richardson,Melbourne Stars,bat,Perth Scorchers,6,6,unknown,unknown,Melbourne Stars,Perth Scorchers
+2,T20,2024/25,Sydney Cricket Ground,Sydney,2024-12-16,male,20,6,MC Henriques,Sydney Sixers,field,Sydney Sixers,5,5,unknown,unknown,Melbourne Renegades,Sydney Sixers
+3,T20,2024/25,"Manuka Oval, Canberra",Canberra,2024-12-17,male,20,6,DR Sams,Sydney Thunder,field,Sydney Thunder,2,2,unknown,unknown,Adelaide Strikers,Sydney Thunder
+4,T20,2024/25,Melbourne Cricket Ground,Melbourne,2024-12-18,male,20,6,JJ Peirson,Brisbane Heat,field,Brisbane Heat,8,8,unknown,unknown,Melbourne Stars,Brisbane Heat
+5,T20,2024/25,"GMHBA Stadium, South Geelong, Victoria",Geelong,2024-12-19,male,20,6,TS Rogers,Melbourne Renegades,field,Melbourne Renegades,6,6,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+6,T20,2024/25,Adelaide Oval,Adelaide,2024-12-20,male,20,6,L Pope,Melbourne Stars,field,Adelaide Strikers,15,15,unknown,unknown,Adelaide Strikers,Melbourne Stars
+7,T20,2024/25,"Bellerive Oval, Hobart",Hobart,2024-12-21,male,20,6,MJ Owen,Hobart Hurricanes,field,Hobart Hurricanes,8,8,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+8,T20,2024/25,Sydney Showground Stadium,Sydney,2024-12-21,male,20,6,BJ Dwarshuis,Sydney Sixers,field,Sydney Sixers,5,5,unknown,unknown,Sydney Thunder,Sydney Sixers
+9,T20,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-12-22,male,20,6,NA McSweeney,Brisbane Heat,field,Brisbane Heat,3,3,unknown,unknown,Adelaide Strikers,Brisbane Heat
+10,T20,2024/25,"Docklands Stadium, Melbourne",Melbourne,2024-12-23,male,20,6,TS Rogers,Melbourne Renegades,field,Melbourne Renegades,2,2,unknown,unknown,Perth Scorchers,Melbourne Renegades
+11,T20,2024/25,Sydney Cricket Ground,Sydney,2024-12-26,male,20,6,JM Vince,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Melbourne Stars,Sydney Sixers
+12,T20,2024/25,Perth Stadium,Perth,2024-12-26,male,20,6,NR Hobson,Brisbane Heat,field,Perth Scorchers,33,33,unknown,unknown,Perth Scorchers,Brisbane Heat
+13,T20,2024/25,Adelaide Oval,Adelaide,2024-12-27,male,20,6,BR McDermott,Adelaide Strikers,field,Hobart Hurricanes,11,11,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+14,T20,2024/25,"Manuka Oval, Canberra",Canberra,2024-12-28,male,20,6,SW Billings,Melbourne Stars,field,Sydney Thunder,18,18,unknown,unknown,Sydney Thunder,Melbourne Stars
+15,T20,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-12-29,male,20,6,BJ Dwarshuis,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Brisbane Heat,Sydney Sixers
+16,T20,2024/25,Sydney Showground Stadium,Sydney,2024-12-30,male,20,6,DA Warner,Melbourne Renegades,field,Sydney Thunder,8,8,unknown,unknown,Sydney Thunder,Melbourne Renegades
+17,T20,2024/25,Adelaide Oval,Adelaide,2024-12-31,male,20,6,C Connolly,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Adelaide Strikers,Perth Scorchers
+18,T20,2024/25,"Bellerive Oval, Hobart",Hobart,2025-01-01,male,20,6,Nikhil Chaudhary,Sydney Sixers,field,Hobart Hurricanes,50,50,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+19,T20,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2025-01-01,male,20,6,MP Stoinis,Melbourne Stars,field,Melbourne Stars,5,5,unknown,unknown,Brisbane Heat,Melbourne Stars
+20,T20,2024/25,"Docklands Stadium, Melbourne",Melbourne,2025-01-02,male,20,6,CA Lynn,Adelaide Strikers,field,Adelaide Strikers,5,5,unknown,unknown,Melbourne Renegades,Adelaide Strikers
+22,T20,2024/25,Perth Stadium,Perth,2025-01-03,male,20,6,SE Rutherford,Sydney Thunder,field,Sydney Thunder,4,4,unknown,unknown,Perth Scorchers,Sydney Thunder
+23,T20,2024/25,Melbourne Cricket Ground,Melbourne,2025-01-04,male,20,6,BM Duckett,Melbourne Stars,field,Melbourne Stars,5,5,unknown,unknown,Melbourne Renegades,Melbourne Stars
+24,T20,2024/25,"Bellerive Oval, Hobart",Hobart,2025-01-05,male,20,6,TH David,Adelaide Strikers,bat,Hobart Hurricanes,5,5,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+25,T20,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2025-01-06,male,20,6,M Bryant,Brisbane Heat,field,Brisbane Heat,5,5,unknown,unknown,Sydney Thunder,Brisbane Heat
+26,T20,2024/25,Perth Stadium,Perth,2025-01-07,male,20,6,TS Rogers,Melbourne Renegades,field,Melbourne Renegades,4,4,unknown,unknown,Perth Scorchers,Melbourne Renegades
+28,T20,2024/25,Melbourne Cricket Ground,Melbourne,2025-01-09,male,20,6,GJ Maxwell,Sydney Sixers,field,Melbourne Stars,16,16,unknown,unknown,Melbourne Stars,Sydney Sixers
+29,T20,2024/25,"Bellerive Oval, Hobart",Hobart,2025-01-10,male,20,6,TH David,Hobart Hurricanes,field,Hobart Hurricanes,6,6,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+30,T20,2024/25,Sydney Cricket Ground,Sydney,2025-01-11,male,20,6,SPD Smith,Perth Scorchers,field,Sydney Sixers,14,14,unknown,unknown,Sydney Sixers,Perth Scorchers
+31,T20,2024/25,Adelaide Oval,Adelaide,2025-01-11,male,20,6,MW Short,Brisbane Heat,field,Adelaide Strikers,56,56,unknown,unknown,Adelaide Strikers,Brisbane Heat
+32,T20,2024/25,"Docklands Stadium, Melbourne",Melbourne,2025-01-12,male,20,6,GJ Maxwell,Melbourne Renegades,field,Melbourne Stars,42,42,unknown,unknown,Melbourne Stars,Melbourne Renegades
+33,T20,2024/25,Sydney Showground Stadium,Sydney,2025-01-13,male,20,6,TD Andrews,Perth Scorchers,field,Sydney Thunder,61,61,unknown,unknown,Sydney Thunder,Perth Scorchers
+34,T20,2024/25,"Bellerive Oval, Hobart",Hobart,2025-01-14,male,20,6,JG Bethell,Hobart Hurricanes,field,Hobart Hurricanes,4,4,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+35,T20,2024/25,Adelaide Oval,Adelaide,2025-01-15,male,20,6,SPD Smith,Sydney Sixers,field,Sydney Sixers,3,3,unknown,unknown,Adelaide Strikers,Sydney Sixers
+36,T20,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2025-01-16,male,20,6,CP Jewell,Hobart Hurricanes,field,Hobart Hurricanes,5,5,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+37,T20,2024/25,Sydney Cricket Ground,Sydney,2025-01-17,male,20,6,,Sydney Sixers,field,unknown,unknown,0,unknown,unknown,Sydney Thunder,Sydney Sixers
+38,T20,2024/25,"Docklands Stadium, Melbourne",Melbourne,2025-01-18,male,20,6,J Fraser-McGurk,Melbourne Renegades,field,Melbourne Renegades,3,3,unknown,unknown,Brisbane Heat,Melbourne Renegades
+39,T20,2024/25,Perth Stadium,Perth,2025-01-18,male,20,6,JP Behrendorff,Perth Scorchers,field,Perth Scorchers,5,5,unknown,unknown,Adelaide Strikers,Perth Scorchers
+40,T20,2024/25,Melbourne Cricket Ground,Melbourne,2025-01-19,male,20,6,GJ Maxwell,Hobart Hurricanes,field,Melbourne Stars,40,40,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+unknown,T20,2024/25,"Bellerive Oval, Hobart",Hobart,2025-01-21,male,20,6,RP Meredith,Sydney Sixers,field,Hobart Hurricanes,12,12,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+unknown,T20,2024/25,Sydney Showground Stadium,Sydney,2025-01-22,male,20,6,N McAndrew,Melbourne Stars,field,Sydney Thunder,21,21,unknown,unknown,Sydney Thunder,Melbourne Stars
+unknown,T20,2024/25,Sydney Cricket Ground,Sydney,2025-01-24,male,20,6,SW Billings,Sydney Thunder,field,Sydney Thunder,4,4,unknown,unknown,Sydney Sixers,Sydney Thunder
+unknown,T20,2024/25,"Bellerive Oval, Hobart",Hobart,2025-01-27,male,20,6,MJ Owen,Hobart Hurricanes,field,Hobart Hurricanes,7,7,unknown,unknown,Sydney Thunder,Hobart Hurricanes
+unknown,T20,2011/12,Sydney Cricket Ground,unknown,2011-12-16,male,20,6,BJ Haddin,Brisbane Heat,bat,Sydney Sixers,7,7,unknown,unknown,Sydney Sixers,Brisbane Heat
+unknown,T20,2011/12,Melbourne Cricket Ground,unknown,2011-12-17,male,20,6,DA Warner,Sydney Thunder,field,Sydney Thunder,6,6,unknown,unknown,Melbourne Stars,Sydney Thunder
+unknown,T20,2011/12,Adelaide Oval,unknown,2011-12-18,male,20,6,M Klinger,Melbourne Renegades,field,Adelaide Strikers,67,67,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+unknown,T20,2011/12,Western Australia Cricket Association Ground,Perth,2011-12-18,male,20,6,BW Hilfenhaus,Hobart Hurricanes,bat,Hobart Hurricanes,31,31,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+unknown,T20,2011/12,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2011-12-20,male,20,6,RJ Quiney,Melbourne Stars,bat,Melbourne Stars,8,8,unknown,unknown,Brisbane Heat,Melbourne Stars
+unknown,T20,2011/12,Bellerive Oval,Hobart,2011-12-21,male,20,6,TR Birt,Hobart Hurricanes,bat,Hobart Hurricanes,42,42,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+unknown,T20,2011/12,Docklands Stadium,Melbourne,2011-12-22,male,20,6,SE Marsh,Melbourne Renegades,bat,Perth Scorchers,8,8,unknown,unknown,Melbourne Renegades,Perth Scorchers
+unknown,T20,2011/12,Stadium Australia,Sydney,2011-12-23,male,20,6,CH Gayle,Adelaide Strikers,bat,Sydney Thunder,6,6,unknown,unknown,Sydney Thunder,Adelaide Strikers
+unknown,T20,2011/12,Sydney Cricket Ground,unknown,2011-12-27,male,20,6,DJ Bravo,Sydney Sixers,bat,Sydney Sixers,2,2,unknown,unknown,Sydney Sixers,Melbourne Stars
+unknown,T20,2011/12,Adelaide Oval,unknown,2011-12-28,male,20,6,XJ Doherty,Hobart Hurricanes,bat,Hobart Hurricanes,14,14,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+unknown,T20,2011/12,Western Australia Cricket Association Ground,Perth,2011-12-29,male,20,6,MJ North,Perth Scorchers,bat,Perth Scorchers,10,10,unknown,unknown,Perth Scorchers,Brisbane Heat
+unknown,T20,2011/12,Stadium Australia,Sydney,2011-12-30,male,20,6,Shahid Afridi,Melbourne Renegades,bat,Melbourne Renegades,6,6,unknown,unknown,Sydney Thunder,Melbourne Renegades
+unknown,T20,2011/12,Bellerive Oval,Hobart,2012-01-01,male,20,6,Naved-ul-Hasan,Sydney Thunder,bat,Hobart Hurricanes,5,5,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+unknown,T20,2011/12,Docklands Stadium,Melbourne,2012-01-02,male,20,6,AB McDonald,Sydney Sixers,bat,Melbourne Renegades,8,8,unknown,unknown,Melbourne Renegades,Sydney Sixers
+unknown,T20,2011/12,Melbourne Cricket Ground,unknown,2012-01-04,male,20,6,HH Gibbs,Perth Scorchers,bat,Perth Scorchers,8,8,unknown,unknown,Melbourne Stars,Perth Scorchers
+unknown,T20,2011/12,Stadium Australia,Sydney,2012-01-08,male,20,6,MA Starc,Sydney Sixers,bat,Sydney Sixers,17,17,unknown,unknown,Sydney Thunder,Sydney Sixers
+unknown,T20,2011/12,Western Australia Cricket Association Ground,Perth,2012-01-08,male,20,6,GB Hogg,Perth Scorchers,bat,Perth Scorchers,42,42,unknown,unknown,Perth Scorchers,Adelaide Strikers
+unknown,T20,2011/12,Bellerive Oval,Hobart,2012-01-09,male,20,6,LJ Wright,Melbourne Stars,bat,Melbourne Stars,19,19,unknown,unknown,Hobart Hurricanes,Melbourne Stars
+unknown,T20,2011/12,Adelaide Oval,unknown,2012-01-10,male,20,6,SNJ O'Keefe,Sydney Sixers,bat,Sydney Sixers,64,64,unknown,unknown,Adelaide Strikers,Sydney Sixers
+unknown,T20,2011/12,Docklands Stadium,Melbourne,2012-01-12,male,20,6,DL Vettori,Brisbane Heat,bat,Brisbane Heat,12,12,unknown,unknown,Melbourne Renegades,Brisbane Heat
+unknown,T20,2011/12,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2012-01-17,male,20,6,DT Christian,Sydney Thunder,field,Brisbane Heat,91,91,unknown,unknown,Brisbane Heat,Sydney Thunder
+unknown,T20,2011/12,Bellerive Oval,Hobart,2012-01-18,male,20,6,OA Shah,Melbourne Renegades,bat,Hobart Hurricanes,7,7,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+unknown,T20,2011/12,Sydney Cricket Ground,unknown,2012-01-18,male,20,6,MA Starc,Sydney Sixers,bat,Sydney Sixers,1,1,unknown,unknown,Sydney Sixers,Perth Scorchers
+unknown,T20,2011/12,Melbourne Cricket Ground,unknown,2012-01-19,male,20,6,CJ McKay,Adelaide Strikers,bat,Melbourne Stars,6,6,unknown,unknown,Melbourne Stars,Adelaide Strikers
+unknown,T20,2011/12,Western Australia Cricket Association Ground,Perth,2012-01-21,male,20,6,MR Marsh,Perth Scorchers,bat,Perth Scorchers,11,11,unknown,unknown,Perth Scorchers,Melbourne Stars
+unknown,T20,2011/12,Bellerive Oval,Hobart,2012-01-22,male,20,6,NJ Maddinson,Sydney Sixers,bat,Sydney Sixers,7,7,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+unknown,T20,2011/12,Western Australia Cricket Association Ground,Perth,2012-01-28,male,20,6,MC Henriques,Perth Scorchers,bat,Sydney Sixers,7,7,unknown,unknown,Perth Scorchers,Sydney Sixers
+unknown,T20,2012/13,Docklands Stadium,Melbourne,2012-12-07,male,20,6,AJ Finch,Melbourne Stars,bat,Melbourne Renegades,8,8,unknown,unknown,Melbourne Renegades,Melbourne Stars
+unknown,T20,2012/13,Sydney Cricket Ground,unknown,2012-12-08,male,20,6,BJ Haddin,Sydney Sixers,field,Sydney Sixers,7,7,unknown,unknown,Sydney Sixers,Sydney Thunder
+unknown,T20,2012/13,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2012-12-09,male,20,6,TR Birt,Brisbane Heat,bat,Hobart Hurricanes,8,8,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+unknown,T20,2012/13,Western Australia Cricket Association Ground,Perth,2012-12-09,male,20,6,PJ Hughes,Perth Scorchers,bat,Adelaide Strikers,6,6,unknown,unknown,Perth Scorchers,Adelaide Strikers
+unknown,T20,2012/13,Western Australia Cricket Association Ground,Perth,2012-12-12,male,20,6,SL Malinga,Melbourne Stars,field,Melbourne Stars,24,24,unknown,unknown,Perth Scorchers,Melbourne Stars
+unknown,T20,2012/13,Adelaide Oval,unknown,2012-12-13,male,20,6,LA Pomersbach,Brisbane Heat,field,Brisbane Heat,3,3,unknown,unknown,Adelaide Strikers,Brisbane Heat
+unknown,T20,2012/13,Stadium Australia,Sydney,2012-12-14,male,20,6,AW O'Brien,Melbourne Renegades,field,Melbourne Renegades,5,5,unknown,unknown,Sydney Thunder,Melbourne Renegades
+unknown,T20,2012/13,Melbourne Cricket Ground,unknown,2012-12-15,male,20,6,CJ McKay,Melbourne Stars,field,Melbourne Stars,4,4,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+unknown,T20,2012/13,Sydney Cricket Ground,unknown,2012-12-16,male,20,6,MA Beer,Perth Scorchers,field,Perth Scorchers,7,7,unknown,unknown,Sydney Sixers,Perth Scorchers
+unknown,T20,2012/13,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2012-12-18,male,20,6,NM Coulter-Nile,Perth Scorchers,field,Perth Scorchers,9,9,unknown,unknown,Brisbane Heat,Perth Scorchers
+unknown,T20,2012/13,Docklands Stadium,Melbourne,2012-12-19,male,20,6,MN Samuels,Melbourne Renegades,field,Melbourne Renegades,7,7,unknown,unknown,Melbourne Renegades,Hobart Hurricanes
+unknown,T20,2012/13,Stadium Australia,Sydney,2012-12-20,male,20,6,KW Richardson,Sydney Thunder,field,Adelaide Strikers,51,51,unknown,unknown,Sydney Thunder,Adelaide Strikers
+unknown,T20,2012/13,Docklands Stadium,Melbourne,2012-12-22,male,20,6,BCJ Cutting,Brisbane Heat,bat,Melbourne Renegades,6,6,unknown,unknown,Melbourne Renegades,Brisbane Heat
+unknown,T20,2012/13,Adelaide Oval,unknown,2012-12-23,male,20,6,TP Ludeman,Sydney Sixers,bat,Adelaide Strikers,9,9,unknown,unknown,Adelaide Strikers,Sydney Sixers
+unknown,T20,2012/13,Sydney Cricket Ground,unknown,2012-12-26,male,20,6,RT Ponting,Hobart Hurricanes,field,Hobart Hurricanes,7,7,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+unknown,T20,2012/13,Adelaide Oval,unknown,2012-12-27,male,20,6,BJ Hodge,Melbourne Stars,bat,Melbourne Stars,8,8,unknown,unknown,Adelaide Strikers,Melbourne Stars
+unknown,T20,2012/13,Stadium Australia,Sydney,2012-12-28,male,20,6,DT Christian,Sydney Thunder,bat,Brisbane Heat,5,5,unknown,unknown,Sydney Thunder,Brisbane Heat
+unknown,T20,2012/13,Western Australia Cricket Association Ground,Perth,2012-12-29,male,20,6,SE Marsh,Melbourne Renegades,field,Perth Scorchers,51,51,unknown,unknown,Perth Scorchers,Melbourne Renegades
+unknown,T20,2012/13,Stadium Australia,Sydney,2012-12-30,male,20,6,DP Hughes,Sydney Thunder,bat,Sydney Sixers,4,4,unknown,unknown,Sydney Thunder,Sydney Sixers
+unknown,T20,2012/13,Docklands Stadium,Melbourne,2013-01-02,male,20,6,M Muralitharan,Adelaide Strikers,field,Melbourne Renegades,48,48,unknown,unknown,Melbourne Renegades,Adelaide Strikers
+unknown,T20,2012/13,Western Australia Cricket Association Ground,Perth,2013-01-04,male,20,6,JP Behrendorff,Sydney Thunder,bat,Perth Scorchers,9,9,unknown,unknown,Perth Scorchers,Sydney Thunder
+unknown,T20,2012/13,Melbourne Cricket Ground,unknown,2013-01-06,male,20,6,AJ Finch,Melbourne Stars,bat,Melbourne Renegades,9,9,unknown,unknown,Melbourne Stars,Melbourne Renegades
+unknown,T20,2012/13,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2013-01-07,male,20,6,MJ Lumb,Brisbane Heat,bat,Sydney Sixers,5,5,unknown,unknown,Brisbane Heat,Sydney Sixers
+unknown,T20,2012/13,Melbourne Cricket Ground,unknown,2013-01-08,male,20,6,CH Gayle,Melbourne Stars,bat,Melbourne Stars,13,13,unknown,unknown,Melbourne Stars,Sydney Thunder
+unknown,T20,2012/13,Adelaide Oval,unknown,2013-01-10,male,20,6,SE Marsh,Perth Scorchers,bat,Perth Scorchers,98,98,unknown,unknown,Adelaide Strikers,Perth Scorchers
+unknown,T20,2012/13,Docklands Stadium,Melbourne,2013-01-15,male,20,6,LA Pomersbach,Brisbane Heat,bat,Brisbane Heat,15,15,unknown,unknown,Melbourne Renegades,Brisbane Heat
+unknown,T20,2012/13,Western Australia Cricket Association Ground,Perth,2013-01-16,male,20,6,SE Marsh,Perth Scorchers,field,Perth Scorchers,8,8,unknown,unknown,Perth Scorchers,Melbourne Stars
+unknown,T20,2012/13,Western Australia Cricket Association Ground,Perth,2013-01-19,male,20,6,NM Hauritz,Brisbane Heat,bat,Brisbane Heat,34,34,unknown,unknown,Perth Scorchers,Brisbane Heat
+unknown,T20,2013/14,Melbourne Cricket Ground,unknown,2013-12-20,male,20,6,LJ Wright,Melbourne Renegades,field,Melbourne Stars,76,76,unknown,unknown,Melbourne Stars,Melbourne Renegades
+unknown,T20,2013/14,Sydney Cricket Ground,unknown,2013-12-21,male,20,6,NJ Maddinson,Sydney Sixers,field,Sydney Sixers,6,6,unknown,unknown,Sydney Sixers,Sydney Thunder
+unknown,T20,2013/14,Bellerive Oval,Hobart,2013-12-22,male,20,6,,Hobart Hurricanes,field,unknown,unknown,0,unknown,unknown,Hobart Hurricanes,Adelaide Strikers
+unknown,T20,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2013-12-22,male,20,6,CA Lynn,Perth Scorchers,bat,Brisbane Heat,3,3,unknown,unknown,Brisbane Heat,Perth Scorchers
+unknown,T20,2013/14,Western Australia Cricket Association Ground,Perth,2013-12-26,male,20,6,Yasir Arafat,Perth Scorchers,bat,Perth Scorchers,6,6,unknown,unknown,Perth Scorchers,Melbourne Renegades
+unknown,T20,2013/14,Stadium Australia,Sydney,2013-12-27,male,20,6,MEK Hussey,Sydney Thunder,field,Adelaide Strikers,6,6,unknown,unknown,Sydney Thunder,Adelaide Strikers
+unknown,T20,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2013-12-28,male,20,6,BR Dunk,Brisbane Heat,bat,Hobart Hurricanes,3,3,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+unknown,T20,2013/14,Sydney Cricket Ground,unknown,2013-12-29,male,20,6,GJ Maxwell,Sydney Sixers,field,Melbourne Stars,77,77,unknown,unknown,Sydney Sixers,Melbourne Stars
+unknown,T20,2013/14,Docklands Stadium,Melbourne,2013-12-30,male,20,6,AJ Finch,Melbourne Renegades,bat,Melbourne Renegades,57,57,unknown,unknown,Melbourne Renegades,Brisbane Heat
+unknown,T20,2013/14,Bellerive Oval,Hobart,2014-01-01,male,20,6,JL Pattinson,Melbourne Renegades,bat,Melbourne Renegades,51,51,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+unknown,T20,2013/14,Stadium Australia,Sydney,2014-01-01,male,20,6,BJ Hodge,Sydney Thunder,bat,Melbourne Stars,7,7,unknown,unknown,Sydney Thunder,Melbourne Stars
+unknown,T20,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2014-01-02,male,20,6,B Lee,Brisbane Heat,field,Sydney Sixers,4,4,unknown,unknown,Brisbane Heat,Sydney Sixers
+unknown,T20,2013/14,Western Australia Cricket Association Ground,Perth,2014-01-03,male,20,6,SM Katich,Sydney Thunder,bat,Perth Scorchers,6,6,unknown,unknown,Perth Scorchers,Sydney Thunder
+unknown,T20,2013/14,Docklands Stadium,Melbourne,2014-01-04,male,20,6,CL White,Melbourne Renegades,bat,Melbourne Stars,9,9,unknown,unknown,Melbourne Renegades,Melbourne Stars
+unknown,T20,2013/14,Adelaide Oval,unknown,2014-01-05,male,20,6,MJ Lumb,Adelaide Strikers,bat,Sydney Sixers,6,6,unknown,unknown,Adelaide Strikers,Sydney Sixers
+unknown,T20,2013/14,Western Australia Cricket Association Ground,Perth,2014-01-07,male,20,6,NM Coulter-Nile,Perth Scorchers,bat,Perth Scorchers,6,6,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+unknown,T20,2013/14,Stadium Australia,Sydney,2014-01-08,male,20,6,CA Lynn,Brisbane Heat,bat,Brisbane Heat,48,48,unknown,unknown,Sydney Thunder,Brisbane Heat
+unknown,T20,2013/14,Melbourne Cricket Ground,unknown,2014-01-09,male,20,6,JP Faulkner,Adelaide Strikers,bat,Melbourne Stars,8,8,unknown,unknown,Melbourne Stars,Adelaide Strikers
+unknown,T20,2013/14,Sydney Cricket Ground,unknown,2014-01-10,male,20,6,Yasir Arafat,Perth Scorchers,bat,unknown,unknown,0,unknown,unknown,Sydney Sixers,Perth Scorchers
+unknown,T20,2013/14,Bellerive Oval,Hobart,2014-01-11,male,20,6,BR Dunk,Hobart Hurricanes,bat,Hobart Hurricanes,73,73,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+unknown,T20,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2014-01-11,male,20,6,LJ Wright,Brisbane Heat,bat,Melbourne Stars,3,3,unknown,unknown,Brisbane Heat,Melbourne Stars
+unknown,T20,2013/14,Docklands Stadium,Melbourne,2014-01-14,male,20,6,GS Sandhu,Melbourne Renegades,bat,Sydney Thunder,9,9,unknown,unknown,Melbourne Renegades,Sydney Thunder
+unknown,T20,2013/14,Sydney Cricket Ground,unknown,2014-01-15,male,20,6,SPD Smith,Sydney Sixers,bat,Sydney Sixers,7,7,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+unknown,T20,2013/14,Western Australia Cricket Association Ground,Perth,2014-01-16,male,20,6,CJ Simmons,Perth Scorchers,bat,Perth Scorchers,5,5,unknown,unknown,Perth Scorchers,Adelaide Strikers
+unknown,T20,2013/14,Adelaide Oval,unknown,2014-01-18,male,20,6,DL Vettori,Brisbane Heat,bat,Brisbane Heat,32,32,unknown,unknown,Adelaide Strikers,Brisbane Heat
+unknown,T20,2013/14,Docklands Stadium,Melbourne,2014-01-18,male,20,6,MC Henriques,Melbourne Renegades,field,Sydney Sixers,2,2,unknown,unknown,Melbourne Renegades,Sydney Sixers
+unknown,T20,2013/14,Melbourne Cricket Ground,unknown,2014-01-21,male,20,6,LJ Wright,Melbourne Stars,field,Melbourne Stars,5,5,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+unknown,T20,2013/14,Adelaide Oval,unknown,2014-01-22,male,20,6,DJ Bravo,Melbourne Renegades,bat,Melbourne Renegades,1,1,unknown,unknown,Adelaide Strikers,Melbourne Renegades
+unknown,T20,2013/14,Bellerive Oval,Hobart,2014-01-23,male,20,6,BR Dunk,Hobart Hurricanes,bat,Hobart Hurricanes,40,40,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+unknown,T20,2013/14,Stadium Australia,Sydney,2014-01-25,male,20,6,NM Lyon,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Sydney Thunder,Sydney Sixers
+unknown,T20,2013/14,Melbourne Cricket Ground,unknown,2014-01-27,male,20,6,JW Hastings,Melbourne Stars,bat,Melbourne Stars,20,20,unknown,unknown,Melbourne Stars,Perth Scorchers
+unknown,T20,2013/14,Melbourne Cricket Ground,unknown,2014-02-04,male,20,6,CJ Boyce,Melbourne Stars,bat,Hobart Hurricanes,7,7,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+unknown,T20,2013/14,Sydney Cricket Ground,unknown,2014-02-05,male,20,6,CJ Simmons,Sydney Sixers,field,Perth Scorchers,5,5,unknown,unknown,Sydney Sixers,Perth Scorchers
+unknown,T20,2013/14,Western Australia Cricket Association Ground,Perth,2014-02-07,male,20,6,GB Hogg,Perth Scorchers,bat,Perth Scorchers,39,39,unknown,unknown,Perth Scorchers,Hobart Hurricanes
+unknown,T20,2014/15,Adelaide Oval,unknown,2014-12-18,male,20,6,TP Ludeman,Melbourne Stars,bat,Adelaide Strikers,8,8,unknown,unknown,Adelaide Strikers,Melbourne Stars
+unknown,T20,2014/15,Sydney Cricket Ground,unknown,2014-12-19,male,20,6,NJ Maddinson,Sydney Sixers,field,Sydney Sixers,8,8,unknown,unknown,Sydney Sixers,Melbourne Renegades
+unknown,T20,2014/15,Melbourne Cricket Ground,unknown,2014-12-20,male,20,6,DJG Sammy,Melbourne Stars,field,Hobart Hurricanes,52,52,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+unknown,T20,2014/15,Stadium Australia,Sydney,2014-12-21,male,20,6,JH Kallis,Brisbane Heat,field,Sydney Thunder,56,56,unknown,unknown,Sydney Thunder,Brisbane Heat
+unknown,T20,2014/15,Western Australia Cricket Association Ground,Perth,2014-12-22,male,20,6,JP Behrendorff,Perth Scorchers,bat,Adelaide Strikers,1,1,unknown,unknown,Perth Scorchers,Adelaide Strikers
+unknown,T20,2014/15,Bellerive Oval,Hobart,2014-12-23,male,20,6,MC Henriques,Hobart Hurricanes,bat,Sydney Sixers,7,7,unknown,unknown,Hobart Hurricanes,Sydney Sixers
+unknown,T20,2014/15,Western Australia Cricket Association Ground,Perth,2014-12-26,male,20,6,M Klinger,Perth Scorchers,bat,Perth Scorchers,35,35,unknown,unknown,Perth Scorchers,Melbourne Renegades
+unknown,T20,2014/15,Stadium Australia,Sydney,2014-12-27,male,20,6,AC Blizzard,Sydney Thunder,field,Sydney Sixers,16,16,unknown,unknown,Sydney Thunder,Sydney Sixers
+unknown,T20,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2014-12-28,male,20,6,RM Duffield,Melbourne Stars,field,Brisbane Heat,1,1,unknown,unknown,Brisbane Heat,Melbourne Stars
+unknown,T20,2014/15,Sydney Cricket Ground,unknown,2014-12-29,male,20,6,AJ Tye,Perth Scorchers,bat,Perth Scorchers,36,36,unknown,unknown,Sydney Sixers,Perth Scorchers
+unknown,T20,2014/15,Docklands Stadium,Melbourne,2014-12-30,male,20,6,JL Pattinson,Melbourne Renegades,field,Melbourne Renegades,8,8,unknown,unknown,Melbourne Renegades,Sydney Thunder
+unknown,T20,2014/15,Adelaide Oval,unknown,2014-12-31,male,20,6,TP Ludeman,Hobart Hurricanes,bat,Adelaide Strikers,8,8,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+unknown,T20,2014/15,Western Australia Cricket Association Ground,Perth,2015-01-01,male,20,6,JH Kallis,Sydney Thunder,bat,Sydney Thunder,20,20,unknown,unknown,Perth Scorchers,Sydney Thunder
+unknown,T20,2014/15,Bellerive Oval,Hobart,2015-01-02,male,20,6,TD Paine,Hobart Hurricanes,field,Hobart Hurricanes,6,6,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+unknown,T20,2014/15,Docklands Stadium,Melbourne,2015-01-03,male,20,6,MA Beer,Melbourne Renegades,field,Melbourne Stars,112,112,unknown,unknown,Melbourne Renegades,Melbourne Stars
+unknown,T20,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-01-04,male,20,6,TM Head,Adelaide Strikers,field,Adelaide Strikers,5,5,unknown,unknown,Brisbane Heat,Adelaide Strikers
+unknown,T20,2014/15,Melbourne Cricket Ground,unknown,2015-01-05,male,20,6,JP Faulkner,Melbourne Stars,field,unknown,unknown,0,unknown,unknown,Melbourne Stars,Sydney Sixers
+unknown,T20,2014/15,Adelaide Oval,unknown,2015-01-06,male,20,6,GB Hogg,Adelaide Strikers,field,Perth Scorchers,18,18,unknown,unknown,Adelaide Strikers,Perth Scorchers
+unknown,T20,2014/15,Western Australia Cricket Association Ground,Perth,2015-01-08,male,20,6,MA Carberry,Brisbane Heat,bat,Perth Scorchers,8,8,unknown,unknown,Perth Scorchers,Brisbane Heat
+unknown,T20,2014/15,Sydney Cricket Ground,unknown,2015-01-22,male,20,6,JC Silk,Sydney Sixers,field,Sydney Sixers,4,4,unknown,unknown,Sydney Sixers,Sydney Thunder
+unknown,T20,2014/15,Melbourne Cricket Ground,unknown,2015-01-10,male,20,6,GJ Maxwell,Melbourne Renegades,bat,Melbourne Stars,3,3,unknown,unknown,Melbourne Stars,Melbourne Renegades
+unknown,T20,2014/15,Bellerive Oval,Hobart,2015-01-11,male,20,6,JP Behrendorff,Perth Scorchers,bat,Perth Scorchers,18,18,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+unknown,T20,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-01-11,male,20,6,DE Bollinger,Sydney Sixers,field,Sydney Sixers,6,6,unknown,unknown,Brisbane Heat,Sydney Sixers
+unknown,T20,2014/15,Adelaide Oval,unknown,2015-01-12,male,20,6,,Sydney Thunder,field,unknown,unknown,0,unknown,unknown,Adelaide Strikers,Sydney Thunder
+unknown,T20,2014/15,Docklands Stadium,Melbourne,2015-01-13,male,20,6,Shakib Al Hasan,Melbourne Renegades,field,Melbourne Renegades,5,5,unknown,unknown,Melbourne Renegades,Brisbane Heat
+unknown,T20,2014/15,Sydney Cricket Ground,unknown,2015-01-14,male,20,6,J Botha,Adelaide Strikers,bat,Adelaide Strikers,23,23,unknown,unknown,Sydney Sixers,Adelaide Strikers
+unknown,T20,2014/15,Bellerive Oval,Hobart,2015-01-07,male,20,6,BA Stokes,Hobart Hurricanes,field,Melbourne Renegades,37,37,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+unknown,T20,2014/15,Sydney Showground Stadium,unknown,2015-01-17,male,20,6,KP Pietersen,Melbourne Stars,field,Melbourne Stars,8,8,unknown,unknown,Sydney Thunder,Melbourne Stars
+unknown,T20,2014/15,Docklands Stadium,Melbourne,2015-01-19,male,20,6,TM Head,Adelaide Strikers,bat,Adelaide Strikers,22,22,unknown,unknown,Melbourne Renegades,Adelaide Strikers
+unknown,T20,2014/15,Melbourne Cricket Ground,unknown,2015-01-21,male,20,6,PSP Handscomb,Perth Scorchers,bat,Melbourne Stars,3,3,unknown,unknown,Melbourne Stars,Perth Scorchers
+unknown,T20,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-01-15,male,20,6,CA Lynn,Hobart Hurricanes,field,Brisbane Heat,18,18,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+unknown,T20,2014/15,Adelaide Oval,unknown,2015-01-24,male,20,6,NJ Maddinson,Sydney Sixers,bat,Sydney Sixers,87,87,unknown,unknown,Adelaide Strikers,Sydney Sixers
+unknown,T20,2014/15,Western Australia Cricket Association Ground,Perth,2015-01-25,male,20,6,AJ Tye,Perth Scorchers,bat,Perth Scorchers,18,18,unknown,unknown,Perth Scorchers,Melbourne Stars
+unknown,T20,2014/15,Manuka Oval,Canberra,2015-01-28,male,20,6,SE Marsh,Sydney Sixers,bat,Perth Scorchers,4,4,unknown,unknown,Perth Scorchers,Sydney Sixers
+2,T20,2015/16,Adelaide Oval,unknown,2015-12-18,male,20,6,AI Ross,Melbourne Stars,field,Adelaide Strikers,19,19,unknown,unknown,Adelaide Strikers,Melbourne Stars
+3,T20,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-12-19,male,20,6,AJ Finch,Brisbane Heat,bat,Melbourne Renegades,7,7,unknown,unknown,Brisbane Heat,Melbourne Renegades
+4,T20,2015/16,Sydney Cricket Ground,unknown,2015-12-20,male,20,6,BJ Haddin,Sydney Sixers,bat,Sydney Sixers,95,95,unknown,unknown,Sydney Sixers,Hobart Hurricanes
+6,T20,2015/16,Western Australia Cricket Association Ground,Perth,2015-12-21,male,20,6,AU Rashid,Perth Scorchers,bat,Adelaide Strikers,4,4,unknown,unknown,Perth Scorchers,Adelaide Strikers
+7,T20,2015/16,Bellerive Oval,Hobart,2015-12-22,male,20,6,TD Paine,Hobart Hurricanes,bat,Hobart Hurricanes,20,20,unknown,unknown,Hobart Hurricanes,Brisbane Heat
+8,T20,2015/16,Docklands Stadium,Melbourne,2015-12-23,male,20,6,MJ Lumb,Sydney Sixers,field,Sydney Sixers,3,3,unknown,unknown,Melbourne Renegades,Sydney Sixers
+9,T20,2015/16,Western Australia Cricket Association Ground,Perth,2015-12-26,male,20,6,DJ Willey,Brisbane Heat,bat,Perth Scorchers,9,9,unknown,unknown,Perth Scorchers,Brisbane Heat
+10,T20,2015/16,Sydney Cricket Ground,unknown,2015-12-27,male,20,6,GJ Maxwell,Sydney Sixers,bat,Melbourne Stars,5,5,unknown,unknown,Sydney Sixers,Melbourne Stars
+11,T20,2015/16,Sydney Showground Stadium,unknown,2015-12-28,male,20,6,JH Kallis,Adelaide Strikers,bat,Sydney Thunder,7,7,unknown,unknown,Sydney Thunder,Adelaide Strikers
+12,T20,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-12-29,male,20,6,CA Lynn,Hobart Hurricanes,bat,Hobart Hurricanes,15,15,unknown,unknown,Brisbane Heat,Hobart Hurricanes
+13,T20,2015/16,Docklands Stadium,Melbourne,2015-12-30,male,20,6,M Klinger,Perth Scorchers,field,Perth Scorchers,10,10,unknown,unknown,Melbourne Renegades,Perth Scorchers
+14,T20,2015/16,Adelaide Oval,unknown,2015-12-31,male,20,6,TM Head,Adelaide Strikers,field,Adelaide Strikers,5,5,unknown,unknown,Adelaide Strikers,Sydney Sixers
+15,T20,2015/16,Bellerive Oval,Hobart,2016-01-01,male,20,6,SW Tait,Sydney Thunder,field,Hobart Hurricanes,11,11,unknown,unknown,Hobart Hurricanes,Sydney Thunder
+16,T20,2015/16,Melbourne Cricket Ground,unknown,2016-01-02,male,20,6,LJ Wright,Melbourne Stars,field,Melbourne Stars,7,7,unknown,unknown,Melbourne Stars,Melbourne Renegades
+17,T20,2015/16,Western Australia Cricket Association Ground,Perth,2016-01-02,male,20,6,DJ Willey,Sydney Sixers,bat,Perth Scorchers,9,9,unknown,unknown,Perth Scorchers,Sydney Sixers
+18,T20,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2016-01-03,male,20,6,CA Lynn,Brisbane Heat,field,Brisbane Heat,6,6,unknown,unknown,Brisbane Heat,Sydney Thunder
+19,T20,2015/16,Bellerive Oval,Hobart,2016-01-04,male,20,6,CP Tremain,Melbourne Renegades,field,Melbourne Renegades,5,5,unknown,unknown,Hobart Hurricanes,Melbourne Renegades
+20,T20,2015/16,Adelaide Oval,unknown,2016-01-05,male,20,6,TM Head,Adelaide Strikers,bat,Adelaide Strikers,36,36,unknown,unknown,Adelaide Strikers,Perth Scorchers
+21,T20,2015/16,Melbourne Cricket Ground,unknown,2016-01-06,male,20,6,GJ Maxwell,Melbourne Stars,field,Melbourne Stars,8,8,unknown,unknown,Melbourne Stars,Hobart Hurricanes
+22,T20,2015/16,Sydney Showground Stadium,unknown,2016-01-07,male,20,6,CT Bancroft,Sydney Thunder,field,Perth Scorchers,30,30,unknown,unknown,Sydney Thunder,Perth Scorchers
+23,T20,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2016-01-08,male,20,6,DPMD Jayawardene,Adelaide Strikers,field,Adelaide Strikers,8,8,unknown,unknown,Brisbane Heat,Adelaide Strikers
+24,T20,2015/16,Docklands Stadium,Melbourne,2016-01-09,male,20,6,MP Stoinis,Melbourne Stars,field,Melbourne Stars,8,8,unknown,unknown,Melbourne Renegades,Melbourne Stars
+25,T20,2015/16,Bellerive Oval,Hobart,2016-01-10,male,20,6,MA Carberry,Perth Scorchers,bat,Perth Scorchers,1,1,unknown,unknown,Hobart Hurricanes,Perth Scorchers
+26,T20,2015/16,Sydney Cricket Ground,unknown,2016-01-10,male,20,6,JA Burns,Brisbane Heat,bat,Brisbane Heat,6,6,unknown,unknown,Sydney Sixers,Brisbane Heat
+27,T20,2015/16,Sydney Showground Stadium,unknown,2016-01-11,male,20,6,CL White,Sydney Thunder,bat,Melbourne Renegades,5,5,unknown,unknown,Sydney Thunder,Melbourne Renegades
+28,T20,2015/16,Adelaide Oval,unknown,2016-01-13,male,20,6,AU Rashid,Hobart Hurricanes,bat,Adelaide Strikers,6,6,unknown,unknown,Adelaide Strikers,Hobart Hurricanes
+29,T20,2015/16,Melbourne Cricket Ground,unknown,2016-01-14,male,20,6,S Badree,Melbourne Stars,field,Brisbane Heat,56,56,unknown,unknown,Melbourne Stars,Brisbane Heat
+30,T20,2015/16,Sydney Cricket Ground,unknown,2016-01-16,male,20,6,SR Watson,Sydney Sixers,field,Sydney Thunder,46,46,unknown,unknown,Sydney Sixers,Sydney Thunder
+32,T20,2015/16,Docklands Stadium,Melbourne,2016-01-18,male,20,6,TM Head,Melbourne Renegades,field,Adelaide Strikers,27,27,unknown,unknown,Melbourne Renegades,Adelaide Strikers
+unknown,T20,2015/16,Adelaide Oval,unknown,2016-01-21,male,20,6,UT Khawaja,Adelaide Strikers,bat,Sydney Thunder,8,8,unknown,unknown,Adelaide Strikers,Sydney Thunder
+unknown,T20,2015/16,Melbourne Cricket Ground,unknown,2016-01-22,male,20,6,KP Pietersen,Melbourne Stars,field,Melbourne Stars,7,7,unknown,unknown,Melbourne Stars,Perth Scorchers
+unknown,T20,2015/16,Melbourne Cricket Ground,unknown,2016-01-24,male,20,6,UT Khawaja,Sydney Thunder,field,Sydney Thunder,3,3,unknown,unknown,Melbourne Stars,Sydney Thunder

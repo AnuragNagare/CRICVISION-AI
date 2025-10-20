@@ -1,0 +1,835 @@
+{
+  "apikey": "da998a01-9b16-49af-8c6c-d8a26aef1181",
+  "data": [
+    {
+      "id": "2247f80a-1b03-43c7-8485-6520877cac0d",
+      "name": "Pakistan vs South Africa, 3rd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Iqbal Stadium, Faisalabad",
+      "date": "2025-11-08",
+      "dateTimeGMT": "2025-11-08T09:00:00",
+      "teams": [
+        "Pakistan",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "443c306d-3407-43e9-9169-3d262a25b1a5",
+      "name": "Pakistan vs South Africa, 2nd ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Iqbal Stadium, Faisalabad",
+      "date": "2025-11-06",
+      "dateTimeGMT": "2025-11-06T09:00:00",
+      "teams": [
+        "Pakistan",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "5e420e75-a647-4c6f-8f0f-41ce7a4c390c",
+      "name": "Pakistan vs South Africa, 1st ODI",
+      "matchType": "odi",
+      "status": "Match not started",
+      "venue": "Iqbal Stadium, Faisalabad",
+      "date": "2025-11-04",
+      "dateTimeGMT": "2025-11-04T09:00:00",
+      "teams": [
+        "Pakistan",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "169a542a-4019-4f35-9c43-f29348dfe524",
+      "name": "Pakistan vs South Africa, 3rd T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2025-11-01",
+      "dateTimeGMT": "2025-11-01T15:00:00",
+      "teams": [
+        "Pakistan",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "8c45c0d5-952c-4e29-b6ab-075a43d80691",
+      "name": "Pakistan vs South Africa, 2nd T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2025-10-31",
+      "dateTimeGMT": "2025-10-31T15:00:00",
+      "teams": [
+        "Pakistan",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "61a6cbc8-5d42-483e-94b0-e2088e823f56",
+      "name": "Pakistan vs South Africa, 1st T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "date": "2025-10-28",
+      "dateTimeGMT": "2025-10-28T15:00:00",
+      "teams": [
+        "Pakistan",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "e35f8bd6-36f8-4cf4-b736-6a74fa5cf34c",
+      "name": "Pakistan vs South Africa, 2nd Test",
+      "matchType": "test",
+      "status": "Match not started",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "date": "2025-10-20",
+      "dateTimeGMT": "2025-10-20T04:30:00",
+      "teams": [
+        "Pakistan",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "3453d2fc-101c-4c9d-8a68-543e935b7e0d",
+      "name": "Norway Women vs Bulgaria Women, 10th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-12",
+      "dateTimeGMT": "2025-10-12T11:00:00",
+      "teams": [
+        "Norway Women",
+        "Bulgaria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Norway Women",
+          "shortname": "NOR-W",
+          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "192a323e-5bce-4bbf-afcf-4c86e486b164",
+      "name": "Pakistan vs South Africa, 1st Test",
+      "matchType": "test",
+      "status": "Match not started",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2025-10-12",
+      "dateTimeGMT": "2025-10-12T04:30:00",
+      "teams": [
+        "Pakistan",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "982c91a4-aebc-4ef1-9d56-69eaa4726163",
+      "name": "Austria Women vs Norway Women, 9th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-12",
+      "dateTimeGMT": "2025-10-12T07:00:00",
+      "teams": [
+        "Austria Women",
+        "Norway Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria Women",
+          "shortname": "AUTW",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Norway Women",
+          "shortname": "NOR-W",
+          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "84122029-e49c-4877-8ab1-6befbaa36b67",
+      "name": "Norway Women vs Romania Women, 8th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "TBC, TBC",
+      "date": "2025-10-11",
+      "dateTimeGMT": "2025-10-11T12:15:00",
+      "teams": [
+        "Norway Women",
+        "Romania Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Norway Women",
+          "shortname": "NOR-W",
+          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
+        },
+        {
+          "name": "Romania Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "0e2d77b5-efca-4d39-9d52-219f91b833f2",
+      "name": "Bulgaria Women vs Austria Women, 7th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-11",
+      "dateTimeGMT": "2025-10-11T08:45:00",
+      "teams": [
+        "Bulgaria Women",
+        "Austria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria Women",
+          "shortname": "AUTW",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "3c14544a-8f28-4e6a-8db7-4f52c49f241c",
+      "name": "Turkey Women vs Norway Women, 6th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-11",
+      "dateTimeGMT": "2025-10-11T05:15:00",
+      "teams": [
+        "Turkey Women",
+        "Norway Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Norway Women",
+          "shortname": "NOR-W",
+          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
+        },
+        {
+          "name": "Turkey Women",
+          "shortname": "TKW",
+          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "e2529744-6c5f-4870-b989-c6888cac3b5f",
+      "name": "Bulgaria Women vs Romania Women, 5th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-10",
+      "dateTimeGMT": "2025-10-10T12:15:00",
+      "teams": [
+        "Bulgaria Women",
+        "Romania Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Romania Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "2acc2d42-77be-4af1-a970-a4773740e547",
+      "name": "Romania Women vs Turkey Women, 4th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-10",
+      "dateTimeGMT": "2025-10-10T08:45:00",
+      "teams": [
+        "Romania Women",
+        "Turkey Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Romania Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        },
+        {
+          "name": "Turkey Women",
+          "shortname": "TKW",
+          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "51c2e5bf-cd47-4889-9eed-2811c64251ab",
+      "name": "Austria Women vs Turkey Women, 3rd Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-10",
+      "dateTimeGMT": "2025-10-10T05:15:00",
+      "teams": [
+        "Austria Women",
+        "Turkey Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria Women",
+          "shortname": "AUTW",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Turkey Women",
+          "shortname": "TKW",
+          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "5093c439-f53d-434a-a22a-733a503460a0",
+      "name": "Turkey Women vs Bulgaria Women, 2nd Match",
+      "matchType": "t20",
+      "status": "Turkey Women won by 56 runs",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T11:00:00",
+      "teams": [
+        "Turkey Women",
+        "Bulgaria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Turkey Women",
+          "shortname": "TKW",
+          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Turkey Women Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 7,
+          "o": 20,
+          "inning": "Bulgaria Women Inning 1"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d4250fff-457d-472f-94ca-80ccf1319d94",
+      "name": "Romania Women vs Austria Women, 1st Match",
+      "matchType": "t20",
+      "status": "Romania Women won by 5 runs (Match reduced to 10 overs per side due to rain)",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2025-10-09",
+      "dateTimeGMT": "2025-10-09T07:00:00",
+      "teams": [
+        "Romania Women",
+        "Austria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria Women",
+          "shortname": "AUTW",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Romania Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 108,
+          "w": 2,
+          "o": 10,
+          "inning": "Romania Women Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 0,
+          "o": 10,
+          "inning": "Austria Women Inning 1"
+        }
+      ],
+      "series_id": "13063255-6ad9-4872-a443-54e74443db46",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ea356853-c981-4b36-b137-3044ae10fdea",
+      "name": "Cyprus vs Bulgaria, 2nd T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2025-11-03",
+      "dateTimeGMT": "2025-11-03T11:15:00",
+      "teams": [
+        "Cyprus",
+        "Bulgaria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria",
+          "shortname": "BUL",
+          "img": "https://g.cricapi.com/iapi/591-637873698362294760.webp?w=48"
+        },
+        {
+          "name": "Cyprus",
+          "shortname": "CYP",
+          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
+        }
+      ],
+      "series_id": "d4304cc2-dc6a-402b-a4b4-eb825a5cf8fe",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "4d029da6-07ce-4012-9846-7d6c78a04d56",
+      "name": "Cyprus vs Bulgaria, 1st T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2025-11-03",
+      "dateTimeGMT": "2025-11-03T07:00:00",
+      "teams": [
+        "Cyprus",
+        "Bulgaria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria",
+          "shortname": "BUL",
+          "img": "https://g.cricapi.com/iapi/591-637873698362294760.webp?w=48"
+        },
+        {
+          "name": "Cyprus",
+          "shortname": "CYP",
+          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
+        }
+      ],
+      "series_id": "d4304cc2-dc6a-402b-a4b4-eb825a5cf8fe",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "30b1e132-2b9a-4c6d-b74b-768555d8c74e",
+      "name": "Malaysia Women vs Nepal Women, 5th T20I",
+      "matchType": "t20",
+      "status": "Nepal Women won by 5 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2025-10-08",
+      "dateTimeGMT": "2025-10-08T02:00:00",
+      "teams": [
+        "Malaysia Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 103,
+          "w": 7,
+          "o": 20,
+          "inning": "Malaysia Women Inning 1"
+        },
+        {
+          "r": 104,
+          "w": 5,
+          "o": 18,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "acef9e0b-51d6-4a28-b0ef-810dfe6100c8",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "36cba622-0c5a-43c7-af53-8d18bcd86656",
+      "name": "Cyprus vs Bulgaria, 6th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2025-11-02",
+      "dateTimeGMT": "2025-11-02T11:05:00",
+      "teams": [
+        "Cyprus",
+        "Bulgaria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria",
+          "shortname": "BUL",
+          "img": "https://g.cricapi.com/iapi/591-637873698362294760.webp?w=48"
+        },
+        {
+          "name": "Cyprus",
+          "shortname": "CYP",
+          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
+        }
+      ],
+      "series_id": "8c3fb525-1514-4fc4-a154-2a1228483b60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "007c37f2-390c-4ae5-bf18-1129e2cd1d91",
+      "name": "Bulgaria vs Cyprus, 5th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2025-11-02",
+      "dateTimeGMT": "2025-11-02T07:00:00",
+      "teams": [
+        "Bulgaria",
+        "Cyprus"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria",
+          "shortname": "BUL",
+          "img": "https://g.cricapi.com/iapi/591-637873698362294760.webp?w=48"
+        },
+        {
+          "name": "Cyprus",
+          "shortname": "CYP",
+          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
+        }
+      ],
+      "series_id": "8c3fb525-1514-4fc4-a154-2a1228483b60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "d97c2539-4dce-43ad-bf54-dd2e487167d3",
+      "name": "Serbia vs Bulgaria, 4th Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2025-11-01",
+      "dateTimeGMT": "2025-11-01T11:15:00",
+      "teams": [
+        "Serbia",
+        "Bulgaria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria",
+          "shortname": "BUL",
+          "img": "https://g.cricapi.com/iapi/591-637873698362294760.webp?w=48"
+        },
+        {
+          "name": "Serbia",
+          "shortname": "SRB",
+          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+        }
+      ],
+      "series_id": "8c3fb525-1514-4fc4-a154-2a1228483b60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "185a2e53-190e-4b28-b326-0f109f42364a",
+      "name": "Bulgaria vs Serbia, 3rd Match",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2025-11-01",
+      "dateTimeGMT": "2025-11-01T07:00:00",
+      "teams": [
+        "Bulgaria",
+        "Serbia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria",
+          "shortname": "BUL",
+          "img": "https://g.cricapi.com/iapi/591-637873698362294760.webp?w=48"
+        },
+        {
+          "name": "Serbia",
+          "shortname": "SRB",
+          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+        }
+      ],
+      "series_id": "8c3fb525-1514-4fc4-a154-2a1228483b60",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 2,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 21,
+    "offsetRows": 0,
+    "totalRows": 13173,
+    "queryTime": 160.7764,
+    "s": 0,
+    "cache": 0
+  }
+}
